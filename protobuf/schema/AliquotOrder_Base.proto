@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+message AliquotOrder_Base {
+  string ObjectId = 1;
+  string AliquotOrderId = 2;
+  string SpecimenOrderId = 3;
+  bool ClientAccessioned = 4;
+  string AliquotType = 5;
+  string Description = 6;
+  string Label = 7;
+  string ClientLabel = 8;
+  string LabelPrefix = 9;
+  bool GrossVerified = 10;
+  int GrossVerifiedById = 11;
+  string GrossVerifiedBy = 12;
+  int64 GrossVerifiedDate = 13;
+  bool Printed = 14;
+  string LabelType = 15;
+  string LocationId = 16;
+  string FacilityId = 17;
+  string FacilityName = 18;
+  bool Validated = 19;
+  int ValidatedById = 20;
+  string ValidatedBy = 21;
+  int64 ValidationDate = 22;
+  string Status = 23;
+  string EmbeddingInstructions = 24;
+  bool EmbeddingVerified = 25;
+  int EmbeddingVerifiedById = 26;
+  string EmbeddingVerifiedBy = 27;
+  int64 EmbeddingVerifiedDate = 28;
+}

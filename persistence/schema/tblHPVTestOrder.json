@@ -1,0 +1,38 @@
+{
+  "objectName": "HPVTestOrder",
+  "tableName": "tblHPVTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "Result",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Comment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TestInformation",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ASRComment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

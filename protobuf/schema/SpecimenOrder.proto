@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+message SpecimenOrder {
+  string ObjectId = 1;
+  string SpecimenOrderId = 2;
+  string SpecimenId = 3;
+  string SpecimenType = 4;
+  int64 CollectionDate = 5;
+  int64 CollectionTime = 6;
+  string SpecimenSite = 7;
+  string FixationType = 8;
+  int FixationDuration = 9;
+  string Description = 10;
+  int AliquotRequestCount = 11;
+  int64 AccessionTime = 12;
+  string ClientFixation = 13;
+  string LabFixation = 14;
+  bool CollectionTimeUnknown = 15;
+  string MasterAccessionNo = 16;
+  string FixationComment = 17;
+  int SpecimenNumber = 18;
+  int ClientSpecimenNumber = 19;
+  bool ClientAccessioned = 20;
+  bool Accepted = 21;
+  string SpecialInstructions = 22;
+  string ContainerId = 23;
+  bool Verified = 24;
+  int VerifiedById = 25;
+  int64 VerifiedDate = 26;
+  bool RequiresBlindVerification = 27;
+  string SystemInitiatingOrder = 28;
+  string SpecimenSource = 29;
+  int64 DateReceived = 30;
+  string SpecimenAdequacy = 31;
+  string LocationFacilityId = 32;
+  string OwnerFacilityId = 33;
+  bool RequiresGrossExamination = 34;
+  string LocationId = 35;
+  string FacilityId = 36;
+  int64 ProcessorStartTime = 37;
+  int ProcessorFixationTime = 38;
+  bool FixationStartTimeManuallyEntered = 39;
+  int64 FixationStartTime = 40;
+  int64 FixationEndTime = 41;
+  int TimeToFixation = 42;
+  string TimeToFixationHourString = 43;
+}

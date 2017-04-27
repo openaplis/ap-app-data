@@ -1,0 +1,14 @@
+{
+  "objectName": "GrossOnlyTestOrder",
+  "tableName": "tblGrossOnlyTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "GrossX",
+      "width": "-1",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

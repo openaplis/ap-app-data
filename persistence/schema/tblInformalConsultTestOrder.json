@@ -1,0 +1,22 @@
+{
+  "objectName": "InformalConsultTestOrder",
+  "tableName": "tblInformalConsultTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "Request",
+      "width": "2000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Result",
+      "width": "2000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

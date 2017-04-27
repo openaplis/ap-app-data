@@ -1,0 +1,38 @@
+{
+  "objectName": "BCL1t1114TestOrder",
+  "tableName": "tblBCL1t1114TestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "Result",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Interpretation",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Method",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ReportDisclaimer",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

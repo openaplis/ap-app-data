@@ -1,0 +1,62 @@
+{
+  "objectName": "NGCTTestOrder",
+  "tableName": "tblNGCTTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "NeisseriaGonorrhoeaeResult",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ChlamydiaTrachomatisResult",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "NGResultCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CTResultCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Comment",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Method",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TestInformation",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

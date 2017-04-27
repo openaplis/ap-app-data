@@ -1,0 +1,718 @@
+{
+  "objectName": "SVHBillingData",
+  "tableName": "tblSVHBillingData",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": true,
+      "name": "SVHBillingDataId",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DateProcessed",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "FileDate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "AccountId",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "MRN",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "AdmitDate",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DischDate",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "AcctBaseClass",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatName",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatDOB",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatSex",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatAdd1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatAdd2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatCity",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatState",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatZIP",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatHomePhone",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatSSN",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Guarantor",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarAdd1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarAdd2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarCity",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarState",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarZIP",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarHmPhone",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarSSN",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarDOB",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarEmp",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarEmpAdd1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarEmpAdd2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarEmpCity",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarEmpState",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarEmpZip",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GuarEmpPhone",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "AttendingProv",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "NPI",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX3",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX4",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX5",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX6",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX7",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX8",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX9",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DX10",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsPlan1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan1Add1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan1Add2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan1City",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan1State",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan1Zip",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan1Phone1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs1Name1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs1DOB",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs1Sex",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatRelToSubs1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsPlan2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan2Add1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan2Add2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan2City",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan2State",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan2Zip",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan2Phone",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs2Name",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs2DOB",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs2Sex",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatRelToSubs2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsPlan3",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan3",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan3Add1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan3Add2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan3City",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan3State",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan3Zip",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "BenPlan3Phone",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs3Name",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs3DOB",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Subs3Sex",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatRelToSubs3",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsPolicyID1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsPolicyID2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsPolicyID3",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsGroupID1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsGroupID2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InsGroupID3",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

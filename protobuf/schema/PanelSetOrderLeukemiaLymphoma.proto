@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+message PanelSetOrderLeukemiaLymphoma {
+  string SpecimenNumber = 1;
+  int GatingPopulation = 2;
+  string GatingPopulationV2 = 3;
+  int LymphocyteCount = 4;
+  NOT SUPPORTED GPLymphocytePrc = 5;
+  int MonocyteCount = 6;
+  int MyeloidCount = 7;
+  int DimCD45ModSSCount = 8;
+  int OtherCount = 9;
+  string OtherName = 10;
+  int LightScatter = 11;
+  NOT SUPPORTED BCellPercent = 12;
+  NOT SUPPORTED TCellPercent = 13;
+  NOT SUPPORTED NKCellPercent = 14;
+  NOT SUPPORTED MyeloidCellPercent = 15;
+  string InterpretiveComment = 16;
+  string Impression = 17;
+  int SpecimenViability = 18;
+  NOT SUPPORTED SpecimenViabilityPercent = 19;
+  string CellPopulationOfInterest = 20;
+  string TestResult = 21;
+  string CellDescription = 22;
+  string BTCellSelection = 23;
+  string KappaLambda = 24;
+  string EGateCD34Percent = 25;
+  string EGateCD117Percent = 26;
+  bool TechFinal = 27;
+  int64 TechFinalDate = 28;
+  int64 TechFinalTime = 29;
+  int TechFinaledById = 30;
+  string ReportComment = 31;
+  string TestCancelledComment = 32;
+  bool TestCancelled = 33;
+}

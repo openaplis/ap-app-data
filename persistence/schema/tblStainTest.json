@@ -1,0 +1,70 @@
+{
+  "objectName": "StainTest",
+  "tableName": "tblStainTest",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": true,
+      "name": "StainTestId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TestId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CptCode",
+      "width": "20",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CptCodeQuantity",
+      "width": "20",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ImmunoCommentId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ControlComment",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "StainType",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

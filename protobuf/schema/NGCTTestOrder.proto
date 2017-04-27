@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message NGCTTestOrder {
+  string NeisseriaGonorrhoeaeResult = 1;
+  string ChlamydiaTrachomatisResult = 2;
+  string NGResultCode = 3;
+  string CTResultCode = 4;
+  string Comment = 5;
+  string Method = 6;
+  string TestInformation = 7;
+}

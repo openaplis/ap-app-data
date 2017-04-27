@@ -1,0 +1,118 @@
+{
+  "objectName": "PanelSetOrderCPTCode",
+  "tableName": "tblPanelSetOrderCPTCode",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": true,
+      "name": "PanelSetOrderCPTCodeId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ReferenceId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ReportNo",
+      "width": "20",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClientId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Quantity",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CPTCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Modifier",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CodeableDescription",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CodeableType",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "EntryType",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecimenOrderId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PostDate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CodeType",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

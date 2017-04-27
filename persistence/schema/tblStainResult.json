@@ -1,0 +1,166 @@
+{
+  "objectName": "StainResultItem",
+  "tableName": "tblStainResultItem",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": true,
+      "name": "StainResultId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SurgicalSpecimenId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Billable",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "1",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Reportable",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "1",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TestOrderId",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Result",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ProcedureName",
+      "width": "200",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ProcedureComment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ReportComment",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ControlComment",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CptCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CptCodeQuantity",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ImmunoComment",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ImmunoCommentRptSeq",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "StainType",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "NoCharge",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderedAsDual",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "IsGraded",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClientAccessioned",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    }
+  ]
+}

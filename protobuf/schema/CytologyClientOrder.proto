@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+message CytologyClientOrder {
+  string LMP = 1;
+  bool CervixPresent = 2;
+  bool CervicalEndoCervical = 3;
+  bool Vaginal = 4;
+  bool Hysterectomy = 5;
+  bool AbnormalBleeding = 6;
+  bool BirthControl = 7;
+  bool HormoneTherapy = 8;
+  bool PreviousNormalPap = 9;
+  string PreviousNormalPapDate = 10;
+  bool PreviousAbnormalPap = 11;
+  string PreviousAbnormalPapDate = 12;
+  bool PreviousBiopsy = 13;
+  string PreviousBiopsyDate = 14;
+  bool Prenatal = 15;
+  bool Postpartum = 16;
+  bool Postmenopausal = 17;
+  string Icd9Code = 18;
+  bool ReflexHPV = 19;
+  bool RoutineHPVTesting = 20;
+  bool NGCTTesting = 21;
+  string ScreeningType = 22;
+  bool TrichomonasVaginalis = 23;
+}

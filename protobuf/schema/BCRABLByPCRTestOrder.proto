@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message BCRABLByPCRTestOrder {
+  string Result = 1;
+  string DetectedLogReduction = 2;
+  string FusionTranscriptType = 3;
+  string PercentBCRABL = 4;
+  string Interpretation = 5;
+  string Method = 6;
+}

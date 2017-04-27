@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ExtractAndHoldForMolecularTestOrder {
+  string Comment = 1;
+}

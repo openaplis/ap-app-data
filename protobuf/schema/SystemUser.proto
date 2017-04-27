@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message SystemUser {
+  int UserId = 1;
+  string FirstName = 2;
+  string LastName = 3;
+  string MiddleInitial = 4;
+  string DisplayName = 5;
+  string UserName = 6;
+  bool Active = 7;
+  string Signature = 8;
+  string Initials = 9;
+  string NationalProviderId = 10;
+  string EmailAddress = 11;
+}

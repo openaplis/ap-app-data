@@ -1,0 +1,422 @@
+{
+  "objectName": "ClientOrder",
+  "tableName": "tblClientOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": true,
+      "name": "ClientOrderId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Received",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Submitted",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderDate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderTime",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderedBy",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PFirstName",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PLastName",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PMiddleInitial",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PBirthdate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PSex",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PSSN",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SvhMedicalRecord",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SvhAccountNo",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClientId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClientName",
+      "width": "200",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClientLocationId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ProviderId",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ProviderName",
+      "width": "200",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClinicalHistory",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ReportCopyTo",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderType",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "'Routine Surgical Pathology'",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PanelSetId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Accessioned",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Validated",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CollectionDate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ExternalOrderId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "MasterAccessionNo",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderedByFirstName",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderedByLastName",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderedById",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ProviderFirstName",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ProviderLastName",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Hold",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "HoldMessage",
+      "width": "250",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "HoldBy",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Acknowledged",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "AcknowledgedById",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "AcknowledgedDate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SystemInitiatingOrder",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "LocationCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecialInstructions",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PAddress1",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PAddress2",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PCity",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PState",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PZipCode",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "UniversalServiceId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderStatus",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PatientType",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ElectronicOrderType",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

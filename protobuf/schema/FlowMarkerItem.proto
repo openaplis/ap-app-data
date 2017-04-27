@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+message FlowMarkerItem {
+  string ObjectId = 1;
+  string FlowMarkerId = 2;
+  string ReportNo = 3;
+  string Name = 4;
+  NOT SUPPORTED Percentage = 5;
+  string Intensity = 6;
+  bool Report = 7;
+  bool MarkerUsed = 8;
+  string MarkerType = 9;
+  string Interpretation = 10;
+  bool Predictive = 11;
+  int Expresses = 12;
+  int OrderFlag = 13;
+  string Result = 14;
+  int CellPopulationId = 15;
+  string CellPopulationOfInterest = 16;
+  string PanelName = 17;
+}

@@ -1,0 +1,38 @@
+{
+  "objectName": "OrderCategory",
+  "tableName": "tblOrderCategory",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": true,
+      "name": "OrderCategoryId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderCategoryName",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Priority",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "False"
+    }
+  ]
+}

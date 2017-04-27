@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+message SurgicalAudit {
+  string ObjectId = 1;
+  string SurgicalAuditId = 2;
+  string ReportNo = 3;
+  bool PapCorrelationRequired = 4;
+  bool ReportableCase = 5;
+  bool PQRIRequired = 6;
+  string AmendmentId = 7;
+  int ImmediateCorrelation = 8;
+  int PapCorrelation = 9;
+  int PQRIInstructions = 10;
+  NOT SUPPORTED ClinicalInfo = 11;
+  NOT SUPPORTED GrossX = 12;
+  NOT SUPPORTED ImmediateX = 13;
+  NOT SUPPORTED MicroscopicX = 14;
+  NOT SUPPORTED Comment = 15;
+  NOT SUPPORTED CancerSummary = 16;
+  string Status = 17;
+  string CaseType = 18;
+  NOT SUPPORTED ImmunoComment = 19;
+  string LocumPerformedForInitials = 20;
+  string AJCCStage = 21;
+  string ImmediateCorrelationComment = 22;
+  string PapCorrelationComment = 23;
+  string PapCorrelationAccessionNo = 24;
+  int PathologistId = 25;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message EGFRMutationAnalysisTestOrder {
+  string Result = 1;
+  string Mutation = 2;
+  string Indication = 3;
+  string Method = 4;
+  string Interpretation = 5;
+  string TumorNucleiPercentage = 6;
+  string Comment = 7;
+  bool MicrodissectionPerformed = 8;
+  string ReportDisclaimer = 9;
+}

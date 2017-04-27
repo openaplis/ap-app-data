@@ -1,0 +1,94 @@
+{
+  "objectName": "TestOrder_Base",
+  "tableName": "tblTestOrder_Base",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": true,
+      "name": "TestOrderId",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PanelOrderId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "AliquotOrderId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TestId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TestName",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TestAbbreviation",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Result",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Comment",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderedAsDual",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "NoCharge",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    }
+  ]
+}

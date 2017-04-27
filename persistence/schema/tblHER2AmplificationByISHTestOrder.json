@@ -1,0 +1,246 @@
+{
+  "objectName": "HER2AmplificationByISHTestOrder",
+  "tableName": "tblHER2AmplificationByISHTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "IncludeImmunoRecommendedComment",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "IncludeResultComment",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "IncludePolysomyComment",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CellsCounted",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TotalChr17SignalsCounted",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TotalHer2SignalsCounted",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Her2byIHCOrder",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "NumberOfObservers",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "2",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Result",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PolysomyPercent",
+      "width": "20",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Chr17SignalRangeLow",
+      "width": "10",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Chr17SignalRangeHigh",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Her2SignalRangeLow",
+      "width": "10",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Her2SignalRangeHigh",
+      "width": "10",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CommentLabel",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ResultDescription",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SampleAdequacy",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ProbeSignalIntensity",
+      "width": "30",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "TechComment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ResultComment",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "InterpretiveComment",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "GeneticHeterogeneity",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Her2Chr17ClusterRatio",
+      "width": "20",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ReportReference",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SourceBlock",
+      "width": "350",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Indicator",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Method",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "NotInterpretable",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ASRComment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "FixationComment",
+      "width": "5000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

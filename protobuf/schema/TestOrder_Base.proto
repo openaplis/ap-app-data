@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message TestOrder_Base {
+  string ObjectId = 1;
+  string TestOrderId = 2;
+  string PanelOrderId = 3;
+  string AliquotOrderId = 4;
+  int TestId = 5;
+  string TestName = 6;
+  string TestAbbreviation = 7;
+  string Result = 8;
+  string Comment = 9;
+  bool OrderedAsDual = 10;
+  bool NoCharge = 11;
+}

@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+message UserPreference {
+  string HostName = 1;
+  string LocationId = 2;
+  bool BarcodeScanEnabled = 3;
+  string BarcodeScanPort = 4;
+  int64 LastLocalDataUpdate = 5;
+  string LockMode = 6;
+  string ContainerLabelPrinter = 7;
+  string HistologySlideLabelPrinter = 8;
+  string CytologySlideLabelPrinter = 9;
+  string RequisitionPrinter = 10;
+  string CassettePrinter = 11;
+  string LaserCassettePrinter = 12;
+  string SpecialStainAcknowledgementPrinter = 13;
+  string StartupPage = 14;
+  string MolecularLabelPrinter = 15;
+  string MolecularLabelFormat = 16;
+  string PageScanner = 17;
+  string FacilityId = 18;
+  bool ActivateNotificationAlert = 19;
+  string AlertWaveFileName = 20;
+  string AcknowledgeTasksFor = 21;
+  string TecanImportExportPath = 22;
+  string SlideMatePrinterPath = 23;
+  string WeekdayProcessorRunId = 24;
+  string WeekendProcessorRunId = 25;
+  string CytologySlidePrinter = 26;
+  string LastReportNo = 27;
+  string ThermoFisherSlidePrinter = 28;
+  bool UseLaserCassettePrinter = 29;
+  int GPathologistId = 30;
+  string FedExLabelPrinter = 31;
+}

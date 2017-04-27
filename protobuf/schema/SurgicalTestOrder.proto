@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+message SurgicalTestOrder {
+  bool PapCorrelationRequired = 1;
+  bool ReportableCase = 2;
+  bool PQRIRequired = 3;
+  int PhysicianId = 4;
+  int ImmediateCorrelation = 5;
+  int PapCorrelation = 6;
+  int PQRIInstructions = 7;
+  NOT SUPPORTED GrossX = 8;
+  NOT SUPPORTED ImmediateX = 9;
+  NOT SUPPORTED MicroscopicX = 10;
+  NOT SUPPORTED Comment = 11;
+  NOT SUPPORTED CancerSummary = 12;
+  string Status = 13;
+  NOT SUPPORTED ImmunoComment = 14;
+  string LocumPerformedForInitials = 15;
+  string AJCCStage = 16;
+  string ImmediateCorrelationComment = 17;
+  string PapCorrelationComment = 18;
+  string PapCorrelationAccessionNo = 19;
+  bool PQRSIsIndicated = 20;
+  bool PQRSNotApplicable = 21;
+}

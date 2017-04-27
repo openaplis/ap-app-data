@@ -1,0 +1,302 @@
+{
+  "objectName": "ClientOrderDetail",
+  "tableName": "tblClientOrderDetail",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": true,
+      "name": "ClientOrderDetailId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClientOrderId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecimenId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ContainerId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecimenNumber",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Submitted",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Accessioned",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Received",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DateReceived",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Validated",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Description",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "DescriptionToAccession",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderDate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderTime",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderedBy",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderType",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecialInstructions",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Inactive",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CollectionDate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CallbackNumber",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClientFixation",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "LabFixation",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Shipped",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ShipDate",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ShipmentId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecimenNumberMatchStatus",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "'Not Determined'",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecimenDescriptionMatchStatus",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "'Not Determined'",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecimenTrackingInitiated",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "'Bedside'",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SystemInitiatingOrder",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "SpecimenSource",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderTypeCode",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "RequiresGrossExamination",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "1",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "FixationComment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "FixationStartTime",
+      "width": "3",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "FixationStartTimeManuallyEntered",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ClientAccessioned",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    }
+  ]
+}

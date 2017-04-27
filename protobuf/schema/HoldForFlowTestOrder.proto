@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HoldForFlowTestOrder {
+  string Comment = 1;
+}

@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+message MaterialTrackingLog {
+  string ObjectId = 1;
+  string MaterialTrackingLogId = 2;
+  string MaterialTrackingBatchId = 3;
+  string MaterialId = 4;
+  string MaterialType = 5;
+  string MaterialLabel = 6;
+  string MasterAccessionNo = 7;
+  string LocationId = 8;
+  string LocationName = 9;
+  string FacilityId = 10;
+  string FacilityName = 11;
+  int64 LogDate = 12;
+  int LoggedById = 13;
+  string LoggedBy = 14;
+  string Description = 15;
+  string Action = 16;
+  bool ClientAccessioned = 17;
+}

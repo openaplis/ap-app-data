@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+message Physician {
+  int PhysicianId = 1;
+  string ObjectId = 2;
+  string FirstName = 3;
+  string LastName = 4;
+  string MiddleInitial = 5;
+  string Credentials = 6;
+  bool Active = 7;
+  string Address = 8;
+  string City = 9;
+  string State = 10;
+  string Zip = 11;
+  string Phone = 12;
+  string Fax = 13;
+  bool OutsideConsult = 14;
+  bool HPVTest = 15;
+  int HPVInstructionID = 16;
+  int HPVTestToPerformID = 17;
+  string FullName = 18;
+  string HPVStandingOrderCode = 19;
+  int ReportDeliveryMethod = 20;
+  string DisplayName = 21;
+  int HomeBaseClientId = 22;
+  bool KRASBRAFStandingOrder = 23;
+  string Npi = 24;
+  string HPV1618StandingOrderCode = 25;
+  string MDFirstName = 26;
+  string MDLastName = 27;
+  bool SendPublishNotifications = 28;
+  string PublishNotificationEmailAddress = 29;
+}

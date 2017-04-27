@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message NonHodgkinsLymphomaFISHPanelTestOrder {
+  string Result = 1;
+  string Interpretation = 2;
+  string ProbeSetDetail = 3;
+  string NucleiScored = 4;
+  string ReportDisclaimer = 5;
+}

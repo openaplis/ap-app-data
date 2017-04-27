@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message PanelSetOrderCPTCodeBill {
+  string ObjectId = 1;
+  string PanelSetOrderCPTCodeBillId = 2;
+  string ReportNo = 3;
+  int ClientId = 4;
+  int Quantity = 5;
+  string CPTCode = 6;
+  string Modifier = 7;
+  int64 PostDate = 8;
+  string BillTo = 9;
+  string BillBy = 10;
+  string CodeType = 11;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message PhysicianClientDistribution {
+  string ObjectId = 1;
+  int PhysicianClientDistributionID = 2;
+  NOT SUPPORTED PhysicianClientID = 3;
+  NOT SUPPORTED DistributionID = 4;
+}

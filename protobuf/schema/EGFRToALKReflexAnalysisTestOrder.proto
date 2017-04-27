@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message EGFRToALKReflexAnalysisTestOrder {
+  string Method = 1;
+  string Interpretation = 2;
+  string TumorNucleiPercentage = 3;
+  bool QNSForALK = 4;
+  bool QNSForROS1 = 5;
+}

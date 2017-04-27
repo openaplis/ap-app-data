@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message KRASStandardReflexTestOrder {
+  string Interpretation = 1;
+  string Comment = 2;
+  string TumorNucleiPercentage = 3;
+  string Indication = 4;
+  string IndicationComment = 5;
+  string Method = 6;
+  string ReportDisclaimer = 7;
+}

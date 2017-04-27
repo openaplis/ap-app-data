@@ -1,0 +1,22 @@
+{
+  "objectName": "ReviewForAdditionalTestingTestOrder",
+  "tableName": "tblReviewForAdditionalTestingTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "Comment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Result",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

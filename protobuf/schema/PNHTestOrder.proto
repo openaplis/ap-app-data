@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message PNHTestOrder {
+  string Result = 1;
+  string Comment = 2;
+  string TypeIRedBloodCells = 3;
+  string TypeIIRedBloodCells = 4;
+  string TypeIIIRedBloodCells = 5;
+  string TypeIIMonocytes = 6;
+  string TypeIIIMonocytes = 7;
+  string TypeIIGranulocytes = 8;
+  string TypeIIIGranulocytes = 9;
+  string Method = 10;
+  string ASRComment = 11;
+}

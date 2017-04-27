@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+message IntraoperativeConsultationResult {
+  string ObjectId = 1;
+  string IntraoperativeConsultationResultId = 2;
+  string SurgicalSpecimenId = 3;
+  int64 StartDate = 4;
+  int64 EndDate = 5;
+  string TestOrderId = 6;
+  int PerformedById = 7;
+  string Result = 8;
+  string Correlation = 9;
+  string CorrelationDiscrepancyType = 10;
+  bool CorrelationAffectsPatientCare = 11;
+  string CorrelationEffectOnPatientCare = 12;
+  string CallbackContact = 13;
+  bool Final = 14;
+  int64 FinalDate = 15;
+  int64 FinalTime = 16;
+  int FinaledById = 17;
+  string FinaledBy = 18;
+}

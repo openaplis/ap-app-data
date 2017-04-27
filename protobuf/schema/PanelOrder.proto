@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+message PanelOrder {
+  string ObjectId = 1;
+  string PanelOrderId = 2;
+  string ReportNo = 3;
+  int PanelId = 4;
+  string PanelName = 5;
+  string ResultCode = 6;
+  int PanelOrderBatchId = 7;
+  bool Acknowledged = 8;
+  int64 AcknowledgedDate = 9;
+  int64 AcknowledgedTime = 10;
+  int AcceptedById = 11;
+  bool Accepted = 12;
+  int64 AcceptedDate = 13;
+  int64 AcceptedTime = 14;
+  int AcknowledgedById = 15;
+  int OrderedById = 16;
+  int64 OrderDate = 17;
+  int64 OrderTime = 18;
+  string Comment = 19;
+  int AssignedToId = 20;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TrichomonasTestOrder {
+  string Result = 1;
+  string Method = 2;
+}

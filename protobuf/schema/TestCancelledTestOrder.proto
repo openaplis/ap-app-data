@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message TestCancelledTestOrder {
+  string Comment = 1;
+  int CancelledTestId = 2;
+  string CancelledTestName = 3;
+}

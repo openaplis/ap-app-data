@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message BRAFV600EKTestOrder {
+  string Result = 1;
+  string Interpretation = 2;
+  string Comment = 3;
+  string Indication = 4;
+  string IndicationComment = 5;
+  string TumorNucleiPercentage = 6;
+  string Method = 7;
+  string ReportDisclaimer = 8;
+}

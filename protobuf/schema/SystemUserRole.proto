@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message SystemUserRole {
+  int SystemUserRoleID = 1;
+  int UserID = 2;
+  int RoleID = 3;
+}

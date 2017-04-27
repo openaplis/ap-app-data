@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+message MissingInformationTestOrder {
+  string MissingInformation = 1;
+  string CallComments = 2;
+  bool FirstCall = 3;
+  string FirstCallMadeBy = 4;
+  int64 TimeOfFirstCall = 5;
+  string FirstCallComment = 6;
+  bool SecondCall = 7;
+  string SecondCallMadeBy = 8;
+  int64 TimeOfSecondCall = 9;
+  string SecondCallComment = 10;
+  bool ThirdCall = 11;
+  string ThirdCallMadeBy = 12;
+  int64 TimeOfThirdCall = 13;
+  string ThirdCallComment = 14;
+  bool Fax = 15;
+  string FaxSentBy = 16;
+  int64 TimeFaxSent = 17;
+  bool ClientSystemLookup = 18;
+  string ClientSystemLookupBy = 19;
+  int64 TimeOfClientSystemLookup = 20;
+}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message ChromosomeAnalysisForFetalAnomalyTestOrder {
+  string Result = 1;
+  string Karyotype = 2;
+  string Interpretation = 3;
+  string Scored = 4;
+  string NumberOfColonies = 5;
+  string NumberOfCultures = 6;
+  string Karyotyped = 7;
+  string Analyzed = 8;
+  string Counted = 9;
+  string GTGBandLevel = 10;
+  string TestDetails = 11;
+}

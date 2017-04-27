@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message FactorVLeidenTestOrder {
+  string Result = 1;
+  string ResultDescription = 2;
+  string Comment = 3;
+  string Indication = 4;
+  string Interpretation = 5;
+  string Method = 6;
+  string TestDevelopment = 7;
+}

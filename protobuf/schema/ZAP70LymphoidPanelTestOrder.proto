@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message ZAP70LymphoidPanelTestOrder {
+  string Result = 1;
+  string Comment = 2;
+  string Lymphocytes = 3;
+  string PopulationAnalysis = 4;
+  string MarkersPerformed = 5;
+}

@@ -1,0 +1,14 @@
+{
+  "objectName": "HoldForFlowTestOrder",
+  "tableName": "tblHoldForFlowTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "Comment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

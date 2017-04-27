@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+message ErPrSemiQuantitativeTestOrder {
+  string ErResult = 1;
+  string ErIntensity = 2;
+  string ErPercentageOfCells = 3;
+  string PrResult = 4;
+  string PrIntensity = 5;
+  string PrPercentageOfCells = 6;
+  string SpecimenAdequacy = 7;
+  string InternalControls = 8;
+  string ExternalControls = 9;
+  string Interpretation = 10;
+  string ResultComment = 11;
+  string SpecimenSiteAndType = 12;
+  string SpecimenIdentification = 13;
+  string Method = 14;
+}

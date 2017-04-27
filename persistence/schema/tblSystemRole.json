@@ -1,0 +1,22 @@
+{
+  "objectName": "SystemRole",
+  "tableName": "tblSystemRole",
+  "fields": [
+    {
+      "isPrimaryKey": true,
+      "name": "SystemRoleId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "RoleName",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

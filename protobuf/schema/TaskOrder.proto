@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+message TaskOrder {
+  string ObjectId = 1;
+  string TaskOrderId = 2;
+  string MasterAccessionNo = 3;
+  string ReportNo = 4;
+  string PanelSetName = 5;
+  string TaskName = 6;
+  string TargetType = 7;
+  string TargetId = 8;
+  string TargetDescription = 9;
+  int64 OrderDate = 10;
+  int OrderedById = 11;
+  string OrderedByInitials = 12;
+  bool Acknowledged = 13;
+  int64 AcknowledgedDate = 14;
+  int AcknowledgedById = 15;
+  string AcknowledgedByInitials = 16;
+  bool Final = 17;
+  int FinaledById = 18;
+  string FinaledByInitials = 19;
+  int64 FinalDate = 20;
+  string AcknowledgementType = 21;
+  int64 TaskDate = 22;
+  string TaskId = 23;
+}

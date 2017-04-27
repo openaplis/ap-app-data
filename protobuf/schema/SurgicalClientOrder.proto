@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SurgicalClientOrder {
+  string PreOpDiagnosis = 1;
+  string PostOpDiagnosis = 2;
+}

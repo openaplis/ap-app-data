@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+message ALKForNSCLCByFISHTestOrder {
+  string Result = 1;
+  string Interpretation = 2;
+  string ReferenceRange = 3;
+  string ProbeSetDetail = 4;
+  string NucleiScored = 5;
+  string NucleiPercent = 6;
+  string Fusions = 7;
+  string Method = 8;
+  string ReportDisclaimer = 9;
+  string ThreeFPercentage = 10;
+  bool ALKGeneAmplification = 11;
+  string TumorNucleiPercentage = 12;
+}

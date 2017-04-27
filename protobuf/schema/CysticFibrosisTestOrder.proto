@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+message CysticFibrosisTestOrder {
+  string Result = 1;
+  string EthnicGroupId = 2;
+  string Comment = 3;
+  string Interpretation = 4;
+  string Method = 5;
+  string MutationsTested = 6;
+  string MutationsDetected = 7;
+  string Result1898Plus1GtoA = 8;
+  string ResultR117H = 9;
+  string Result621Plus1GtoT = 10;
+  string ResultG551D = 11;
+  string ResultDeltaI507 = 12;
+  string Result711Plus1GtoT = 13;
+  string ResultG85E = 14;
+  string Result1717Minus1GtoA = 15;
+  string ResultR560T = 16;
+  string ResultR334W = 17;
+  string Result3659delC = 18;
+  string Result2184delA = 19;
+  string Result2789Plus5GtoA = 20;
+  string ResultW1282X = 21;
+  string Result3120Plus1GtoA = 22;
+  string ResultA455E = 23;
+  string ResultDeltaF508 = 24;
+  string ResultR1162X = 25;
+  string ResultR553X = 26;
+  string Result3849Plus10KbCtoT = 27;
+  string ResultR347P = 28;
+  string ResultG542X = 29;
+  string ResultN1303K = 30;
+}

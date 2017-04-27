@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message BCellEnumerationTestOrder {
+  string Method = 1;
+  string ASRComment = 2;
+  NOT SUPPORTED WBC = 3;
+  NOT SUPPORTED LymphocytePercentage = 4;
+  NOT SUPPORTED CD19BCellPositivePercent = 5;
+  NOT SUPPORTED CD20BCellPositivePercent = 6;
+  NOT SUPPORTED CD19AbsoluteCount = 7;
+  NOT SUPPORTED CD20AbsoluteCount = 8;
+}

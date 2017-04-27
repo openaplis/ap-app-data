@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message API2MALT1ByFISHTestOrder {
+  string Result = 1;
+  string ResultDescription = 2;
+  string Interpretation = 3;
+  string ProbeSetDetail = 4;
+  string NucleiScored = 5;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message JAK2V617FTestOrder {
+  string Result = 1;
+  string Comment = 2;
+  string Interpretation = 3;
+  string Method = 4;
+  string Reference = 5;
+  string Disclosure = 6;
+}

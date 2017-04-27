@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PanelOrderAcidWash {
+  string Result = 1;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message TypingShortcut {
+  int ShortcutId = 1;
+  string ObjectId = 2;
+  string Shortcut = 3;
+  string Text = 4;
+  string Type = 5;
+  int UserId = 6;
+  string UserName = 7;
+  string Category = 8;
+}

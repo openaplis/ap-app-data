@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+message SlideOrder_Base {
+  string ObjectId = 1;
+  string SlideOrderId = 2;
+  bool ClientAccessioned = 3;
+  string AliquotOrderId = 4;
+  int64 OrderDate = 5;
+  string ValidationStation = 6;
+  bool Validated = 7;
+  int ValidatedById = 8;
+  string ValidatedBy = 9;
+  int64 ValidationDate = 10;
+  string PrintStation = 11;
+  bool Printed = 12;
+  int PrintedById = 13;
+  string PrintedBy = 14;
+  int64 PrintDate = 15;
+  string Description = 16;
+  string AliquotType = 17;
+  string Label = 18;
+  string ClientLabel = 19;
+  int OrderedById = 20;
+  string OrderedBy = 21;
+  string OrderedFrom = 22;
+  string Status = 23;
+  int TestId = 24;
+  string TestName = 25;
+  string TestAbbreviation = 26;
+  string TestOrderId = 27;
+  string PatientLastName = 28;
+  string Location = 29;
+  string ReportNo = 30;
+  string LabelType = 31;
+  bool OrderedAsDual = 32;
+  string LocationId = 33;
+  string FacilityId = 34;
+}

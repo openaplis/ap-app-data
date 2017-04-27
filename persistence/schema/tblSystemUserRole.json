@@ -1,0 +1,30 @@
+{
+  "objectName": "SystemUserRole",
+  "tableName": "tblSystemUserRole",
+  "fields": [
+    {
+      "isPrimaryKey": true,
+      "name": "SystemUserRoleID",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "UserID",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "RoleID",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "0",
+      "isNullable": "True"
+    }
+  ]
+}

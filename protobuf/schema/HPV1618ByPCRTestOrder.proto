@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message HPV1618ByPCRTestOrder {
+  string Indication = 1;
+  string HPV16Result = 2;
+  string HPV18Result = 3;
+  string Method = 4;
+  string Interpretation = 5;
+  string Comment = 6;
+}

@@ -1,0 +1,30 @@
+{
+  "objectName": "ApplicationVersion",
+  "tableName": "tblApplicationVersion",
+  "fields": [
+    {
+      "isPrimaryKey": true,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Version",
+      "width": "200",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "EnforceChange",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

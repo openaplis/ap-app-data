@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message MultipleMyelomaMGUSByFishTestOrder {
+  string Result = 1;
+  string ReportComment = 2;
+  string Interpretation = 3;
+  string ProbeSetDetail = 4;
+  string NucleiScored = 5;
+}

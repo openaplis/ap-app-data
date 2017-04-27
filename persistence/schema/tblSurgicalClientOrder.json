@@ -1,0 +1,22 @@
+{
+  "objectName": "SurgicalClientOrder",
+  "tableName": "tblSurgicalClientOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "PreOpDiagnosis",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PostOpDiagnosis",
+      "width": "100",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

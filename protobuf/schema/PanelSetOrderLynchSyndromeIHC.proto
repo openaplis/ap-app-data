@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message PanelSetOrderLynchSyndromeIHC {
+  string MLH1Result = 1;
+  string MSH2Result = 2;
+  string MSH6Result = 3;
+  string PMS2Result = 4;
+  string Comment = 5;
+}

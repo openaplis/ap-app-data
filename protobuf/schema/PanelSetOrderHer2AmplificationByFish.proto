@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message PanelSetOrderHer2AmplificationByFish {
+  string Result = 1;
+  string Indicator = 2;
+  string ReferenceRanges = 3;
+  string AverageHER2SignalsPerNucleus = 4;
+  string AverageCEN17SignalsPerNucleus = 5;
+  string HER2CEN17SignalRatio = 6;
+  string Interpretation = 7;
+  string Comment = 8;
+  string NucleiScored = 9;
+  string Reference = 10;
+  bool NonBreast = 11;
+}

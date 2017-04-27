@@ -1,0 +1,30 @@
+{
+  "objectName": "TechInitiatedPeripheralSmearTestOrder",
+  "tableName": "tblTechInitiatedPeripheralSmearTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "TechnologistsQuestion",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "PathologistFeedback",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "CBCComment",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

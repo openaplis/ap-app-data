@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message TCellSubsetAnalysisTestOrder {
+  string Method = 1;
+  string ASRComment = 2;
+  NOT SUPPORTED CD3Percent = 3;
+  NOT SUPPORTED CD4Percent = 4;
+  NOT SUPPORTED CD8Percent = 5;
+  NOT SUPPORTED CD4CD8Ratio = 6;
+  string ReferenceRange = 7;
+  string Disclosure = 8;
+  string Interpretation = 9;
+}

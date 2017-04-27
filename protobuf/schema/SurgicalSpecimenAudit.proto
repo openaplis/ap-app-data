@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+message SurgicalSpecimenAudit {
+  string ObjectId = 1;
+  string SurgicalSpecimenAuditId = 2;
+  string SurgicalAuditId = 3;
+  string ReportNo = 4;
+  bool Report = 5;
+  bool ImmediatePerformed = 6;
+  int64 ImmediateStartTime = 7;
+  int64 ImmediateEndTime = 8;
+  string AmendmentId = 9;
+  string SurgicalSpecimenId = 10;
+  string SpecimenOrderId = 11;
+  int DiagnosisId = 12;
+  int ImmediateCorrelation = 13;
+  int ImmediatePerformedById = 14;
+  NOT SUPPORTED Diagnosis = 15;
+  string SpecimenType = 16;
+  string RescreenStatus = 17;
+  string ImmediatePerformedBy = 18;
+}

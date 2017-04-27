@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message CKITTestOrder {
+  string Result = 1;
+  string Comment = 2;
+  string Interpretation = 3;
+  string Method = 4;
+  string TestDevelopment = 5;
+}

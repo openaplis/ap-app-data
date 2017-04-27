@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+message TCellNKProfileTestOrder {
+  NOT SUPPORTED WBC = 1;
+  NOT SUPPORTED LymphocytePercentage = 2;
+  NOT SUPPORTED CD3TPercent = 3;
+  NOT SUPPORTED CD4TPercent = 4;
+  NOT SUPPORTED CD8TPercent = 5;
+  NOT SUPPORTED CD16CD56NKPercent = 6;
+  string Method = 7;
+  string ASRComment = 8;
+  NOT SUPPORTED CD3Percent = 9;
+  NOT SUPPORTED CD4Percent = 10;
+  NOT SUPPORTED CD8Percent = 11;
+  NOT SUPPORTED CD16Percent = 12;
+  NOT SUPPORTED CD19Percent = 13;
+  NOT SUPPORTED CD45Percent = 14;
+  NOT SUPPORTED CD56Percent = 15;
+}

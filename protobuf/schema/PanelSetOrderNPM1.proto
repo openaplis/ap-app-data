@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message PanelSetOrderNPM1 {
+  string Result = 1;
+  string PercentageNPM1Mutation = 2;
+  string Interpretation = 3;
+  string Method = 4;
+}

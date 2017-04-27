@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message ClientGroup {
+  string ObjectId = 1;
+  int ClientGroupId = 2;
+  string GroupName = 3;
+}

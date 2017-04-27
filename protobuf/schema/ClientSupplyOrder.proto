@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+message ClientSupplyOrder {
+  string ClientSupplyOrderId = 1;
+  int ClientId = 2;
+  string ClientName = 3;
+  string ClientAddress = 4;
+  string ClientCity = 5;
+  string ClientState = 6;
+  string ClientZip = 7;
+  int64 OrderDate = 8;
+  int64 DateOrderSent = 9;
+  bool OrderFinal = 10;
+  int OrderTakenById = 11;
+  int OrderFilledById = 12;
+  string ContactName = 13;
+  string Comment = 14;
+  string OrderTakenBy = 15;
+  string OrderFilledBy = 16;
+  string ObjectId = 17;
+}

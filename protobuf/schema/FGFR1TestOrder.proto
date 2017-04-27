@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message FGFR1TestOrder {
+  string Result = 1;
+  string Interpretation = 2;
+  string Comment = 3;
+  string Method = 4;
+  string ASR = 5;
+}

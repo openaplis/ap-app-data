@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PeerReviewTestOrder {
+  string Result = 1;
+  string Comment = 2;
+}

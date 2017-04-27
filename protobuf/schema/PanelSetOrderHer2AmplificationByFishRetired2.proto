@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+message PanelSetOrderHer2AmplificationByFishRetired2 {
+  bool IncludeImmunoRecommendedComment = 1;
+  bool IncludeResultComment = 2;
+  bool IncludePolysomyComment = 3;
+  int CellsCounted = 4;
+  int TotalChr17SignalsCounted = 5;
+  int TotalHer2SignalsCounted = 6;
+  int Her2byIHCOrder = 7;
+  int NumberOfObservers = 8;
+  string Result = 9;
+  string PolysomyPercent = 10;
+  string Chr17SignalRangeLow = 11;
+  string Chr17SignalRangeHigh = 12;
+  string Her2SignalRangeLow = 13;
+  string Her2SignalRangeHigh = 14;
+  string CommentLabel = 15;
+  string ResultDescription = 16;
+  string SampleAdequacy = 17;
+  string ProbeSignalIntensity = 18;
+  string TechComment = 19;
+  string ResultComment = 20;
+  string InterpretiveComment = 21;
+  string GeneticHeterogeneity = 22;
+  string Her2Chr17ClusterRatio = 23;
+  string ReportReference = 24;
+  string SourceBlock = 25;
+  string Indicator = 26;
+  string Method = 27;
+}

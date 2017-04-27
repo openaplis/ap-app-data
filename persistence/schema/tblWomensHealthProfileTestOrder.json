@@ -1,0 +1,78 @@
+{
+  "objectName": "WomensHealthProfileTestOrder",
+  "tableName": "tblWomensHealthProfileTestOrder",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "OrderHPV",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderNGCT",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderTrichomonas",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderHPV1618",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "HPVReflexOrderCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "HPVStandingOrderCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "'STNDNONE'",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "HPV1618ReflexOrderCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "HPV1618StandingOrderCode",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "'STNDNONE'",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Comment",
+      "width": "1000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

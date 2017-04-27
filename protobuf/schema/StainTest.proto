@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message StainTest {
+  string ObjectId = 1;
+  int StainTestId = 2;
+  int TestId = 3;
+  string CptCode = 4;
+  string CptCodeQuantity = 5;
+  int ImmunoCommentId = 6;
+  string ControlComment = 7;
+  string StainType = 8;
+}

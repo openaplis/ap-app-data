@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message OrderType {
+  string ObjectId = 1;
+  string OrderTypeId = 2;
+  string OrderName = 3;
+  string OrderCategoryId = 4;
+  int Priority = 5;
+}

@@ -1,0 +1,70 @@
+{
+  "objectName": "TypingShortcut",
+  "tableName": "tblTypingShortcut",
+  "fields": [
+    {
+      "isPrimaryKey": true,
+      "name": "ShortcutId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "null",
+      "isNullable": "False"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "ObjectId",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Shortcut",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Text",
+      "width": "8000",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Type",
+      "width": "50",
+      "dataType": "string",
+      "defaultValue": "'Global'",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "UserId",
+      "width": "11",
+      "dataType": "number",
+      "defaultValue": "5075",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "UserName",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "'Global'",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "Category",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "'Global'",
+      "isNullable": "True"
+    }
+  ]
+}

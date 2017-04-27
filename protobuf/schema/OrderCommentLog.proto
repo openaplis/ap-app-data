@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+message OrderCommentLog {
+  string ObjectId = 1;
+  int OrderCommentLogId = 2;
+  int OrderCommentId = 3;
+  int SpecimenLogId = 4;
+  string MasterAccessionNo = 5;
+  NOT SUPPORTED AliquotOrderId = 6;
+  string Category = 7;
+  string Action = 8;
+  int64 LogDate = 9;
+  int ClientId = 10;
+  string Description = 11;
+  string Comment = 12;
+  int LoggedById = 13;
+  string LoggedBy = 14;
+  string ClientOrderId = 15;
+  bool RequiresResponse = 16;
+  bool RequiresNotification = 17;
+  string Response = 18;
+  string NotificationAddress = 19;
+  string StationName = 20;
+  string ContainerId = 21;
+}

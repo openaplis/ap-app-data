@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ComprehensiveColonCancerProfile {
+  string Interpretation = 1;
+  bool IncludeTestsPerformedOnOtherBlocks = 2;
+}

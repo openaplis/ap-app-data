@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SurgicalClientOrderDetail {
+  bool OrderImmediateExam = 1;
+  bool OrderFrozenSection = 2;
+}

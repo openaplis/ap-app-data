@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+message TaskOrderDetail {
+  string ObjectId = 1;
+  string TaskOrderDetailId = 2;
+  string TaskOrderId = 3;
+  string TaskId = 4;
+  string Description = 5;
+  string Comment = 6;
+  string AssignedTo = 7;
+  bool Acknowledged = 8;
+  int AcknowledgedById = 9;
+  string AcknowledgedByInitials = 10;
+  int64 AcknowledgedDate = 11;
+  int64 ActionDate = 12;
+}

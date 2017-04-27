@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message Shipment {
+  string ObjectId = 1;
+  string ShipmentId = 2;
+  string ShipmentFrom = 3;
+  string ShipmentTo = 4;
+  int64 ShipDate = 5;
+  bool Shipped = 6;
+  bool Received = 7;
+  int64 ReceivedDate = 8;
+  int ReceivedById = 9;
+  string ShipmentPreparedBy = 10;
+  int ClientId = 11;
+}

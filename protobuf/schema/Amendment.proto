@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+message Amendment {
+  string ObjectId = 1;
+  string AmendmentId = 2;
+  bool RequirePathologistSignature = 3;
+  bool ShowPreviousDiagnosis = 4;
+  bool Final = 5;
+  bool IsDistributed = 6;
+  bool DistributeOnFinal = 7;
+  bool ShowAmendmentOnReport = 8;
+  bool RevisedDiagnosis = 9;
+  int64 AmendmentDate = 10;
+  int64 AmendmentTime = 11;
+  int64 FinalDate = 12;
+  int64 FinalTime = 13;
+  int UserId = 14;
+  string ReportNo = 15;
+  string Text = 16;
+  string AmendmentType = 17;
+  string PathologistSignature = 18;
+  string ReferenceReportNo = 19;
+  int AcceptedById = 20;
+  bool Accepted = 21;
+  int64 AcceptedDate = 22;
+  int64 AcceptedTime = 23;
+  string AcceptedBy = 24;
+  bool SystemGenerated = 25;
+  string CorrectionType = 26;
+}

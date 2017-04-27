@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message ClientSupply {
+  string clientsupplyid = 1;
+  string supplyname = 2;
+  string description = 3;
+  string supplycategory = 4;
+  string ObjectId = 5;
+}

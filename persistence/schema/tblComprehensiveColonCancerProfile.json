@@ -1,0 +1,22 @@
+{
+  "objectName": "ComprehensiveColonCancerProfile",
+  "tableName": "tblComprehensiveColonCancerProfile",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "Interpretation",
+      "width": "500",
+      "dataType": "string",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "IncludeTestsPerformedOnOtherBlocks",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "0",
+      "isNullable": "True"
+    }
+  ]
+}

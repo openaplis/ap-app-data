@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+message ClientOrderDetail {
+  string ObjectId = 1;
+  string ClientOrderDetailId = 2;
+  string ClientOrderId = 3;
+  string SpecimenId = 4;
+  string ContainerId = 5;
+  int SpecimenNumber = 6;
+  bool Submitted = 7;
+  bool Accessioned = 8;
+  bool Received = 9;
+  int64 DateReceived = 10;
+  bool Validated = 11;
+  string Description = 12;
+  string DescriptionToAccession = 13;
+  int64 OrderDate = 14;
+  int64 OrderTime = 15;
+  string OrderedBy = 16;
+  string OrderType = 17;
+  string SpecialInstructions = 18;
+  bool Inactive = 19;
+  int64 CollectionDate = 20;
+  string CallbackNumber = 21;
+  string ClientFixation = 22;
+  string LabFixation = 23;
+  bool Shipped = 24;
+  int64 ShipDate = 25;
+  string ShipmentId = 26;
+  string SpecimenNumberMatchStatus = 27;
+  string SpecimenDescriptionMatchStatus = 28;
+  string SpecimenTrackingInitiated = 29;
+  string SystemInitiatingOrder = 30;
+  string SpecimenSource = 31;
+  string OrderTypeCode = 32;
+  bool RequiresGrossExamination = 33;
+  string FixationComment = 34;
+  int64 FixationStartTime = 35;
+  bool FixationStartTimeManuallyEntered = 36;
+  bool ClientAccessioned = 37;
+}

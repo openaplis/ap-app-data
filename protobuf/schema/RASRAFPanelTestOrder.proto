@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+message RASRAFPanelTestOrder {
+  string Method = 1;
+  string ReportDisclaimer = 2;
+  string KRASResult = 3;
+  string NRASResult = 4;
+  string HRASResult = 5;
+  string BRAFResult = 6;
+  string KRASMutationName = 7;
+  string KRASAlternateNucleotideMutationName = 8;
+  string KRASConsequence = 9;
+  string KRASPredictedEffectOnProtein = 10;
+  string NRASMutationName = 11;
+  string NRASAlternateNucleotideMutationName = 12;
+  string NRASConsequence = 13;
+  string NRASPredictedEffectOnProtein = 14;
+  string HRASMutationName = 15;
+  string HRASAlternateNucleotideMutationName = 16;
+  string HRASConsequence = 17;
+  string HRASPredictedEffectOnProtein = 18;
+  string BRAFMutationName = 19;
+  string BRAFAlternateNucleotideMutationName = 20;
+  string BRAFConsequence = 21;
+  string BRAFPredictedEffectOnProtein = 22;
+  string Interpretation = 23;
+  string Comment = 24;
+}

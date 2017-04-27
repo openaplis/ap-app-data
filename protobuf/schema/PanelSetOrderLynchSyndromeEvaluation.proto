@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message PanelSetOrderLynchSyndromeEvaluation {
+  string LynchSyndromeEvaluationType = 1;
+  string Interpretation = 2;
+  string Comment = 3;
+  string Method = 4;
+  bool BRAFIsIndicated = 5;
+}

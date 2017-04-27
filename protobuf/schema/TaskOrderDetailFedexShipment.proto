@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+message TaskOrderDetailFedexShipment {
+  string TrackingNumber = 1;
+  string ShipToFacilityId = 2;
+  string ZPLII = 3;
+  bool LabelHasBeenPrinted = 4;
+  string ShipToName = 5;
+  string ShipToPhone = 6;
+  string ShipToAddress1 = 7;
+  string ShipToAddress2 = 8;
+  string ShipToCity = 9;
+  string ShipToState = 10;
+  string ShipToZip = 11;
+  string PaymentType = 12;
+  string AccountNo = 13;
+}

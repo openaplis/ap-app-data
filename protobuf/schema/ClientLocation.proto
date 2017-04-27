@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message ClientLocation {
+  string ObjectId = 1;
+  int ClientLocationId = 2;
+  int ClientId = 3;
+  string Location = 4;
+  string OrderType = 5;
+  string SpecimenTrackingInitiated = 6;
+  bool AllowMultipleOrderTypes = 7;
+  int DefaultOrderPanelSetId = 8;
+  bool AllowMultipleOrderDetailTypes = 9;
+  string DefaultOrderDetailTypeCode = 10;
+}

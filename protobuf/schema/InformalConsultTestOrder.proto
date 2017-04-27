@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message InformalConsultTestOrder {
+  string Request = 1;
+  string Result = 2;
+}

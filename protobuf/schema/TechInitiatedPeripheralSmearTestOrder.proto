@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message TechInitiatedPeripheralSmearTestOrder {
+  string TechnologistsQuestion = 1;
+  string PathologistFeedback = 2;
+  string CBCComment = 3;
+}

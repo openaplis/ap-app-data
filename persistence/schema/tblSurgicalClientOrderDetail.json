@@ -1,0 +1,22 @@
+{
+  "objectName": "SurgicalClientOrderDetail",
+  "tableName": "tblSurgicalClientOrderDetail",
+  "fields": [
+    {
+      "isPrimaryKey": false,
+      "name": "OrderImmediateExam",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "null",
+      "isNullable": "True"
+    },
+    {
+      "isPrimaryKey": false,
+      "name": "OrderFrozenSection",
+      "width": "1",
+      "dataType": "boolean",
+      "defaultValue": "null",
+      "isNullable": "True"
+    }
+  ]
+}

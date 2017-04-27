@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message PanelSetOrderFLT3 {
+  string Result = 1;
+  string ITDMutation = 2;
+  string ITDPercentage = 3;
+  string TKDMutation = 4;
+  string Interpretation = 5;
+  string Method = 6;
+}

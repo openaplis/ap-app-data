@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IHCQCTestOrder {
+  bool ControlsReactedAppropriately = 1;
+  string Comment = 2;
+}

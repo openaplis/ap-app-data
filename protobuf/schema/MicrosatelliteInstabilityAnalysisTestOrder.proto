@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message MicrosatelliteInstabilityAnalysisTestOrder {
+  string Result = 1;
+  string InstabilityLevel = 2;
+  string BAT25Instability = 3;
+  string BAT26Instability = 4;
+  string D5S346Instability = 5;
+  string D17S250Instability = 6;
+  string D2S123Instability = 7;
+  string Interpretation = 8;
+  string Method = 9;
+  string TestDevelopment = 10;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message HPVTestOrder {
+  string Result = 1;
+  string Comment = 2;
+  string TestInformation = 3;
+  string ASRComment = 4;
+}

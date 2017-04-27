@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message JAK2Exon1214TestOrder {
+  string Result = 1;
+  string Interpretation = 2;
+  string Method = 3;
+  string ASRComment = 4;
+}

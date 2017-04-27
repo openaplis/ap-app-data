@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ReviewForAdditionalTestingTestOrder {
+  string Comment = 1;
+  string Result = 2;
+}

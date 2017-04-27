@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message ApplicationVersion {
+  string ObjectId = 1;
+  string Version = 2;
+  bool EnforceChange = 3;
+}

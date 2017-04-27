@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+message TestOrderReportDistributionLog {
+  string ObjectId = 1;
+  string TestOrderReportDistributionLogId = 2;
+  string ReportNo = 3;
+  int64 TimeDistributed = 4;
+  string Comment = 5;
+  int PhysicianId = 6;
+  int ClientId = 7;
+  string PhysicianName = 8;
+  string ClientName = 9;
+  string DistributionType = 10;
+  bool ErrorInDistribution = 11;
+  bool CaseDistributed = 12;
+  int64 DateDistributed = 13;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message PhysicianClient {
+  string ObjectId = 1;
+  string PhysicianClientId = 2;
+  int PhysicianId = 3;
+  int ClientId = 4;
+  string ProviderId = 5;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message CalreticulinMutationAnalysisTestOrder {
+  string Result = 1;
+  string Percentage = 2;
+  string Mutations = 3;
+  string Interpretation = 4;
+  string Method = 5;
+  string ASR = 6;
+}

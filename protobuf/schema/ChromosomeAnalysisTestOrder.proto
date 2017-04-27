@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message ChromosomeAnalysisTestOrder {
+  string Result = 1;
+  string Karyotype = 2;
+  string Interpretation = 3;
+  string Comment = 4;
+  string MetaphasesCounted = 5;
+  string MetaphasesAnalyzed = 6;
+  string MetaphasesKaryotyped = 7;
+  string CultureType = 8;
+  string BandingTechnique = 9;
+  string BandingResolution = 10;
+  string ASR = 11;
+}

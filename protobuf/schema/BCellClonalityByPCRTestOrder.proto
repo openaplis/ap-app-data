@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message BCellClonalityByPCRTestOrder {
+  string Result = 1;
+  string Interpretation = 2;
+  string TumorNucleiPercent = 3;
+  string Comment = 4;
+  string Method = 5;
+  string ASRComment = 6;
+  string BCellFrameWork1 = 7;
+  string BCellFrameWork2 = 8;
+  string BCellFrameWork3 = 9;
+  string BCellFragmentSize = 10;
+}

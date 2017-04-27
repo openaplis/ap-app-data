@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message ClientSupplyOrderDetail {
+  string clientsupplyorderdetailid = 1;
+  string clientsupplyorderid = 2;
+  int clientsupplyid = 3;
+  string supplyname = 4;
+  string supplydescription = 5;
+  string quantityordered = 6;
+  int quantity = 7;
+  string ObjectId = 8;
+}

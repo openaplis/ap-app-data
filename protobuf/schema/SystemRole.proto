@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SystemRole {
+  int SystemRoleId = 1;
+  string RoleName = 2;
+}

@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+message ICD9BillingCode {
+  string ObjectId = 1;
+  string Icd9BillingId = 2;
+  string SpecimenOrderId = 3;
+  string SurgicalSpecimenId = 4;
+  int64 BillingDate = 5;
+  int64 ModifiedDate = 6;
+  int Quantity = 7;
+  int SpecimenId = 8;
+  int UserId = 9;
+  string ICD9Code = 10;
+  string ICD10Code = 11;
+  string ReportNo = 12;
+  int SpecimenLogId = 13;
+  string MasterAccessionNo = 14;
+  string DesignatedFor = 15;
+  string Source = 16;
+  string CptBillingId = 17;
+}

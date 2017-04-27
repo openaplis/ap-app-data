@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FNAAdequacyAssessmentTestOrder {
+  int64 StartDate = 1;
+  int64 EndDate = 2;
+}

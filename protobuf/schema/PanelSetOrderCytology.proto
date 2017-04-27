@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+message PanelSetOrderCytology {
+  int ScreenedById = 1;
+  string ScreeningType = 2;
+  string ScreenedByName = 3;
+  string ScreeningImpression = 4;
+  string ScreeningImpressionComment = 5;
+  string OtherConditions = 6;
+  string SpecimenAdequacy = 7;
+  string ReportComment = 8;
+  string InternalComment = 9;
+  string ScreenerComment = 10;
+  string OrderComment = 11;
+  bool QC = 12;
+  bool ImagerError = 13;
+  bool PhysicianInterpretation = 14;
+  int SlideCount = 15;
+  bool ECCCheckPerformed = 16;
+  bool ScreeningError = 17;
+  string Method = 18;
+}

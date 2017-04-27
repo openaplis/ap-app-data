@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GrossOnlyTestOrder {
+  NOT SUPPORTED GrossX = 1;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message WomensHealthProfileTestOrder {
+  bool OrderHPV = 1;
+  bool OrderNGCT = 2;
+  bool OrderTrichomonas = 3;
+  bool OrderHPV1618 = 4;
+  string HPVReflexOrderCode = 5;
+  string HPVStandingOrderCode = 6;
+  string HPV1618ReflexOrderCode = 7;
+  string HPV1618StandingOrderCode = 8;
+  string Comment = 9;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message PanelSetOrderMPNExtendedReflex {
+  string Comment = 1;
+  string Interpretation = 2;
+  string Method = 3;
+}

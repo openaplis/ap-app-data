@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+message MaterialTrackingBatch {
+  string ObjectId = 1;
+  string MaterialTrackingBatchId = 2;
+  int64 BatchDate = 3;
+  string Description = 4;
+  string FromFacilityId = 5;
+  string FromFacilityName = 6;
+  string FromLocationId = 7;
+  string FromLocationName = 8;
+  string ToFacilityId = 9;
+  string ToFacilityName = 10;
+  string ToLocationId = 11;
+  string ToLocationName = 12;
+  int64 OpenDate = 13;
+  int64 ClosedDate = 14;
+  bool IsOpen = 15;
+  string TrackingInformation = 16;
+  string MasterAccessionNo = 17;
+}
