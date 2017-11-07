@@ -1,0 +1,20 @@
+{
+  "cptType": "PQRS",
+  "cptCodeId": "PQRSG8723",
+  "reportingDefinition": "pT category, pN category, and histologic grade are not documented in the pathology report, reason not otherwise specified.",
+  "header": null,
+  "formattedReportingDefinition": "G8723:  pT category, pN category, and histologic grade are not documented in the pathology report, reason not otherwise specified.",
+  "code": "G8723",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": 3,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}

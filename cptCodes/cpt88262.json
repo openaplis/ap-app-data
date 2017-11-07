@@ -1,0 +1,17 @@
+{
+  "cptType": "Normal",
+  "cptCodeId": "CPT88262",
+  "code": "88262",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": 2,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760803848",
+  "svhCDMDescription": "CHROMOSOME ANALYSIS; 15-20 CELLS"
+}

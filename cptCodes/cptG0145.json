@@ -1,0 +1,17 @@
+{
+  "cptType": "GCode",
+  "cptCodeId": "CPTG0145",
+  "code": "G0145",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760804033",
+  "svhCDMDescription": "THIN PREP AUTO SCREEN"
+}

@@ -1,0 +1,17 @@
+{
+  "cptType": "Normal",
+  "cptCodeId": "CPT8122026",
+  "code": "81220",
+  "description": null,
+  "modifier": "26",
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}

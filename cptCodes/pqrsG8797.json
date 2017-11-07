@@ -1,0 +1,20 @@
+{
+  "cptType": "PQRS",
+  "cptCodeId": "PQRSG8797",
+  "reportingDefinition": "Patient is not eligible for this measure because specimen(s) are not of esophageal origin (e.g. stomach) report: Specimen site other than anatomic location of esophagus",
+  "header": null,
+  "formattedReportingDefinition": "G8797:  Patient is not eligible for this measure because specimen(s) are not of esophageal origin (e.g. stomach) report: Specimen site other than anatomic location of esophagus",
+  "code": "G8797",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": 3,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}

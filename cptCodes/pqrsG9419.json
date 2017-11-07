@@ -1,0 +1,20 @@
+{
+  "cptType": "PQRS",
+  "cptCodeId": "PQRSG9419",
+  "reportingDefinition": "Documentation of medical reason(s) for not reporting the histological type OR NSCLC-NOS classification with an explanation (eg, biopsy taken for other purposes in a patient with a history of primay non-small cell lung cancer or other documented medical reasons).",
+  "header": null,
+  "formattedReportingDefinition": "G9419:  Documentation of medical reason(s) for not reporting the histological type OR NSCLC-NOS classification with an explanation (eg, biopsy taken for other purposes in a patient with a history of primay non-small cell lung cancer or other documented medical reasons).",
+  "code": "G9419",
+  "description": "Lung Cancer Reporting - Medical Exclusions",
+  "modifier": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": 0,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}

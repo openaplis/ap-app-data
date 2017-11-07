@@ -1,0 +1,17 @@
+{
+  "cptType": "GCode",
+  "cptCodeId": "CPTG0461",
+  "code": "G0461",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}

@@ -1,0 +1,20 @@
+{
+  "cptType": "PQRS",
+  "cptCodeId": "PQRSG9421",
+  "reportingDefinition": "Primary non-small cell lung cancer biopsy and cytology specimen report does not document classification into specific histologic type OR classified as NSCLC-NOS with an explanation.",
+  "header": null,
+  "formattedReportingDefinition": "G9421:  Primary non-small cell lung cancer biopsy and cytology specimen report does not document classification into specific histologic type OR classified as NSCLC-NOS with an explanation.",
+  "code": "G9421",
+  "description": "Lung Cancer Reporting - Performance Not Met",
+  "modifier": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": 0,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}

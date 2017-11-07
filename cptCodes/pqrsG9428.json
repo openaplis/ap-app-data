@@ -1,0 +1,20 @@
+{
+  "cptType": "PQRS",
+  "cptCodeId": "PQRSG9428",
+  "reportingDefinition": "Pathology report includes the pT Category and a statement on thickness and ulceration and for pT1, mitotic rate",
+  "header": null,
+  "formattedReportingDefinition": "G9428:  Pathology report includes the pT Category and a statement on thickness and ulceration and for pT1, mitotic rate",
+  "code": "G9428",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": 0,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}
