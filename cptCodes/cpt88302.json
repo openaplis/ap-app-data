@@ -1,0 +1,17 @@
+{
+  "cptType": "Normal",
+  "cptCodeId": "CPT88302",
+  "code": "88302",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760402280",
+  "svhCDMDescription": "LEVEL II SURG PATH GROSS/MICRO"
+}

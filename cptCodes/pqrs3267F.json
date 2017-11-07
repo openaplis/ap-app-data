@@ -1,0 +1,20 @@
+{
+  "cptType": "PQRS",
+  "cptCodeId": "PQRS3267F",
+  "reportingDefinition": "Pathology report includes pT category, pN category, Gleason score, and statement about margins.",
+  "header": null,
+  "formattedReportingDefinition": "3267F:  Pathology report includes pT category, pN category, Gleason score, and statement about margins.",
+  "code": "3267F",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": 3,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}

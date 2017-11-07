@@ -1,0 +1,17 @@
+{
+  "cptType": "Normal",
+  "cptCodeId": "CPT88189",
+  "code": "88189",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": true,
+  "codeType": 1,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}

@@ -1,0 +1,17 @@
+{
+  "cptType": "Normal",
+  "cptCodeId": "CPT89060",
+  "code": "89060",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": true,
+  "codeType": 1,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}
