@@ -1,0 +1,10 @@
+[
+  {
+  "folder": "cpt-codes",
+  "key": "cptCodeId"
+  },
+  {
+  "folder": "icd9-codes",
+  "key": "icd9CodeId"
+  }
+]
