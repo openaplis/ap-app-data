@@ -18,6 +18,7 @@
   "homepage": "https://github.com/openaplis/ap-app-data#readme",
   "dependencies": {
     "async": "^2.6.0",
-    "recursive-readdir": "^2.2.1"
+    "recursive-readdir": "^2.2.1",
+    "redis": "^2.8.0"
   }
 }
