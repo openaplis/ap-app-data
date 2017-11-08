@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "PQRSG8722",
+  "cptCodeId": "pqrsg8722",
   "reportingDefinition": "The medical reason(s) for not including pT category, pN category, and histologic grade are included the the pathology report.",
   "header": null,
   "formattedReportingDefinition": "G8722:  The medical reason(s) for not including pT category, pN category, and histologic grade are included the the pathology report.",

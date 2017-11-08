@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "PQRSG9420",
+  "cptCodeId": "pqrsg9420",
   "reportingDefinition": "Specimen site other than anatomic location of lung or is not classified as primay non-small cell lung cancer.",
   "header": null,
   "formattedReportingDefinition": "G9420:  Specimen site other than anatomic location of lung or is not classified as primay non-small cell lung cancer.",

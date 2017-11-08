@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "PQRS3126F1P",
+  "cptCodeId": "pqrs3126f1p",
   "reportingDefinition": "The esophageal biopsy reports with the histological finding of Barrett's mucosa that contains a statement about dysplasia. (present, absent, or indefinite) not performed for medical reasons (eg, malignant neoplasm or absence of intestinal metaplasia)",
   "header": null,
   "formattedReportingDefinition": "3126F-1P:  The esophageal biopsy reports with the histological finding of Barrett's mucosa that contains a statement about dysplasia. (present, absent, or indefinite) not performed for medical reasons (eg, malignant neoplasm or absence of intestinal metaplasia)",
