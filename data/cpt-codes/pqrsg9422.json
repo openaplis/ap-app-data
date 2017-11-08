@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "PQRSG9422",
+  "cptCodeId": "pqrsg9422",
   "reportingDefinition": "Primary lung carcinoma that include the pT category, pN category and for Non-Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinomona, Adenocarcinoma) OR classified as NSCLC-NOS with an explanation.",
   "header": null,
   "formattedReportingDefinition": "G9422:  Primary lung carcinoma that include the pT category, pN category and for Non-Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinomona, Adenocarcinoma) OR classified as NSCLC-NOS with an explanation.",

@@ -1,9 +1,9 @@
 {
   "cptType": "Normal",
-  "cptCodeId": "AutopsyBlock",
-  "code": "AUTOPSYBLOCK",
+  "cptCodeId": "cpt88285",
+  "code": "88285",
   "description": null,
-  "modifier": "TC",
+  "modifier": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": false,
