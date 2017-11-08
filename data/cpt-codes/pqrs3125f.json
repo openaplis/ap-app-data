@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "PQRS3125F",
+  "cptCodeId": "pqrs3125f",
   "reportingDefinition": "The esophageal biopsy report documents the presence of Barrett's mucosa and includes a statement about dysplasia.",
   "header": null,
   "formattedReportingDefinition": "3125F:  The esophageal biopsy report documents the presence of Barrett's mucosa and includes a statement about dysplasia.",

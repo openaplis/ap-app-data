@@ -1,0 +1,6 @@
+{
+  "icdVersion": "ICD10",
+  "icdCode": "Z11.59",
+  "description": "Encounter for screening for other viral diseases",
+  "category": "NGCT"
+}

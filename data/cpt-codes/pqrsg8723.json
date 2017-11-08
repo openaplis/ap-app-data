@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "PQRSG8723",
+  "cptCodeId": "pqrsg8723",
   "reportingDefinition": "pT category, pN category, and histologic grade are not documented in the pathology report, reason not otherwise specified.",
   "header": null,
   "formattedReportingDefinition": "G8723:  pT category, pN category, and histologic grade are not documented in the pathology report, reason not otherwise specified.",
