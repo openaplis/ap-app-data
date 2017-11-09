@@ -1,0 +1,20 @@
+{
+  "stainType": "Test",
+  "orderComment": null,
+  "isBillable": false,
+  "hasGCode": false,
+  "isDualOrder": false,
+  "hasCptCodeLevels": false,
+  "stainId": "32",
+  "stainName": "ERV3 NG",
+  "stainAbbreviation": "ERV3 NG",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": false,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "ERV3 NG"
+}

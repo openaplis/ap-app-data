@@ -1,0 +1,20 @@
+{
+  "stainType": "IHC",
+  "orderComment": null,
+  "isBillable": true,
+  "hasGCode": true,
+  "isDualOrder": false,
+  "hasCptCodeLevels": true,
+  "stainId": "66",
+  "stainName": "CD23",
+  "stainAbbreviation": "CD23",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "CD23"
+}

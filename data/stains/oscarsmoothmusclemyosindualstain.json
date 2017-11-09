@@ -1,0 +1,20 @@
+{
+  "stainType": "DualStain",
+  "orderComment": null,
+  "isBillable": true,
+  "hasGCode": true,
+  "isDualOrder": true,
+  "hasCptCodeLevels": true,
+  "stainId": "OSCRSMM",
+  "stainName": "OSCAR/Smooth Muscle Myosin",
+  "stainAbbreviation": "OSCAR/SMM",
+  "active": false,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "OSCAR/SMM"
+}
