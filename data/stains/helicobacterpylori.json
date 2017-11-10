@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:hlcbctrpylri",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "107",
+  "testId": "107",
   "stainName": "Helicobacter pylori",
   "stainAbbreviation": "HPylori",
   "active": true,

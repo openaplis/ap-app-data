@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:hnde",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "49",
+  "testId": "49",
   "stainName": "H&E",
   "stainAbbreviation": "H&E",
   "active": true,

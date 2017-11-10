@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:synptphysn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "156",
+  "testId": "156",
   "stainName": "Synaptophysin",
   "stainAbbreviation": "Synaptophysin",
   "active": true,

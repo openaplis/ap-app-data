@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:hr2nu",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "108",
+  "testId": "108",
   "stainName": "HER-2/Neu",
   "stainAbbreviation": "HER-2/Neu",
   "active": true,

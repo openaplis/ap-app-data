@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:wt1",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "173",
+  "testId": "173",
   "stainName": "WT-1",
   "stainAbbreviation": "WT1",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cd19",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "172",
+  "testId": "172",
   "stainName": "CD19",
   "stainAbbreviation": "CD19",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:fnndlsprte",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "204",
+  "testId": "204",
   "stainName": "Fine Needle Aspirate",
   "stainAbbreviation": "FNA",
   "active": true,

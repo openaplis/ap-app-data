@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:dsmn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "92",
+  "testId": "92",
   "stainName": "Desmin",
   "stainAbbreviation": "Desmin",
   "active": true,

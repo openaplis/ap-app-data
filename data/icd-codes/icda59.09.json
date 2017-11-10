@@ -1,7 +1,7 @@
 {
   "icdVersion": "ICD10",
   "icdCode": "A59.09",
-  "icdCodeId": "icd:A59.09",
+  "icdCodeId": "A59.09",
   "description": "Other urogenital trichomoniasis",
   "category": "Trichomonas/Cervx"
 }

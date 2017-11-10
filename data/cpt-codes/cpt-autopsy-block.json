@@ -1,6 +1,6 @@
 {
   "cptType": "Normal",
-  "cptCodeId": "autopsyBlock",
+  "cptCodeId": "cpt:autopsyblock",
   "code": "AUTOPSYBLOCK",
   "description": null,
   "modifier": "TC",

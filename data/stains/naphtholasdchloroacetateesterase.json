@@ -1,11 +1,12 @@
 {
   "stainType": "Cytochemical",
+  "stainId": "stain:nphthlsdchlrcttstrse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "192",
+  "testId": "192",
   "stainName": "Naphthol AS-D chloroacetate esterase",
   "stainAbbreviation": "Naphthol AS-D chloroacetate esterase",
   "active": true,

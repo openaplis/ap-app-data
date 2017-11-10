@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:ema",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "97",
+  "testId": "97",
   "stainName": "EMA",
   "stainAbbreviation": "EMA",
   "active": true,

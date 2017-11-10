@@ -1,11 +1,12 @@
 {
   "stainType": "Cytochemical",
+  "stainId": "stain:fts",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "269",
+  "testId": "269",
   "stainName": "Fites",
   "stainAbbreviation": "Fites",
   "active": true,

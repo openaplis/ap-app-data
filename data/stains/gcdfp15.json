@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:gcdfp15",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "103",
+  "testId": "103",
   "stainName": "GCDFP-15",
   "stainAbbreviation": "GCDFP-15",
   "active": true,

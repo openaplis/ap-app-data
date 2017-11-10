@@ -1,11 +1,12 @@
 {
   "stainType": "Graded",
+  "stainId": "stain:prgstrnrcptrsmqnt",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "145",
+  "testId": "145",
   "stainName": "Progesterone Receptor, Semi-quantitative",
   "stainAbbreviation": "PR",
   "active": true,

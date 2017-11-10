@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:hmb45",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "111",
+  "testId": "111",
   "stainName": "HMB-45",
   "stainAbbreviation": "HMB-45",
   "active": true,

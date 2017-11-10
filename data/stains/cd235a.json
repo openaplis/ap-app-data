@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cd235a",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "175",
+  "testId": "175",
   "stainName": "CD235a (Glycophorin A)",
   "stainAbbreviation": "CD235a",
   "active": true,

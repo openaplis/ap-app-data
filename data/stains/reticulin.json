@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:rtcln",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "151",
+  "testId": "151",
   "stainName": "Reticulin",
   "stainAbbreviation": "Reticulin",
   "active": true,

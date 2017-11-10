@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:urplkn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "169",
+  "testId": "169",
   "stainName": "Uroplakin",
   "stainAbbreviation": "Uroplakin",
   "active": true,

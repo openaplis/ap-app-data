@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cytkrtn17",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "86",
+  "testId": "86",
   "stainName": "Cytokeratin 17",
   "stainAbbreviation": "CK17",
   "active": true,

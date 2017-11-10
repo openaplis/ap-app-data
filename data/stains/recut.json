@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:rct",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "150",
+  "testId": "150",
   "stainName": "Recut",
   "stainAbbreviation": "Recut",
   "active": true,

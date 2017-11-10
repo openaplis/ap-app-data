@@ -1,11 +1,12 @@
 {
   "stainType": "DualStain",
+  "stainId": "stain:cytkrtn34p504srcmsdlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": true,
   "hasCptCodeLevels": true,
-  "stainId": "CK34P504RM",
+  "testId": "CK34P504RM",
   "stainName": "Cytokeratin 34/P504s racemase",
   "stainAbbreviation": "CK34/P504",
   "active": false,

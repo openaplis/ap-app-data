@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:px5",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "141",
+  "testId": "141",
   "stainName": "PAX-5",
   "stainAbbreviation": "PAX-5",
   "active": true,

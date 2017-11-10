@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:mlna",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "119",
+  "testId": "119",
   "stainName": "Melan A",
   "stainAbbreviation": "Melan A",
   "active": true,

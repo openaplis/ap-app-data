@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:egfr",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "95",
+  "testId": "95",
   "stainName": "EGFR",
   "stainAbbreviation": "EGFR",
   "active": true,

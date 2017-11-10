@@ -1,11 +1,12 @@
 {
   "stainType": "CytochemicalForMicroorganisms",
+  "stainId": "stain:hckrtwrt",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "112",
+  "testId": "112",
   "stainName": "Hucker-Twort",
   "stainAbbreviation": "Hucker-Twort",
   "active": true,

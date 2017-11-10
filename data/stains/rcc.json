@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:rcc",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "149",
+  "testId": "149",
   "stainName": "RCC",
   "stainAbbreviation": "RCC",
   "active": true,

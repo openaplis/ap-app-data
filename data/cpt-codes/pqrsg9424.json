@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "pqrsg9424",
+  "cptCodeId": "pqrs:g9424",
   "reportingDefinition": "specimen site other than anatomic location of lung, is not classified as non-small cell ung cancer or classified as NSCLC-NOS",
   "header": null,
   "formattedReportingDefinition": "G9424:  specimen site other than anatomic location of lung, is not classified as non-small cell ung cancer or classified as NSCLC-NOS",

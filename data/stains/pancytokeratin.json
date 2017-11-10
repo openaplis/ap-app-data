@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:pncytkrtn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "136",
+  "testId": "136",
   "stainName": "Pancytokeratin",
   "stainAbbreviation": "Pancytokeratin",
   "active": true,

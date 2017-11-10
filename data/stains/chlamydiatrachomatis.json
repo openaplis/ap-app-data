@@ -1,11 +1,12 @@
 {
   "stainType": "Test",
+  "stainId": "stain:chlmydtrchmts",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "26",
+  "testId": "26",
   "stainName": "Chlamydia trachomatis",
   "stainAbbreviation": "Chlamydia trachomatis",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:ntlstd3",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "129",
+  "testId": "129",
   "stainName": "Not Listed #3",
   "stainAbbreviation": "Not Listed #3",
   "active": true,

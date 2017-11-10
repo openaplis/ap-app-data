@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:mmmglbn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "118",
+  "testId": "118",
   "stainName": "Mammaglobin",
   "stainAbbreviation": "Mammaglobin",
   "active": true,

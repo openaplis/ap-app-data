@@ -1,11 +1,12 @@
 {
   "stainType": "Graded",
+  "stainId": "stain:estrgnrcptrsmqnt",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "99",
+  "testId": "99",
   "stainName": "Estrogen Receptor, Semi-quantitative",
   "stainAbbreviation": "ER",
   "active": true,

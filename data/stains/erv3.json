@@ -1,11 +1,12 @@
 {
   "stainType": "Test",
+  "stainId": "stain:erv3",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "29",
+  "testId": "29",
   "stainName": "ERV3",
   "stainAbbreviation": "ERV3",
   "active": true,

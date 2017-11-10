@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:lyszyme",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "117",
+  "testId": "117",
   "stainName": "Lysozyme",
   "stainAbbreviation": "Lysozyme",
   "active": true,

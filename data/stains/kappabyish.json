@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:kppbysh",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "360",
+  "testId": "360",
   "stainName": "Kappa by ISH",
   "stainAbbreviation": "Kappa",
   "active": true,

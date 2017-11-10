@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:bcl6",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "57",
+  "testId": "57",
   "stainName": "Bcl-6",
   "stainAbbreviation": "Bcl-6",
   "active": true,

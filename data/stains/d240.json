@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:d240",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "224",
+  "testId": "224",
   "stainName": "D2-40",
   "stainAbbreviation": "D2-40",
   "active": true,

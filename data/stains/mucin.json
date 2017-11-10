@@ -1,11 +1,12 @@
 {
   "stainType": "Cytochemical",
+  "stainId": "stain:mcn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "123",
+  "testId": "123",
   "stainName": "Mucin",
   "stainAbbreviation": "Mucin",
   "active": true,

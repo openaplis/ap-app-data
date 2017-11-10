@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:clrtnn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "60",
+  "testId": "60",
   "stainName": "Calretinin",
   "stainAbbreviation": "Calretinin",
   "active": true,

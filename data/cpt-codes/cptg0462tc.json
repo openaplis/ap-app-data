@@ -1,6 +1,6 @@
 {
   "cptType": "GCode",
-  "cptCodeId": "cptg0462tc",
+  "cptCodeId": "cpt:g0462tc",
   "code": "G0462",
   "description": null,
   "modifier": "TC",

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:smthmsclctn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "153",
+  "testId": "153",
   "stainName": "Smooth Muscle Actin",
   "stainAbbreviation": "SMA",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:pnmlnmccktl",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "181",
+  "testId": "181",
   "stainName": "Pan-melanoma cocktail",
   "stainAbbreviation": "Pan-melanoma cocktail",
   "active": true,

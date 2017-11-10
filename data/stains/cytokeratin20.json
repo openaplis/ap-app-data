@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cytkrtn20",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "87",
+  "testId": "87",
   "stainName": "Cytokeratin 20",
   "stainAbbreviation": "CK20",
   "active": true,

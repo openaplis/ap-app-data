@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:mc31",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "215",
+  "testId": "215",
   "stainName": "MOC 31",
   "stainAbbreviation": "MOC 31",
   "active": true,

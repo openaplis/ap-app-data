@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:intrprtvcnslttn",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "194",
+  "testId": "194",
   "stainName": "Intraoperative Consultation",
   "stainAbbreviation": "IC",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:fctrxa",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "101",
+  "testId": "101",
   "stainName": "Factor XIIIa",
   "stainAbbreviation": "Factor XIIIa",
   "active": true,

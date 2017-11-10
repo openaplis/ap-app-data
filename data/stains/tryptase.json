@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:tryptse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "353",
+  "testId": "353",
   "stainName": "Tryptase",
   "stainAbbreviation": "Tryptase",
   "active": true,

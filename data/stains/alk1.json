@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:alk1",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "52",
+  "testId": "52",
   "stainName": "ALK-1",
   "stainAbbreviation": "ALK-1",
   "active": true,

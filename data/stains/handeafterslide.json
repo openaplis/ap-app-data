@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:hndftrslde",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "348",
+  "testId": "348",
   "stainName": "H&E After Slide",
   "stainAbbreviation": "H&E After",
   "active": true,
