@@ -1,0 +1,20 @@
+{
+  "stainType": "IHC",
+  "orderComment": null,
+  "isBillable": true,
+  "hasGCode": true,
+  "isDualOrder": false,
+  "hasCptCodeLevels": true,
+  "stainId": "215",
+  "stainName": "MOC 31",
+  "stainAbbreviation": "MOC 31",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "MOC 31"
+}

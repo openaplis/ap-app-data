@@ -1,0 +1,20 @@
+{
+  "stainType": "Unknown",
+  "orderComment": null,
+  "isBillable": false,
+  "hasGCode": false,
+  "isDualOrder": false,
+  "hasCptCodeLevels": false,
+  "stainId": "204",
+  "stainName": "Fine Needle Aspirate",
+  "stainAbbreviation": "FNA",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": false,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "FNA"
+}
