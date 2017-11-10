@@ -1,0 +1,20 @@
+{
+  "stainType": "DualStain",
+  "orderComment": null,
+  "isBillable": true,
+  "hasGCode": true,
+  "isDualOrder": true,
+  "hasCptCodeLevels": true,
+  "stainId": "CK34P504RM",
+  "stainName": "Cytokeratin 34/P504s racemase",
+  "stainAbbreviation": "CK34/P504",
+  "active": false,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "CK34/P504"
+}

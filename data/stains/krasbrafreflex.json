@@ -1,0 +1,20 @@
+{
+  "stainType": "Unknown",
+  "orderComment": null,
+  "isBillable": false,
+  "hasGCode": false,
+  "isDualOrder": false,
+  "hasCptCodeLevels": false,
+  "stainId": "260",
+  "stainName": "KRAS BRAF Reflex",
+  "stainAbbreviation": "KRAS BRAF Reflex",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "KRAS BRAF Reflex"
+}

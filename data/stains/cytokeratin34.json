@@ -1,0 +1,20 @@
+{
+  "stainType": "IHC",
+  "orderComment": null,
+  "isBillable": true,
+  "hasGCode": true,
+  "isDualOrder": false,
+  "hasCptCodeLevels": true,
+  "stainId": "88",
+  "stainName": "Cytokeratin 34",
+  "stainAbbreviation": "CK34",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "CK34"
+}

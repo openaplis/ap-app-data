@@ -1,0 +1,20 @@
+{
+  "stainType": "Unknown",
+  "orderComment": null,
+  "isBillable": false,
+  "hasGCode": false,
+  "isDualOrder": false,
+  "hasCptCodeLevels": false,
+  "stainId": "219",
+  "stainName": "Non-Gyn Cytology Stain",
+  "stainAbbreviation": "Non-Gyn Cytology Stain",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": false,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "Non-Gyn Cytology Stain"
+}
