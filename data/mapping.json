@@ -4,7 +4,12 @@
   "key": "cptCodeId"
   },
   {
-  "folder": "icd9-codes",
-  "key": "icd9CodeId"
+  "folder": "icd-codes",
+  "key": "icdCode"
+  }
+  ,
+  {
+  "folder": "stains",
+  "key": "stainId"
   }
 ]
