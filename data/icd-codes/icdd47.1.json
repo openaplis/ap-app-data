@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:d47.1",
-  "icdCode": "D47.1",
+  "code": "D47.1",
   "description": "Chronic myeloproliferative disease",
   "category": "Flow"
 }

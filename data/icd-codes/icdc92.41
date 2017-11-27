@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:c92.41",
-  "icdCode": "C92.41",
+  "code": "C92.41",
   "description": "Acute promyelocytic leukemia, in remission",
   "category": "Flow"
 }

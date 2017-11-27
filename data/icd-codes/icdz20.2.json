@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:z20.2",
-  "icdCode": "Z20.2",
+  "code": "Z20.2",
   "description": "Contact with and (suspected) exposure to infections with a predominantly sexual mode of transmission",
   "category": "NGCT"
 }

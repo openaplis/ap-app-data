@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:z34.80",
-  "icdCode": "Z34.80",
+  "code": "Z34.80",
   "description": "Encounter for supervision of other normal pregnancy, unspecified trimester",
   "category": "Cytology"
 }

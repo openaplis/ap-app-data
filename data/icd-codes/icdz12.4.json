@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:z12.4",
-  "icdCode": "Z12.4",
+  "code": "Z12.4",
   "description": "Encounter for screening for malignant neoplasm of cervix",
   "category": "Cytology"
 }

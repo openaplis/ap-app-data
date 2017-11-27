@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:z11.8",
-  "icdCode": "Z11.8",
+  "code": "Z11.8",
   "description": "Encounter for screening for other infectious and parasitic diseases",
   "category": "NGCT"
 }

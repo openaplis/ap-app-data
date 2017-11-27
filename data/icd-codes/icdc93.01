@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:c93.01",
-  "icdCode": "C93.01",
+  "code": "C93.01",
   "description": "Acute monoblastic/monocytic leukemia, in remission",
   "category": "Flow"
 }

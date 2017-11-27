@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:d72.820",
-  "icdCode": "D72.820",
+  "code": "D72.820",
   "description": "Lymphocytosis (symptomatic)",
   "category": "Flow"
 }

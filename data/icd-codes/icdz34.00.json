@@ -1,6 +1,6 @@
 {
   "icdCodeId": "icd:z34.00",
-  "icdCode": "Z34.00",
+  "code": "Z34.00",
   "description": "Encounter for supervision of normal first pregnancy, unspecified trimester",
   "category": "Cytology"
 }
