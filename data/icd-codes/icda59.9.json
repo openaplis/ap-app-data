@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:a59.9",
   "icdCode": "A59.9",
   "description": " Trichomoniasis, unspecified",
   "category": "Trichomonas"

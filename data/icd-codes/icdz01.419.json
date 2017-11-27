@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:z01.419",
   "icdCode": "Z01.419",
   "description": "Encounter for gynecological examination (general) (routine) without abnormal findings",
   "category": "Cytology"

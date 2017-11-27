@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:z39.2",
   "icdCode": "Z39.2",
   "description": "Encounter for routine postpartum follow-up",
   "category": "Cytology"

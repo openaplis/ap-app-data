@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:c73",
   "icdCode": "C73",
   "description": "Malignant neoplasm of thyroid gland",
   "category": ""

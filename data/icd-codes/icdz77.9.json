@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:z77.9",
   "icdCode": "Z77.9",
   "description": "Other contact with and (suspected) exposures hazardous to health",
   "category": "Cytology"

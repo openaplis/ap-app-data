@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:d61.818",
   "icdCode": "D61.818",
   "description": "Other pancytopenia",
   "category": "Flow"

@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:z00.00",
   "icdCode": "Z00.00",
   "description": "Encounter for general adult medical examination without abnormal findings",
   "category": "Cytology"

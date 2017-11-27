@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:n92.0",
   "icdCode": "N92.0",
   "description": "Excessive and frequent menstruation (heavy)",
   "category": "Cytology"

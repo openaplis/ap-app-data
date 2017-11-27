@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:z39.1",
   "icdCode": "Z39.1",
   "description": "Encounter for care and examination of lactating mother",
   "category": "Cytology"

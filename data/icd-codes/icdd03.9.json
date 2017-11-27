@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:d03.9",
   "icdCode": "D03.9",
   "description": "Melanoma in situ, unspecified",
   "category": ""

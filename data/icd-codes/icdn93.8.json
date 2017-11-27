@@ -1,5 +1,5 @@
 {
-  "icdVersion": "ICD10",
+  "icdCodeId": "icd:n93.8",
   "icdCode": "N93.8",
   "description": "Other specified abnormal uterine and vaginal bleeding",
   "category": "Cytology"
