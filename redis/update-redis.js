@@ -3,7 +3,8 @@ var fs = require('fs')
 var redis = require('redis')
 var async = require('async')
 
-var client = redis.createClient(6379, 'localhost')
+// var client = redis.createClient(6379, 'localhost')
+var client = redis.createClient('31578', '10.1.2.70')
 var dataFolderPath = path.resolve('./data')
 var mappingFilePath = path.resolve('./data/mapping.json')
 
