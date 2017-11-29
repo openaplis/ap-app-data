@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "pqrs3260",
+  "cptCodeId": "pqrs:3260",
   "reportingDefinition": null,
   "header": null,
   "formattedReportingDefinition": "3260:  ",

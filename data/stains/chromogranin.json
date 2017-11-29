@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:chrmgrnn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "83",
+  "testId": "83",
   "stainName": "Chromogranin",
   "stainAbbreviation": "Chromo",
   "active": true,

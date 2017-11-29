@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:amyldprtn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "53",
+  "testId": "53",
   "stainName": "Amyloid A Protein",
   "stainAbbreviation": "Amyloid A Protein",
   "active": true,

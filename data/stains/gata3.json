@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:gt3",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "346",
+  "testId": "346",
   "stainName": "GATA-3",
   "stainAbbreviation": "GATA-3",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cd8",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "80",
+  "testId": "80",
   "stainName": "CD8",
   "stainAbbreviation": "CD8",
   "active": true,

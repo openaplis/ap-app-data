@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:msh2",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "122",
+  "testId": "122",
   "stainName": "MSH2",
   "stainAbbreviation": "MSH2",
   "active": true,

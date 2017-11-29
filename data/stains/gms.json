@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:gms",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "106",
+  "testId": "106",
   "stainName": "GMS",
   "stainAbbreviation": "GMS",
   "active": true,

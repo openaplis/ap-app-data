@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:vmntn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "164",
+  "testId": "164",
   "stainName": "Vimentin",
   "stainAbbreviation": "Vimentin",
   "active": true,

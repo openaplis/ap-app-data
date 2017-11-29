@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:ttf1",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "161",
+  "testId": "161",
   "stainName": "TTF-1",
   "stainAbbreviation": "TTF-1",
   "active": true,

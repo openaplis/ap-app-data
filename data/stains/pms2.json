@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:pms2",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "217",
+  "testId": "217",
   "stainName": "PMS2",
   "stainAbbreviation": "PMS2",
   "active": true,

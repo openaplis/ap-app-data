@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:p504srcmse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "133",
+  "testId": "133",
   "stainName": "P504s racemase",
   "stainAbbreviation": "P504s",
   "active": true,

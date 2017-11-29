@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:tsssmr",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "47",
+  "testId": "47",
   "stainName": "Tissue Smear",
   "stainAbbreviation": "Tissue Smear",
   "active": true,

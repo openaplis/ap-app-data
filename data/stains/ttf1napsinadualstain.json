@@ -1,11 +1,12 @@
 {
   "stainType": "DualStain",
+  "stainId": "stain:ttf1npsndlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": true,
   "hasCptCodeLevels": true,
-  "stainId": "TTFNPSNA",
+  "testId": "TTFNPSNA",
   "stainName": "TTF-1/Napsin A",
   "stainAbbreviation": "TTF1/NapsinA",
   "active": false,

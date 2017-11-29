@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:amyldpprtn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "54",
+  "testId": "54",
   "stainName": "Amyloid P Protein",
   "stainAbbreviation": "Amyloid P Protein",
   "active": true,

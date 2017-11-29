@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:p53",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "134",
+  "testId": "134",
   "stainName": "P53",
   "stainAbbreviation": "P53",
   "active": true,

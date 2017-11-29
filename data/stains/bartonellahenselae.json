@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:brtnllhnsle",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "168",
+  "testId": "168",
   "stainName": "Bartonella henselae (Cat Scratch)",
   "stainAbbreviation": "Cat Scratch",
   "active": true,

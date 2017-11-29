@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:cllblck",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "195",
+  "testId": "195",
   "stainName": "Cell Block",
   "stainAbbreviation": "Cell Block",
   "active": true,

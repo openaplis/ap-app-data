@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:npsna",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "270",
+  "testId": "270",
   "stainName": "Napsin A",
   "stainAbbreviation": "Napsin A",
   "active": true,

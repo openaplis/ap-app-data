@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:oscr",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "170",
+  "testId": "170",
   "stainName": "OSCAR",
   "stainAbbreviation": "OSCAR",
   "active": true,

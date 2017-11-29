@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:plcntllklnphsphtse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "142",
+  "testId": "142",
   "stainName": "Placental Alkaline Phosphatase",
   "stainAbbreviation": "PAP",
   "active": true,

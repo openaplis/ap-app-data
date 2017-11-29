@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:estrgnrcptr",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "98",
+  "testId": "98",
   "stainName": "Estrogen Receptor",
   "stainAbbreviation": "ER",
   "active": true,

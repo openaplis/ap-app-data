@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:s100",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "152",
+  "testId": "152",
   "stainName": "S100",
   "stainAbbreviation": "S100",
   "active": true,

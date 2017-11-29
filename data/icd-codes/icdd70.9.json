@@ -1,6 +1,6 @@
 {
-  "icdVersion": "ICD10",
-  "icdCode": "D70.9",
+  "icdCodeId": "icd:d70.9",
+  "code": "D70.9",
   "description": "Neutropenia, NOS",
   "category": "Flow"
 }

@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:pswthdstse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "140",
+  "testId": "140",
   "stainName": "PAS with diastase",
   "stainAbbreviation": "PASD",
   "active": true,

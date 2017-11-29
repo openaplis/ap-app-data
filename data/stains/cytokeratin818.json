@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cytkrtn818",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "91",
+  "testId": "91",
   "stainName": "Cytokeratin 8/18",
   "stainAbbreviation": "CK8/18",
   "active": true,

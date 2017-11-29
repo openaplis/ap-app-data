@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:stb2",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "357",
+  "testId": "357",
   "stainName": "SATB2",
   "stainAbbreviation": "SATB2",
   "active": true,

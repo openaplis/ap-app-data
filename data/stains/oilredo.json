@@ -1,11 +1,12 @@
 {
   "stainType": "Cytochemical",
+  "stainId": "stain:olrdo",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "131",
+  "testId": "131",
   "stainName": "Oil Red O",
   "stainAbbreviation": "Oil Red O",
   "active": true,

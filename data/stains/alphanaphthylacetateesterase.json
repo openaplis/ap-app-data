@@ -1,11 +1,12 @@
 {
   "stainType": "Cytochemical",
+  "stainId": "stain:alphnphthylcttstrse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "189",
+  "testId": "189",
   "stainName": "Alpha-naphthyl acetate esterase",
   "stainAbbreviation": "ANAE",
   "active": true,

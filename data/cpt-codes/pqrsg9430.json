@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "pqrsg9430",
+  "cptCodeId": "pqrs:g9430",
   "reportingDefinition": "Specimen site other than anatomic cutaneous location.",
   "header": null,
   "formattedReportingDefinition": "G9430:  Specimen site other than anatomic cutaneous location.",

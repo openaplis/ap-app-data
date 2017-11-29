@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:glypcn3",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "276",
+  "testId": "276",
   "stainName": "Glypican 3",
   "stainAbbreviation": "Glypican 3",
   "active": true,

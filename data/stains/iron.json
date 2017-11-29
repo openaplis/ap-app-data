@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:irn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "115",
+  "testId": "115",
   "stainName": "Iron",
   "stainAbbreviation": "Iron",
   "active": true,

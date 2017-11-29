@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:c199",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "59",
+  "testId": "59",
   "stainName": "CA 19-9",
   "stainAbbreviation": "CA 19-9",
   "active": true,

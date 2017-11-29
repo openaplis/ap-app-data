@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:trp",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "159",
+  "testId": "159",
   "stainName": "TRAP",
   "stainAbbreviation": "TRAP",
   "active": true,

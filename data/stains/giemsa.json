@@ -1,11 +1,12 @@
 {
   "stainType": "CytochemicalForMicroorganisms",
+  "stainId": "stain:gmsa",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "105",
+  "testId": "105",
   "stainName": "Giemsa",
   "stainAbbreviation": "Giemsa",
   "active": true,

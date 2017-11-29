@@ -1,6 +1,6 @@
 {
   "cptType": "Normal",
-  "cptCodeId": "cpt99000",
+  "cptCodeId": "cpt:99000",
   "code": "99000",
   "description": null,
   "modifier": null,

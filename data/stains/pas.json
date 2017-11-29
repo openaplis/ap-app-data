@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:ps",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "137",
+  "testId": "137",
   "stainName": "PAS",
   "stainAbbreviation": "PAS",
   "active": true,

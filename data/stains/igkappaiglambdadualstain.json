@@ -1,11 +1,12 @@
 {
   "stainType": "DualStain",
+  "stainId": "stain:igkppglmbddlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": true,
   "hasCptCodeLevels": true,
-  "stainId": "IGKIGL",
+  "testId": "IGKIGL",
   "stainName": "Ig Kappa/Ig Lambda",
   "stainAbbreviation": "Kappa/Lambda",
   "active": false,

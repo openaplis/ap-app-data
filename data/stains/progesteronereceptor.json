@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:prgstrnrcptr",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "144",
+  "testId": "144",
   "stainName": "Progesterone Receptor",
   "stainAbbreviation": "PR",
   "active": true,

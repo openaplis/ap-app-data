@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:trchrme",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "160",
+  "testId": "160",
   "stainName": "Trichrome",
   "stainAbbreviation": "Trichrome",
   "active": true,

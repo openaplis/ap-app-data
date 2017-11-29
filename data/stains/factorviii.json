@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:fctrvi",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "100",
+  "testId": "100",
   "stainName": "Factor VIII",
   "stainAbbreviation": "Factor VIII",
   "active": true,

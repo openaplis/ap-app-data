@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cyclnd1",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "85",
+  "testId": "85",
   "stainName": "Cyclin D1",
   "stainAbbreviation": "CyclinD1",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "CytochemicalForMicroorganisms",
+  "stainId": "stain:gt",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "358",
+  "testId": "358",
   "stainName": "Gout",
   "stainAbbreviation": "Gout",
   "active": true,

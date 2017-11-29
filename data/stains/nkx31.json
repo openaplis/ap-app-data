@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:nkx31",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "355",
+  "testId": "355",
   "stainName": "NKX3.1",
   "stainAbbreviation": "NKX3.1",
   "active": true,

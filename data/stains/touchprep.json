@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:tchprp",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "196",
+  "testId": "196",
   "stainName": "Touch Prep",
   "stainAbbreviation": "Touch Prep",
   "active": true,

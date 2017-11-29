@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:intrprtvcnslttnwthfrzn",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "45",
+  "testId": "45",
   "stainName": "Intraoperative Consultation with Frozen",
   "stainAbbreviation": "IC/F",
   "active": true,

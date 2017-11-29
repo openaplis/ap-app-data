@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:c125",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "58",
+  "testId": "58",
   "stainName": "CA 125",
   "stainAbbreviation": "CA 125",
   "active": true,

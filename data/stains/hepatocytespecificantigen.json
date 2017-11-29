@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:hptcytspcfcntgn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "197",
+  "testId": "197",
   "stainName": "Hepatocyte Specific Antigen",
   "stainAbbreviation": "HSA",
   "active": true,

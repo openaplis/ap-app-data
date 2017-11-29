@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:cngrd",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "84",
+  "testId": "84",
   "stainName": "Congo Red",
   "stainAbbreviation": "CongoRed",
   "active": true,

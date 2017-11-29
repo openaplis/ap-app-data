@@ -1,11 +1,12 @@
 {
   "stainType": "Cytochemical",
+  "stainId": "stain:alk",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "274",
+  "testId": "274",
   "stainName": "Alk",
   "stainAbbreviation": "Alk",
   "active": true,

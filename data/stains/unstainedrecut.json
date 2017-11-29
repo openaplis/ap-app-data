@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:unstndrct",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "182",
+  "testId": "182",
   "stainName": "Unstained Recut",
   "stainAbbreviation": "Unstained Recut",
   "active": true,

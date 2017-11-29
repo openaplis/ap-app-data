@@ -1,11 +1,12 @@
 {
   "stainType": "DualStain",
+  "stainId": "stain:cd3cd20dlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": true,
   "hasCptCodeLevels": true,
-  "stainId": "CD30CD20",
+  "testId": "CD30CD20",
   "stainName": "CD3/CD20",
   "stainAbbreviation": "CD3/20",
   "active": false,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:vlln",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "163",
+  "testId": "163",
   "stainName": "Villin",
   "stainAbbreviation": "Villin",
   "active": true,

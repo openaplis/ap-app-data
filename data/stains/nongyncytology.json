@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:nngyncytlgy",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "206",
+  "testId": "206",
   "stainName": "Non-Gyn Cytology",
   "stainAbbreviation": "Non-Gyn Cytology",
   "active": true,

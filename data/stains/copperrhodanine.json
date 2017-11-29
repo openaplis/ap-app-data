@@ -1,11 +1,12 @@
 {
   "stainType": "Cytochemical",
+  "stainId": "stain:cpprrhdnne",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "213",
+  "testId": "213",
   "stainName": "Copper rhodanine",
   "stainAbbreviation": "Copper rhodanine",
   "active": true,

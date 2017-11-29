@@ -1,6 +1,6 @@
 {
-  "icdVersion": "ICD10",
-  "icdCode": "Z34.02",
+  "icdCodeId": "icd:z34.02",
+  "code": "Z34.02",
   "description": "Encounter for supervision of normal first pregnancy, second trimester",
   "category": "Cytology"
 }

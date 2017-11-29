@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:brf",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "222",
+  "testId": "222",
   "stainName": "BRAF",
   "stainAbbreviation": "BRAF",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:mylprxdse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "126",
+  "testId": "126",
   "stainName": "Myeloperoxidase",
   "stainAbbreviation": "Myeloperoxidase",
   "active": true,

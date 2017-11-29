@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:pslcnble",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "138",
+  "testId": "138",
   "stainName": "PAS alcian blue",
   "stainAbbreviation": "PASAB",
   "active": true,

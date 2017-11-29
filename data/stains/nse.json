@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:nse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "130",
+  "testId": "130",
   "stainName": "NSE",
   "stainAbbreviation": "NSE",
   "active": true,
