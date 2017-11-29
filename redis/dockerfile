@@ -1,0 +1,2 @@
+FROM sidharder/ap-app-data:latest
+EXPOSE 6379
