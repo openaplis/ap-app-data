@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:sx10",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "356",
+  "testId": "356",
   "stainName": "SOX10",
   "stainAbbreviation": "SOX10",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:krsbrfrflx",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "260",
+  "testId": "260",
   "stainName": "KRAS BRAF Reflex",
   "stainAbbreviation": "KRAS BRAF Reflex",
   "active": true,

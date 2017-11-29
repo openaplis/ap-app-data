@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:smthmsclmysn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "154",
+  "testId": "154",
   "stainName": "Smooth Muscle Myosin",
   "stainAbbreviation": "SMM",
   "active": true,

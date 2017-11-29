@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:stnrndstnr",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "155",
+  "testId": "155",
   "stainName": "Steiner and Steiner",
   "stainAbbreviation": "Steiner",
   "active": true,

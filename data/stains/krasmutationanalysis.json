@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:krsmttnnlyss",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "221",
+  "testId": "221",
   "stainName": "KRAS Mutation Analysis",
   "stainAbbreviation": "KRAS",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "Test",
+  "stainId": "stain:prxysmlnctrnlhmglbnra",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "198",
+  "testId": "198",
   "stainName": "Paroxysmal Nocturnal Hemoglobinuria",
   "stainAbbreviation": "PNH",
   "active": true,

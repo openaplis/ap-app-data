@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:prsttccdphsphtse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "147",
+  "testId": "147",
   "stainName": "Prostatic Acid Phosphatase",
   "stainAbbreviation": "PAP",
   "active": true,

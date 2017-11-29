@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:px8",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "253",
+  "testId": "253",
   "stainName": "PAX-8",
   "stainAbbreviation": "PAX-8",
   "active": true,

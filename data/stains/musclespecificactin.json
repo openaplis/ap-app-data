@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:msclspcfcctn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "125",
+  "testId": "125",
   "stainName": "Muscle Specific Actin",
   "stainAbbreviation": "MSA",
   "active": true,

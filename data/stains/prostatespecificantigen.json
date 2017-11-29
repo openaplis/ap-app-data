@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:prsttspcfcntgn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "146",
+  "testId": "146",
   "stainName": "Prostate Specific Antigen",
   "stainAbbreviation": "PSA",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cdx2",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "81",
+  "testId": "81",
   "stainName": "CDX-2",
   "stainAbbreviation": "CDX-2",
   "active": true,

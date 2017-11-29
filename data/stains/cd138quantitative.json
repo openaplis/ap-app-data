@@ -1,11 +1,12 @@
 {
   "stainType": "Graded",
+  "stainId": "stain:cd138qntttve",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "273",
+  "testId": "273",
   "stainName": "CD138 Quantitative",
   "stainAbbreviation": "CD138 Quant",
   "active": true,

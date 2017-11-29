@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:hr2mplfctn",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "190",
+  "testId": "190",
   "stainName": "HER2 Amplification",
   "stainAbbreviation": "HER2",
   "active": true,

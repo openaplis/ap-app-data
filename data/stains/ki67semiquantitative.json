@@ -1,11 +1,12 @@
 {
   "stainType": "Graded",
+  "stainId": "stain:k67smqntttve",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "116",
+  "testId": "116",
   "stainName": "Ki-67, Semi-quantitative",
   "stainAbbreviation": "Ki-67 Semi",
   "active": true,

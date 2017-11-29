@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:ca",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "82",
+  "testId": "82",
   "stainName": "CEA",
   "stainAbbreviation": "CEA",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cytmglvrs",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "350",
+  "testId": "350",
   "stainName": "Cytomegalovirus",
   "stainAbbreviation": "CMV",
   "active": true,

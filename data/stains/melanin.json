@@ -1,11 +1,12 @@
 {
   "stainType": "Cytochemical",
+  "stainId": "stain:mlnn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "120",
+  "testId": "120",
   "stainName": "Melanin",
   "stainAbbreviation": "Melanin",
   "active": true,

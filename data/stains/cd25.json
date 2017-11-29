@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cd25",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "67",
+  "testId": "67",
   "stainName": "CD25",
   "stainAbbreviation": "CD25",
   "active": true,

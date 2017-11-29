@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:grssnly",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "48",
+  "testId": "48",
   "stainName": "Gross Only",
   "stainAbbreviation": "Gross Only",
   "active": true,

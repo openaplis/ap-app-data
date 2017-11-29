@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:lmbdbysh",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "361",
+  "testId": "361",
   "stainName": "Lambda by ISH",
   "stainAbbreviation": "Lambda",
   "active": true,

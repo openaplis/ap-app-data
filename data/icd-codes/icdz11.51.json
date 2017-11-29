@@ -1,6 +1,6 @@
 {
-  "icdVersion": "ICD10",
-  "icdCode": "Z11.51",
+  "icdCodeId": "icd:z11.51",
+  "code": "Z11.51",
   "description": "Encounter for screening for human papillomavirus (HPV)",
   "category": "Routine HPV"
 }

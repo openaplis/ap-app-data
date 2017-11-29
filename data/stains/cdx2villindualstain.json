@@ -1,11 +1,12 @@
 {
   "stainType": "DualStain",
+  "stainId": "stain:cdx2vllndlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": true,
   "hasCptCodeLevels": true,
-  "stainId": "CDX2VN",
+  "testId": "CDX2VN",
   "stainName": "CDX-2/Villin",
   "stainAbbreviation": "CDX2/Vln",
   "active": false,

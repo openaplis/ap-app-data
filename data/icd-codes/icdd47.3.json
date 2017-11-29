@@ -1,6 +1,6 @@
 {
-  "icdVersion": "ICD10",
-  "icdCode": "D47.3",
+  "icdCodeId": "icd:d47.3",
+  "code": "D47.3",
   "description": "Essential (hemorrhagic) thrombocythemia",
   "category": ""
 }

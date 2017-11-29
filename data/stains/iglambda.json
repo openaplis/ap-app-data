@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:iglmbda",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "114",
+  "testId": "114",
   "stainName": "Ig Lambda",
   "stainAbbreviation": "Ig Lambda",
   "active": true,

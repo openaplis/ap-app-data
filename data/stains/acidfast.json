@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:acdfst",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "50",
+  "testId": "50",
   "stainName": "Acid Fast",
   "stainAbbreviation": "Acid Fast",
   "active": true,

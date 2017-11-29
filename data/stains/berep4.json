@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:brp4",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "216",
+  "testId": "216",
   "stainName": "Ber-EP4",
   "stainAbbreviation": "Ber-EP4",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:alcnble",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "51",
+  "testId": "51",
   "stainName": "Alcian Blue",
   "stainAbbreviation": "Alcian Blue",
   "active": true,

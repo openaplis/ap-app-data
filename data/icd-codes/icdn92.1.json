@@ -1,6 +1,6 @@
 {
-  "icdVersion": "ICD10",
-  "icdCode": "N92.1",
+  "icdCodeId": "icd:n92.1",
+  "code": "N92.1",
   "description": "Excessive and frequent menstruation (irregular)",
   "category": "Cytology"
 }

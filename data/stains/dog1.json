@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:dg1",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "298",
+  "testId": "298",
   "stainName": "DOG-1",
   "stainAbbreviation": "DOG-1",
   "active": true,

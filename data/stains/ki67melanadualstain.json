@@ -1,11 +1,12 @@
 {
   "stainType": "DualStain",
+  "stainId": "stain:k67mlndlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": true,
   "hasCptCodeLevels": true,
-  "stainId": "KI67MA",
+  "testId": "KI67MA",
   "stainName": "Ki-67, Semi-quantitative/Melan A",
   "stainAbbreviation": "Ki-67/MelanA",
   "active": false,

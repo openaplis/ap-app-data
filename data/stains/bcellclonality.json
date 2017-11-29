@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:bcllclnlty",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "259",
+  "testId": "259",
   "stainName": "B-Cell Clonality",
   "stainAbbreviation": "B-Cell",
   "active": true,

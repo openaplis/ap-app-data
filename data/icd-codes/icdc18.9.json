@@ -1,6 +1,6 @@
 {
-  "icdVersion": "ICD10",
-  "icdCode": "C18.9",
+  "icdCodeId": "icd:c18.9",
+  "code": "C18.9",
   "description": "Malignant neoplasm of colon, unspecified",
   "category": ""
 }

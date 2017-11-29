@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:mlh1",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "121",
+  "testId": "121",
   "stainName": "MLH1",
   "stainAbbreviation": "MLH1",
   "active": true,

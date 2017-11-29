@@ -1,11 +1,12 @@
 {
   "stainType": "Unknown",
+  "stainId": "stain:dffqk",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "279",
+  "testId": "279",
   "stainName": "Diff-Quik",
   "stainAbbreviation": "Diff-Quik",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:elstc",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "96",
+  "testId": "96",
   "stainName": "Elastic",
   "stainAbbreviation": "Elastic",
   "active": true,

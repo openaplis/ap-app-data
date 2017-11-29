@@ -1,11 +1,12 @@
 {
   "stainType": "SpecialStain",
+  "stainId": "stain:psfrfngs",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "139",
+  "testId": "139",
   "stainName": "PAS for fungus",
   "stainAbbreviation": "PASF",
   "active": true,

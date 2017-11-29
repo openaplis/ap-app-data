@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cytkrtn56",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "89",
+  "testId": "89",
   "stainName": "Cytokeratin 5/6",
   "stainAbbreviation": "CK5/6",
   "active": true,

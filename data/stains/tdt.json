@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:tdt",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "157",
+  "testId": "157",
   "stainName": "TdT",
   "stainAbbreviation": "TdT",
   "active": true,

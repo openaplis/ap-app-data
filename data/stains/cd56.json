@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cd56",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "77",
+  "testId": "77",
   "stainName": "CD56",
   "stainAbbreviation": "CD56",
   "active": true,

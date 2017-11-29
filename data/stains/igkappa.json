@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:igkppa",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "113",
+  "testId": "113",
   "stainName": "Ig Kappa",
   "stainAbbreviation": "Ig Kappa",
   "active": true,

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:p40",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "359",
+  "testId": "359",
   "stainName": "P40",
   "stainAbbreviation": "P40",
   "active": true,

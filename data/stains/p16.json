@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:p16",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "132",
+  "testId": "132",
   "stainName": "P16",
   "stainAbbreviation": "P16",
   "active": true,

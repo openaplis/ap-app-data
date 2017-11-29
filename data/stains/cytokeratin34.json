@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:cytkrtn34",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "88",
+  "testId": "88",
   "stainName": "Cytokeratin 34",
   "stainAbbreviation": "CK34",
   "active": true,

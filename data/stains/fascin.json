@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:fscn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "102",
+  "testId": "102",
   "stainName": "Fascin",
   "stainAbbreviation": "Fascin",
   "active": true,

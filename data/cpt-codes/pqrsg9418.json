@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "pqrsg9418",
+  "cptCodeId": "pqrs:g9418",
   "reportingDefinition": "Biopsy and/or cytology specimen reports with a diagnosis of primary non-small cell lung cancer classified into specific hitologic type (squamous cell carcinoma, adenocarcinoma) OR classified as NSCLC-NOS with an explanation included in the pathology report.",
   "header": null,
   "formattedReportingDefinition": "G9418:  Biopsy and/or cytology specimen reports with a diagnosis of primary non-small cell lung cancer classified into specific hitologic type (squamous cell carcinoma, adenocarcinoma) OR classified as NSCLC-NOS with an explanation included in the pathology report.",

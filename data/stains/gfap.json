@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:gfp",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "104",
+  "testId": "104",
   "stainName": "GFAP",
   "stainAbbreviation": "GFAP",
   "active": true,

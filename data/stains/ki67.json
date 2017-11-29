@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:k67",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "349",
+  "testId": "349",
   "stainName": "Ki-67",
   "stainAbbreviation": "Ki-67",
   "active": true,

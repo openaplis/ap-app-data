@@ -1,6 +1,6 @@
 {
   "cptType": "PQRS",
-  "cptCodeId": "pqrsg9423",
+  "cptCodeId": "pqrs:g9423",
   "reportingDefinition": "Primary Lung Carcinoma where the pT category, pN category and for Non Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinoma, Adenocarcinoma) OR NSCLC-NOS classification with an explanation (eg, a solitary fibrous tumor in a person with a history of non-small cell carcinoma or other documented medical reasons) not documented for medical reasons.",
   "header": null,
   "formattedReportingDefinition": "G9423:  Primary Lung Carcinoma where the pT category, pN category and for Non Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinoma, Adenocarcinoma) OR NSCLC-NOS classification with an explanation (eg, a solitary fibrous tumor in a person with a history of non-small cell carcinoma or other documented medical reasons) not documented for medical reasons.",

@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:mtf",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "178",
+  "testId": "178",
   "stainName": "MITF",
   "stainAbbreviation": "MITF",
   "active": true,

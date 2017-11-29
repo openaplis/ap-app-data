@@ -1,11 +1,12 @@
 {
   "stainType": "Test",
+  "stainId": "stain:nssrgnrrhe",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,
   "isDualOrder": false,
   "hasCptCodeLevels": false,
-  "stainId": "25",
+  "testId": "25",
   "stainName": "Neisseria gonorrhoeae",
   "stainAbbreviation": "NG",
   "active": false,

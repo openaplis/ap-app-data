@@ -1,11 +1,12 @@
 {
   "stainType": "DualStain",
+  "stainId": "stain:oscrsmthmsclmysndlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": true,
   "hasCptCodeLevels": true,
-  "stainId": "OSCRSMM",
+  "testId": "OSCRSMM",
   "stainName": "OSCAR/Smooth Muscle Myosin",
   "stainAbbreviation": "OSCAR/SMM",
   "active": false,

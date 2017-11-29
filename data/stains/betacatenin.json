@@ -1,11 +1,12 @@
 {
   "stainType": "IHC",
+  "stainId": "stain:btctnn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
   "isDualOrder": false,
   "hasCptCodeLevels": true,
-  "stainId": "299",
+  "testId": "299",
   "stainName": "Beta-Catenin",
   "stainAbbreviation": "Beta-Catenin",
   "active": true,
