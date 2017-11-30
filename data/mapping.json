@@ -1,15 +1,18 @@
 [
   {
   "folder": "cpt-codes",
-  "key": "cptCodeId"
+  "key": "cptCodeId",
+  "redisIndex": 1
   },
   {
   "folder": "icd-codes",
-  "key": "icdCodeId"
+  "key": "icdCodeId",
+  "redisIndex": 2
   }
   ,
   {
   "folder": "stains",
-  "key": "stainId"
+  "key": "stainId",
+  "redisIndex": 3
   }
 ]

@@ -19,6 +19,8 @@ client.send_command('flushall', function (err, result) {
     var folderMappings = JSON.parse(data)
     async.each(folderMappings, function(mapping, callback) {
       var folderPath = path.join(dataFolderPath, mapping.folder)
+
+
       fs.readdir(folderPath, function (err, files) {
         async.each(files, function (file, callback) {
           var objFilePath = path.join(folderPath, file)
@@ -35,7 +37,8 @@ client.send_command('flushall', function (err, result) {
           console.log('Finished looping files')
           callback()
         })
-      })
+      })      
+
     }, function (err) {
       console.log('Finished looping folders, quitting')
       client.quit()

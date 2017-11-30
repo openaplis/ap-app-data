@@ -1,8 +1,0 @@
-{
-  "keys": [
-    { "db:map": 0 },
-    { "db:accessionLock": 1 },
-    { "db:cptCode": 2 },
-    { "db:icdCode": 3 }
-  ]
-}
