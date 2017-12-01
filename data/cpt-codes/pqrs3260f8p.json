@@ -1,0 +1,20 @@
+{
+  "cptType": "PQRS",
+  "cptCodeId": "pqrs:3260f8p",
+  "reportingDefinition": "",
+  "header": null,
+  "formattedReportingDefinition": "3260F8p:",
+  "code": "3260F8p",
+  "description": null,
+  "modifier": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": 3,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null
+}
