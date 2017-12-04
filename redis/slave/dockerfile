@@ -1,0 +1,7 @@
+FROM redis
+RUN mkdir -p /etc/redis
+COPY redis.conf /etc/redis/redis.conf
+
+EXPOSE 6379
+# RUN echo never > /sys/kernel/mm/transparent_hugepage/enabled
+CMD [ "redis-server", "/etc/redis/redis.conf" ]
