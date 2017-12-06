@@ -1,0 +1,16 @@
+{
+  "code": "G9430",
+  "description": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "Specimen site other than anatomic cutaneous location.",
+  "formattedReportingDefinition": "G9430:  Specimen site other than anatomic cutaneous location."
+}

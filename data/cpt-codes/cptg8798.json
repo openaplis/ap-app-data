@@ -1,0 +1,16 @@
+{
+  "code": "G8798",
+  "description": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "Specimen Site other than anatomic location of prostate.",
+  "formattedReportingDefinition": "G8798:  Specimen Site other than anatomic location of prostate."
+}

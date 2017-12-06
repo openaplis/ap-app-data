@@ -1,0 +1,16 @@
+{
+  "code": "G9425",
+  "description": "Code for performance not met",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "For Primary Lung Carcinoma, the pT category, pN category not document, reason not given and for Non Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinoma, Adenocarcinoma) OR classified as NSCLC-NOS with an explanation is not documented, reason not given.",
+  "formattedReportingDefinition": "G9425:  For Primary Lung Carcinoma, the pT category, pN category not document, reason not given and for Non Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinoma, Adenocarcinoma) OR classified as NSCLC-NOS with an explanation is not documented, reason not given."
+}

@@ -1,0 +1,16 @@
+{
+  "code": "3125F",
+  "description": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "The esophageal biopsy report documents the presence of Barrett's mucosa and includes a statement about dysplasia.",
+  "formattedReportingDefinition": "3125F:  The esophageal biopsy report documents the presence of Barrett's mucosa and includes a statement about dysplasia."
+}

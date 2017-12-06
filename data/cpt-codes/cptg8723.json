@@ -1,0 +1,16 @@
+{
+  "code": "G8723",
+  "description": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "pT category, pN category, and histologic grade are not documented in the pathology report, reason not otherwise specified.",
+  "formattedReportingDefinition": "G8723:  pT category, pN category, and histologic grade are not documented in the pathology report, reason not otherwise specified."
+}

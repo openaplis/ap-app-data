@@ -1,0 +1,16 @@
+{
+  "code": "3267F",
+  "description": null,
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "Pathology report includes pT category, pN category, Gleason score, and statement about margins.",
+  "formattedReportingDefinition": "3267F:  Pathology report includes pT category, pN category, Gleason score, and statement about margins."
+}

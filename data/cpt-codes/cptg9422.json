@@ -1,0 +1,16 @@
+{
+  "code": "G9422",
+  "description": "Lung Cancer Reporting - Performance Met",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "Primary lung carcinoma that include the pT category, pN category and for Non-Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinomona, Adenocarcinoma) OR classified as NSCLC-NOS with an explanation.",
+  "formattedReportingDefinition": "G9422:  Primary lung carcinoma that include the pT category, pN category and for Non-Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinomona, Adenocarcinoma) OR classified as NSCLC-NOS with an explanation."
+}

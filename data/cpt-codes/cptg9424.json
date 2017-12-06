@@ -1,0 +1,16 @@
+{
+  "code": "G9424",
+  "description": "Lung Cancer Reporting - Other Exclusions",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "specimen site other than anatomic location of lung, is not classified as non-small cell ung cancer or classified as NSCLC-NOS",
+  "formattedReportingDefinition": "G9424:  specimen site other than anatomic location of lung, is not classified as non-small cell ung cancer or classified as NSCLC-NOS"
+}

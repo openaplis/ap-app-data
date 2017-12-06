@@ -1,0 +1,16 @@
+{
+  "code": "G9423",
+  "description": "Lung Cancer Reporting - Medical Exclusions",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "Primary Lung Carcinoma where the pT category, pN category and for Non Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinoma, Adenocarcinoma) OR NSCLC-NOS classification with an explanation (eg, a solitary fibrous tumor in a person with a history of non-small cell carcinoma or other documented medical reasons) not documented for medical reasons.",
+  "formattedReportingDefinition": "G9423:  Primary Lung Carcinoma where the pT category, pN category and for Non Small Cell Lung Cancer, Histologic Type (Squamous Cell Carcinoma, Adenocarcinoma) OR NSCLC-NOS classification with an explanation (eg, a solitary fibrous tumor in a person with a history of non-small cell carcinoma or other documented medical reasons) not documented for medical reasons."
+}

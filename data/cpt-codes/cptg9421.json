@@ -1,0 +1,16 @@
+{
+  "code": "G9421",
+  "description": "Lung Cancer Reporting - Performance Not Met",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "header": null,
+  "reportingDefinition": "Primary non-small cell lung cancer biopsy and cytology specimen report does not document classification into specific histologic type OR classified as NSCLC-NOS with an explanation.",
+  "formattedReportingDefinition": "G9421:  Primary non-small cell lung cancer biopsy and cytology specimen report does not document classification into specific histologic type OR classified as NSCLC-NOS with an explanation."
+}
