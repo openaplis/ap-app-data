@@ -4,6 +4,7 @@
   "feeSchedule": 0,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": false,
+  "codeType": 2,
   "isBillable": true,
   "gCode": "G0123",
   "hasMedicareQuantityLimit": false,
