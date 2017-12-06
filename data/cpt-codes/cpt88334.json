@@ -1,13 +1,9 @@
 {
-  "cptType": "Normal",
-  "cptCodeId": "cpt:88334",
   "code": "88334",
   "description": null,
-  "modifier": null,
   "feeSchedule": 0,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": true,
-  "codeType": 0,
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

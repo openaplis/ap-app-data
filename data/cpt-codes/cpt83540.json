@@ -1,13 +1,9 @@
 {
-  "cptType": "Normal",
-  "cptCodeId": "cpt:83540",
   "code": "83540",
   "description": null,
-  "modifier": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": true,
-  "codeType": 0,
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

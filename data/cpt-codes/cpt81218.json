@@ -1,13 +1,9 @@
 {
-  "cptType": "Normal",
-  "cptCodeId": "cpt:81218",
   "code": "81218",
   "description": null,
-  "modifier": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": false,
-  "codeType": 1,
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

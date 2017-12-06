@@ -1,7 +1,7 @@
 [
   {
   "folder": "cpt-codes",
-  "key": "cptCodeId",
+  "key": "code",
   "redisIndex": 1
   },
   {

@@ -1,13 +1,9 @@
 {
-  "cptType": "Normal",
-  "cptCodeId": "cpt:85060",
   "code": "85060",
   "description": null,
-  "modifier": null,
   "feeSchedule": 0,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": true,
-  "codeType": 1,
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

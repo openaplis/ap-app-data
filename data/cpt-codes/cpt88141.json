@@ -1,13 +1,9 @@
 {
-  "cptType": "Normal",
-  "cptCodeId": "cpt:88141",
   "code": "88141",
   "description": null,
-  "modifier": null,
   "feeSchedule": 0,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": true,
-  "codeType": 1,
   "isBillable": true,
   "gCode": "G0124",
   "hasMedicareQuantityLimit": false,

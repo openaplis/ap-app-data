@@ -1,13 +1,9 @@
 {
-  "cptType": "Normal",
-  "cptCodeId": "cpt:81450",
   "code": "81450",
   "description": null,
-  "modifier": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": false,
-  "codeType": 0,
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
