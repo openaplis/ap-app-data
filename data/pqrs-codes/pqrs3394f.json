@@ -10,5 +10,11 @@
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
-  "svhCDMDescription": null
+  "svhCDMDescription": null,
+  "cptCodeModifiers": [
+    {
+      "modifier": "8P",
+      "description": null
+    }
+  ]
 }

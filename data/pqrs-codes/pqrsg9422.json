@@ -10,5 +10,6 @@
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
-  "svhCDMDescription": null
+  "svhCDMDescription": null,
+  "cptCodeModifiers": []
 }

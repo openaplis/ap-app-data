@@ -1,6 +1,6 @@
 {
   "code": "G9430",
-  "description": null,
+  "description": "Specimen site other than anatomic cutaneous location.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
@@ -10,5 +10,6 @@
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
-  "svhCDMDescription": null
+  "svhCDMDescription": null,
+  "cptCodeModifiers": []
 }

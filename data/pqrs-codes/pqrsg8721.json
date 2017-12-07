@@ -1,6 +1,6 @@
 {
   "code": "G8721",
-  "description": null,
+  "description": "pT category, pN category and histologic grade have been documented in pathology report.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
@@ -10,5 +10,6 @@
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
-  "svhCDMDescription": null
+  "svhCDMDescription": null,
+  "cptCodeModifiers": []
 }

@@ -1,6 +1,6 @@
 {
   "code": "G8797",
-  "description": null,
+  "description": "Patient is not eligible for this measure because specimen(s) are not of esophageal origin (e.g. stomach) report: Specimen site other than anatomic location of esophagus",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
@@ -10,5 +10,6 @@
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
-  "svhCDMDescription": null
+  "svhCDMDescription": null,
+  "cptCodeModifiers": []
 }
