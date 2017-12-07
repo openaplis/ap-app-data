@@ -1,20 +1,15 @@
 {
-  "code": "3394F",
-  "description": null,
+  "code": "G9424",
+  "description": "Lung Cancer Reporting - Other Exclusions",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 3,
+  "codeType": 0,
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": [
-    {
-      "modifier": "8P",
-      "description": null
-    }
-  ]
+  "modifiers": []
 }

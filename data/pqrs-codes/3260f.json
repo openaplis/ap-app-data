@@ -11,7 +11,7 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": [
+  "modifiers": [
     {
       "modifier": "1P",
       "description": "The medical reason(s) for not including pT category, pN category, and histologic grade are included the the pathology report."

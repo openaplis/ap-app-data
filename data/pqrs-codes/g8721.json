@@ -1,6 +1,6 @@
 {
-  "code": "G8722",
-  "description": "The medical reason(s) for not including pT category, pN category, and histologic grade are included the the pathology report.",
+  "code": "G8721",
+  "description": "pT category, pN category and histologic grade have been documented in pathology report.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
@@ -11,5 +11,5 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": []
+  "modifiers": []
 }

@@ -1,6 +1,6 @@
 {
-  "code": "G9422",
-  "description": "Lung Cancer Reporting - Performance Met",
+  "code": "G9430",
+  "description": "Specimen site other than anatomic cutaneous location.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
@@ -11,5 +11,5 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": []
+  "modifiers": []
 }

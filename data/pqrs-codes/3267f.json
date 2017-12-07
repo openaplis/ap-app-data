@@ -11,7 +11,7 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": [
+  "modifiers": [
     {
       "modifier": "1P",
       "description": "Documentation of medical reason(s) for not including pT category, pN category, Gleason score and statement about margin status (ie, specimen originated from other malignant neoplasms, transurethral resections of the prostate, or secondary site prostatic carcinomas)"

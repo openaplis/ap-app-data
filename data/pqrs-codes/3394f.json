@@ -1,15 +1,20 @@
 {
-  "code": "G9421",
-  "description": "Lung Cancer Reporting - Performance Not Met",
+  "code": "3394F",
+  "description": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": 3,
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": []
+  "modifiers": [
+    {
+      "modifier": "8P",
+      "description": null
+    }
+  ]
 }

@@ -1,15 +1,15 @@
 {
-  "code": "3125F",
-  "description": "The esophageal biopsy report documents the presence of Barrett's mucosa and includes a statement about dysplasia.",
+  "code": "G9420",
+  "description": "Lung Cancer Reporting - Other Exclusions",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 3,
+  "codeType": 0,
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": []
+  "modifiers": []
 }

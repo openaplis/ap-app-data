@@ -1,6 +1,6 @@
 {
-  "code": "G9419",
-  "description": "Lung Cancer Reporting - Medical Exclusions",
+  "code": "G9421",
+  "description": "Lung Cancer Reporting - Performance Not Met",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
@@ -11,5 +11,5 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": []
+  "modifiers": []
 }
