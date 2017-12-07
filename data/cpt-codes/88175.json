@@ -1,0 +1,15 @@
+{
+  "code": "88175",
+  "description": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": 2,
+  "isBillable": true,
+  "gCode": "G0145",
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760403862",
+  "svhCDMDescription": "THIN PREP AUTO DIAGNOSTIC",
+  "modifiers": []
+}

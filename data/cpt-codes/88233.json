@@ -1,0 +1,15 @@
+{
+  "code": "88233",
+  "description": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": 2,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760802263",
+  "svhCDMDescription": "CULTURE TISSUE SKIN",
+  "modifiers": []
+}

@@ -1,0 +1,15 @@
+{
+  "code": "88313",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760402287",
+  "svhCDMDescription": "SPECIAL STAINS; GROUP 2, EACH",
+  "modifiers": []
+}

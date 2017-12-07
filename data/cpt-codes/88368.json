@@ -1,0 +1,15 @@
+{
+  "code": "88368",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": true,
+  "medicareQuantityLimit": 1,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "modifiers": []
+}

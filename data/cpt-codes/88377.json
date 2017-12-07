@@ -1,0 +1,15 @@
+{
+  "code": "88377",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760806284",
+  "svhCDMDescription": "M/PHMTRC ANALYS ISH QUANT/SEMIQ; MANUAL EA MULTIPLEX PROBE",
+  "modifiers": []
+}

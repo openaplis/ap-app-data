@@ -1,0 +1,15 @@
+{
+  "code": "88239",
+  "description": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": 2,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760802727",
+  "svhCDMDescription": "TISSUE CULTRE SOLID TUMOR",
+  "modifiers": []
+}

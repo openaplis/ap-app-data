@@ -1,0 +1,15 @@
+{
+  "code": "88365",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760802301",
+  "svhCDMDescription": "TISSUE ISH SNGL PROBE PER SPEC",
+  "modifiers": []
+}
