@@ -1,9 +1,6 @@
 {
-  "cptType": "Normal",
-  "cptCodeId": "cpt:87621",
   "code": "87621",
   "description": null,
-  "modifier": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": false,

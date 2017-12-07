@@ -1,0 +1,15 @@
+{
+  "code": "G9431",
+  "description": "Pathology report does not include the pT Category.",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": 0,
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "cptCodeModifiers": []
+}

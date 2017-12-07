@@ -1,9 +1,6 @@
 {
-  "cptType": "GCode",
-  "cptCodeId": "cpt:g0124",
   "code": "G0124",
   "description": null,
-  "modifier": null,
   "feeSchedule": 0,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": true,

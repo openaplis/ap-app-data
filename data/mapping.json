@@ -1,18 +1,22 @@
 [
   {
   "folder": "cpt-codes",
-  "key": "cptCodeId",
+  "key": "code",
   "redisIndex": 1
   },
   {
   "folder": "icd-codes",
   "key": "icdCodeId",
   "redisIndex": 2
-  }
-  ,
+  },
   {
   "folder": "stains",
   "key": "stainId",
   "redisIndex": 3
+  },
+  {
+  "folder": "pqrs-codes",
+  "key": "code",
+  "redisIndex": 4
   }
 ]

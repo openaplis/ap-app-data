@@ -1,9 +1,6 @@
 {
-  "cptType": "GCode",
-  "cptCodeId": "cpt:g0145",
   "code": "G0145",
   "description": null,
-  "modifier": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": false,
