@@ -1,0 +1,15 @@
+{
+  "code": "88343",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760805981",
+  "svhCDMDescription": "IMMUNOHISTO/CYTO CHEM, EACH ADDITIONAL AB",
+  "modifiers": []
+}

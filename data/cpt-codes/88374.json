@@ -1,0 +1,15 @@
+{
+  "code": "88374",
+  "description": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760806283",
+  "svhCDMDescription": "M/PHMTRC ANALYS ISH QUANT/SEMIQ COMPUTR-ASSIST EA",
+  "modifiers": []
+}

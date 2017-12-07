@@ -1,0 +1,15 @@
+{
+  "code": "88300",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760402279",
+  "svhCDMDescription": "SURG PATH LEVEL-I GROSS EXAM ONLY",
+  "modifiers": []
+}

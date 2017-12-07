@@ -1,0 +1,15 @@
+{
+  "code": "81342",
+  "description": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": 2,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760805723",
+  "svhCDMDescription": "TRG GENE REARRANGEMENT ANAL",
+  "modifiers": []
+}

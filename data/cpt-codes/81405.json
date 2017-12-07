@@ -1,0 +1,15 @@
+{
+  "code": "81405",
+  "description": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": 2,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760805571",
+  "svhCDMDescription": "MOLECULAR PATHOLOGY PROC LEVEL 2",
+  "modifiers": []
+}
