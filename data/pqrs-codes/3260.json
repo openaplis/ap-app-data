@@ -1,5 +1,5 @@
 {
-  "code": "3395F",
+  "code": "3260",
   "description": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
@@ -11,5 +11,5 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": []
+  "modifiers": []
 }

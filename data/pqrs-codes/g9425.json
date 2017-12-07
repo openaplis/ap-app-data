@@ -1,15 +1,15 @@
 {
-  "code": "G8721",
-  "description": "pT category, pN category and histologic grade have been documented in pathology report.",
+  "code": "G9425",
+  "description": "Code for performance not met",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 3,
+  "codeType": 0,
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": []
+  "modifiers": []
 }

@@ -1,15 +1,15 @@
 {
-  "code": "G9420",
-  "description": "Lung Cancer Reporting - Other Exclusions",
+  "code": "G8723",
+  "description": "pT category, pN category, and histologic grade are not documented in the pathology report, reason not otherwise specified.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": 3,
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "cptCodeModifiers": []
+  "modifiers": []
 }
