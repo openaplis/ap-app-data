@@ -1,0 +1,15 @@
+{
+  "code": "81270",
+  "description": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": 2,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760805576",
+  "svhCDMDescription": "JAK2 GENE",
+  "modifiers": []
+}

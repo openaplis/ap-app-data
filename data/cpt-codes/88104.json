@@ -1,0 +1,15 @@
+{
+  "code": "88104",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760805885",
+  "svhCDMDescription": "SVHR-CYTOPATH FLUIDS NONGYN SMEARS",
+  "modifiers": []
+}

@@ -1,0 +1,15 @@
+{
+  "code": "88173",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760402253",
+  "svhCDMDescription": "EVAL OF FNA; INTERP & REPORT",
+  "modifiers": []
+}

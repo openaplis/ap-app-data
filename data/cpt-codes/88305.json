@@ -1,0 +1,20 @@
+{
+  "code": "88305",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": true,
+  "codeType": 0,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "760402282",
+  "svhCDMDescription": "SURG PATH LEVEL-IV GROSS & MICRO",
+<<<<<<< HEAD:data/cpt-codes/cpt88305.json
+  "modifiers": ["26", "TC"]
+}
+=======
+  "modifiers": []
+}
+>>>>>>> 23649ddee77a76d3463e8e6a736fe08ad940dbaa:data/cpt-codes/88305.json

@@ -1,0 +1,15 @@
+{
+  "code": "88329",
+  "description": null,
+  "feeSchedule": 0,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": true,
+  "codeType": 1,
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "modifiers": []
+}
