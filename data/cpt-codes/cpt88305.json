@@ -13,5 +13,6 @@
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760402282",
-  "svhCDMDescription": "SURG PATH LEVEL-IV GROSS & MICRO"
+  "svhCDMDescription": "SURG PATH LEVEL-IV GROSS & MICRO",
+  "modifiers": ["26", "TC"]
 }
