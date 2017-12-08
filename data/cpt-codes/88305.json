@@ -11,15 +11,6 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760402282",
   "svhCDMDescription": "SURG PATH LEVEL-IV GROSS & MICRO",
-<<<<<<< HEAD
-<<<<<<< HEAD:data/cpt-codes/cpt88305.json
-  "modifiers": ["26", "TC"]
-}
-=======
-  "modifiers": []
-}
->>>>>>> 23649ddee77a76d3463e8e6a736fe08ad940dbaa:data/cpt-codes/88305.json
-=======
   "modifiers": [
     {
       "modifier": "26",
@@ -31,4 +22,3 @@
     }
   ]
 }
->>>>>>> 4777907f1e02294e67858f00acb93b6dd99d27e3
