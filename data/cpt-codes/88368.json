@@ -11,5 +11,14 @@
   "medicareQuantityLimit": 1,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }

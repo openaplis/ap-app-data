@@ -11,5 +11,14 @@
   "medicareQuantityLimit": 1,
   "svhCDMCode": "760802268",
   "svhCDMDescription": "CHROMOSOME ANALYSIS TISSUE",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }
