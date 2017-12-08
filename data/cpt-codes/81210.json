@@ -3,7 +3,7 @@
   "description": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
-  "hasProfessionalComponent": false,
+  "hasProfessionalComponent": true,
   "codeType": 2,
   "isBillable": true,
   "gCode": null,

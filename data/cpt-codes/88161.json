@@ -11,5 +11,14 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760402250",
   "svhCDMDescription": "TOUCH PREP",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }

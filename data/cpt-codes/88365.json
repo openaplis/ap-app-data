@@ -11,5 +11,14 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760802301",
   "svhCDMDescription": "TISSUE ISH SNGL PROBE PER SPEC",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }

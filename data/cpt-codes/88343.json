@@ -11,5 +11,14 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760805981",
   "svhCDMDescription": "IMMUNOHISTO/CYTO CHEM, EACH ADDITIONAL AB",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }

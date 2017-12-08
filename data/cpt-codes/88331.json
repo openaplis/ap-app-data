@@ -11,5 +11,14 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760402292",
   "svhCDMDescription": "TISSUE 1ST FROZEN SECTION EXAM",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }
