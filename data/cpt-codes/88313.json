@@ -11,5 +11,14 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760402287",
   "svhCDMDescription": "SPECIAL STAINS; GROUP 2, EACH",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }

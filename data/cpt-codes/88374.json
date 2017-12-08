@@ -11,5 +11,14 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760806283",
   "svhCDMDescription": "M/PHMTRC ANALYS ISH QUANT/SEMIQ COMPUTR-ASSIST EA",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }
