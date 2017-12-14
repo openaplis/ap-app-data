@@ -2,6 +2,7 @@
   {
   "folder": "cpt-codes",
   "key": "code",
+  "redisPrefix": "cpt:",
   "redisIndex": 1
   },
   {
@@ -17,6 +18,7 @@
   {
   "folder": "pqrs-codes",
   "key": "code",
-  "redisIndex": 4
+  "redisPrefix": "pqrs:",
+  "redisIndex": 1
   }
 ]
