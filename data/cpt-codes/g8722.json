@@ -1,10 +1,10 @@
 {
-  "code": "G9421",
-  "description": "Lung Cancer Reporting - Performance Not Met",
+  "code": "G8722",
+  "description": "The medical reason(s) for not including pT category, pN category, and histologic grade are included the the pathology report.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

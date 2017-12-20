@@ -1,15 +1,20 @@
 {
-  "code": "3260",
+  "code": "3394F",
   "description": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 3,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "8P",
+      "description": null
+    }
+  ]
 }

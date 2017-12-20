@@ -1,10 +1,10 @@
 {
-  "code": "G9430",
-  "description": "Specimen site other than anatomic cutaneous location.",
+  "code": "G9424",
+  "description": "Lung Cancer Reporting - Other Exclusions",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

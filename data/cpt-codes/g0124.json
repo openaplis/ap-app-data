@@ -4,7 +4,7 @@
   "feeSchedule": 0,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": true,
-  "codeType": 0,
+  "codeType": "Global",
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

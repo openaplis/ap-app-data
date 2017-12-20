@@ -1,10 +1,10 @@
 {
-  "code": "G9425",
-  "description": "Code for performance not met",
+  "code": "3260",
+  "description": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

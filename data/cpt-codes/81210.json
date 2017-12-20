@@ -4,7 +4,7 @@
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": true,
-  "codeType": 2,
+  "codeType": "TechnicalOnly",
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

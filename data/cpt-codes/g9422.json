@@ -1,10 +1,10 @@
 {
-  "code": "G9418",
-  "description": "Lung Cancer Reporting - Performance met",
+  "code": "G9422",
+  "description": "Lung Cancer Reporting - Performance Met",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

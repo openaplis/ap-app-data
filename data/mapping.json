@@ -2,7 +2,6 @@
   {
   "folder": "cpt-codes",
   "key": "code",
-  "redisPrefix": "cpt:",
   "redisIndex": 1
   },
   {
@@ -14,11 +13,5 @@
   "folder": "stains",
   "key": "stainId",
   "redisIndex": 3
-  },
-  {
-  "folder": "pqrs-codes",
-  "key": "code",
-  "redisPrefix": "pqrs:",
-  "redisIndex": 1
   }
 ]

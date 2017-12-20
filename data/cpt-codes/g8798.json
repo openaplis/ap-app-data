@@ -1,10 +1,10 @@
 {
-  "code": "3395F",
-  "description": null,
+  "code": "G8798",
+  "description": "Specimen Site other than anatomic location of prostate.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 3,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

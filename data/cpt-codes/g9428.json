@@ -1,10 +1,10 @@
 {
-  "code": "G9422",
-  "description": "Lung Cancer Reporting - Performance Met",
+  "code": "G9428",
+  "description": "Pathology report includes the pT Category and a statement on thickness and ulceration and for pT1, mitotic rate",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

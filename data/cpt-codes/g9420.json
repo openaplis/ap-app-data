@@ -1,10 +1,10 @@
 {
-  "code": "G8723",
-  "description": "pT category, pN category, and histologic grade are not documented in the pathology report, reason not otherwise specified.",
+  "code": "G9420",
+  "description": "Lung Cancer Reporting - Other Exclusions",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 3,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

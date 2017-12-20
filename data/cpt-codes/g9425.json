@@ -1,10 +1,10 @@
 {
-  "code": "G8797",
-  "description": "Patient is not eligible for this measure because specimen(s) are not of esophageal origin (e.g. stomach) report: Specimen site other than anatomic location of esophagus",
+  "code": "G9425",
+  "description": "Code for performance not met",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 3,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

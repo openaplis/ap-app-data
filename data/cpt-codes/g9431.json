@@ -1,10 +1,10 @@
 {
-  "code": "G9424",
-  "description": "Lung Cancer Reporting - Other Exclusions",
+  "code": "G9431",
+  "description": "Pathology report does not include the pT Category.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

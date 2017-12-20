@@ -1,10 +1,10 @@
 {
-  "code": "G9428",
-  "description": "Pathology report includes the pT Category and a statement on thickness and ulceration and for pT1, mitotic rate",
+  "code": "G8721",
+  "description": "pT category, pN category and histologic grade have been documented in pathology report.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 0,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,

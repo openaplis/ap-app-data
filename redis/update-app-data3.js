@@ -33,7 +33,7 @@ fs.readFile(mappingFilePath, 'utf8', function (err, data) {
                 if(err) return console.log(err)
                 var obj = JSON.parse(data)
                 var key =obj[mapping.key]
-                if(mapping.hasOwnProperty('redisPrefix') == true) {key = mapping.redisPrefix + obj[mapping.key]}
+                //if(mapping.hasOwnProperty('redisPrefix') == true) {key = mapping.redisPrefix + obj[mapping.key]}
                 client.send_command("json.set", [key, '.', JSON.stringify(obj)], function (err, result) {
                   if(err) return console.log(err)
                   //console.log(key + " set")

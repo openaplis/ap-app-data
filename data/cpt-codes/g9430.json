@@ -1,10 +1,10 @@
 {
-  "code": "3125F",
-  "description": "The esophageal biopsy report documents the presence of Barrett's mucosa and includes a statement about dysplasia.",
+  "code": "G9430",
+  "description": "Specimen site other than anatomic cutaneous location.",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
-  "codeType": 3,
+  "codeType": "PQRS",
   "isBillable": false,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
