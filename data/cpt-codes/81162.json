@@ -1,24 +1,15 @@
 {
-  "code": "81291",
+  "code": "81162",
   "description": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
-  "hasProfessionalComponent": true,
-  "codeType": "Global",
+  "hasProfessionalComponent": false,
+  "codeType": "TechnicalOnly",
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "modifiers": [
-    {
-      "modifier": "26",
-      "description": null
-    },
-    {
-      "modifier": "TC",
-      "description": null
-    }
-  ]
+  "modifiers": []
 }
