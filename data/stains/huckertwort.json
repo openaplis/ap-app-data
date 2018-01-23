@@ -1,6 +1,6 @@
 {
   "stainType": "CytochemicalForMicroorganisms",
-  "stainId": "stain:hckrtwrt",
+  "stainId": "hckrtwrt",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:mlh1",
+  "stainId": "mlh1",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

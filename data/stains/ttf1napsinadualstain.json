@@ -1,6 +1,6 @@
 {
   "stainType": "DualStain",
-  "stainId": "stain:ttf1npsndlstn",
+  "stainId": "ttf1npsndlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
@@ -20,7 +20,7 @@
   "histologyDisplayString": "TTF1/NapsinA",
   "firstTest": {
     "stainType": "IHC",
-    "stainId": "stain:ttf1",
+    "stainId": "ttf1",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,
@@ -41,7 +41,7 @@
   },
   "secondTest": {
     "stainType": "IHC",
-    "stainId": "stain:npsna",
+    "stainId": "npsna",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,

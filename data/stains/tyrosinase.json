@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:tyrsnse",
+  "stainId": "tyrsnse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

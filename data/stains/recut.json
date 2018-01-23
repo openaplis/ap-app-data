@@ -1,6 +1,6 @@
 {
   "stainType": "Unknown",
-  "stainId": "stain:rct",
+  "stainId": "rct",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,

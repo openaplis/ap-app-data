@@ -1,6 +1,6 @@
 {
   "stainType": "SpecialStain",
-  "stainId": "stain:pslcnble",
+  "stainId": "pslcnble",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:p504srcmse",
+  "stainId": "p504srcmse",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

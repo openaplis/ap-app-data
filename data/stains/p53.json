@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:p53",
+  "stainId": "p53",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

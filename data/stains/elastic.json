@@ -1,6 +1,6 @@
 {
   "stainType": "SpecialStain",
-  "stainId": "stain:elstc",
+  "stainId": "elstc",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:cytkrtn20",
+  "stainId": "cytkrtn20",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

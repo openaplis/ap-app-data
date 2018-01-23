@@ -1,6 +1,6 @@
 {
   "stainType": "SpecialStain",
-  "stainId": "stain:acdfst",
+  "stainId": "acdfst",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

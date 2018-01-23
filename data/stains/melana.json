@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:mlna",
+  "stainId": "mlna",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

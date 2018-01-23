@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:px5",
+  "stainId": "px5",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

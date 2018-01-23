@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:hlcbctrpylri",
+  "stainId": "hlcbctrpylri",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

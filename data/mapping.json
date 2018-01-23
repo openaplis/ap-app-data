@@ -7,11 +7,11 @@
   {
   "folder": "icd-codes",
   "key": "icdCodeId",
-  "redisIndex": 2
+  "redisIndex": 4
   },
   {
-  "folder": "stains",
-  "key": "stainId",
-  "redisIndex": 3
+    "folder": "stains",
+    "key": "stainId",
+    "redisIndex": 3
   }
 ]

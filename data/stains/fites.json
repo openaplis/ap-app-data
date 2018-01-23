@@ -1,6 +1,6 @@
 {
   "stainType": "Cytochemical",
-  "stainId": "stain:fts",
+  "stainId": "fts",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

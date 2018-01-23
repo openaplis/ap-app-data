@@ -1,6 +1,6 @@
 {
   "stainType": "DualStain",
-  "stainId": "stain:cytkrtn34p504srcmsdlstn",
+  "stainId": "cytkrtn34p504srcmsdlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
@@ -20,7 +20,7 @@
   "histologyDisplayString": "CK34/P504",
   "firstTest": {
     "stainType": "IHC",
-    "stainId": "stain:cytkrtn34",
+    "stainId": "cytkrtn34",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,
@@ -41,7 +41,7 @@
   },
   "secondTest": {
     "stainType": "IHC",
-    "stainId": "stain:p504srcmse",
+    "stainId": "p504srcmse",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,

@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:nkx31",
+  "stainId": "nkx31",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

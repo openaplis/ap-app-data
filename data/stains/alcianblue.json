@@ -1,6 +1,6 @@
 {
   "stainType": "SpecialStain",
-  "stainId": "stain:alcnble",
+  "stainId": "alcnble",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

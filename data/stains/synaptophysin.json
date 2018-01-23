@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:synptphysn",
+  "stainId": "synptphysn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
