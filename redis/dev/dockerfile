@@ -1,0 +1,15 @@
+FROM redis
+RUN mkdir -p /etc/redis
+COPY redis.conf /etc/redis/redis.conf
+RUN apt-get update
+RUN apt-get install git --assume-yes
+RUN apt-get install build-essential --assume-yes
+
+WORKDIR /home
+RUN git clone https://github.com/RedisLabsModules/rejson.git
+WORKDIR /home/rejson
+RUN make
+
+EXPOSE 36379
+
+CMD [ "redis-server", "/etc/redis/redis.conf" ]
