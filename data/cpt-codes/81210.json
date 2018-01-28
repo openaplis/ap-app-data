@@ -4,12 +4,21 @@
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
   "hasProfessionalComponent": true,
-  "codeType": 2,
+  "codeType": "Global",
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760805628",
   "svhCDMDescription": "BRAF GENE",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }

@@ -1,0 +1,15 @@
+{
+  "code": "G9421",
+  "description": "Lung Cancer Reporting - Performance Not Met",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": "PQRS",
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "modifiers": []
+}

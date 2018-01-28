@@ -1,6 +1,6 @@
 {
   "stainType": "CytochemicalForMicroorganisms",
-  "stainId": "stain:gmsa",
+  "stainId": "gmsa",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

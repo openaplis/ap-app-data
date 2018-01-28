@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:cd31",
+  "stainId": "cd31",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

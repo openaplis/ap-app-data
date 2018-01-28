@@ -1,6 +1,6 @@
 {
   "stainType": "DualStain",
-  "stainId": "stain:igkppglmbddlstn",
+  "stainId": "igkppglmbddlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
@@ -20,7 +20,7 @@
   "histologyDisplayString": "Kappa/Lambda",
   "firstTest": {
     "stainType": "IHC",
-    "stainId": "stain:igkppa",
+    "stainId": "igkppa",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,
@@ -41,7 +41,7 @@
   },
   "secondTest": {
     "stainType": "IHC",
-    "stainId": "stain:iglmbda",
+    "stainId": "iglmbda",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,

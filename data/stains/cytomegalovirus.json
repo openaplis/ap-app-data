@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:cytmglvrs",
+  "stainId": "cytmglvrs",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

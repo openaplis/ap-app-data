@@ -3,13 +3,22 @@
   "description": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
-  "hasProfessionalComponent": false,
-  "codeType": 2,
+  "hasProfessionalComponent": true,
+  "codeType": "Global",
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760805576",
   "svhCDMDescription": "JAK2 GENE",
-  "modifiers": []
+  "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
+    {
+      "modifier": "TC",
+      "description": null
+    }
+  ]
 }

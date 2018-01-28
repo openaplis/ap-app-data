@@ -1,0 +1,15 @@
+{
+  "code": "G9428",
+  "description": "Pathology report includes the pT Category and a statement on thickness and ulceration and for pT1, mitotic rate",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": "PQRS",
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "modifiers": []
+}

@@ -1,6 +1,6 @@
 {
   "stainType": "SpecialStain",
-  "stainId": "stain:stnrndstnr",
+  "stainId": "stnrndstnr",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

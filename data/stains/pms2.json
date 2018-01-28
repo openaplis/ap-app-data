@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:pms2",
+  "stainId": "pms2",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

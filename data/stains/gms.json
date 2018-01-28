@@ -1,6 +1,6 @@
 {
   "stainType": "SpecialStain",
-  "stainId": "stain:gms",
+  "stainId": "gms",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

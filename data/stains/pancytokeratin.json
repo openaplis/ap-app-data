@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:pncytkrtn",
+  "stainId": "pncytkrtn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

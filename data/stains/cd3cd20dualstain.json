@@ -1,6 +1,6 @@
 {
   "stainType": "DualStain",
-  "stainId": "stain:cd3cd20dlstn",
+  "stainId": "cd3cd20dlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
@@ -20,7 +20,7 @@
   "histologyDisplayString": "CD3/20",
   "firstTest": {
     "stainType": "IHC",
-    "stainId": "stain:cd3",
+    "stainId": "cd3",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,
@@ -41,7 +41,7 @@
   },
   "secondTest": {
     "stainType": "IHC",
-    "stainId": "stain:cd20",
+    "stainId": "cd20",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,

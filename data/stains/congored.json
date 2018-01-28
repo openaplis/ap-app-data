@@ -1,6 +1,6 @@
 {
   "stainType": "SpecialStain",
-  "stainId": "stain:cngrd",
+  "stainId": "cngrd",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

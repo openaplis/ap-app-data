@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:igkppa",
+  "stainId": "igkppa",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

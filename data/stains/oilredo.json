@@ -1,6 +1,6 @@
 {
   "stainType": "Cytochemical",
-  "stainId": "stain:olrdo",
+  "stainId": "olrdo",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

@@ -1,6 +1,6 @@
 {
   "stainType": "Graded",
-  "stainId": "stain:prgstrnrcptrsmqnt",
+  "stainId": "prgstrnrcptrsmqnt",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": false,

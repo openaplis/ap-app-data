@@ -1,0 +1,24 @@
+{
+  "code": "3267F",
+  "description": "Pathology report includes pT category, pN category, Gleason score, and statement about margins.",
+  "feeSchedule": 2,
+  "hasTechnicalComponent": false,
+  "hasProfessionalComponent": false,
+  "codeType": "PQRS",
+  "isBillable": false,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": null,
+  "svhCDMDescription": null,
+  "modifiers": [
+    {
+      "modifier": "1P",
+      "description": "Documentation of medical reason(s) for not including pT category, pN category, Gleason score and statement about margin status (ie, specimen originated from other malignant neoplasms, transurethral resections of the prostate, or secondary site prostatic carcinomas)"
+    },
+    {
+      "modifier": "8P",
+      "description": "pT category, pN category, Gleason score and statement about margin status were not documented in pathology report, reason not otherwise specified."
+    }
+  ]
+}

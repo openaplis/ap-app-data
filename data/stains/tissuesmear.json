@@ -1,6 +1,6 @@
 {
   "stainType": "Unknown",
-  "stainId": "stain:tsssmr",
+  "stainId": "tsssmr",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,

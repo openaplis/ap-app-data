@@ -1,6 +1,6 @@
 {
   "stainType": "Unknown",
-  "stainId": "stain:cllblck",
+  "stainId": "cllblck",
   "orderComment": null,
   "isBillable": false,
   "hasGCode": false,

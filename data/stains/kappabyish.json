@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:kppbysh",
+  "stainId": "kppbysh",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

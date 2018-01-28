@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:fscn",
+  "stainId": "fscn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

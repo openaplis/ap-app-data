@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:iglmbda",
+  "stainId": "iglmbda",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

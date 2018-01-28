@@ -1,6 +1,6 @@
 {
   "stainType": "IHC",
-  "stainId": "stain:oscr",
+  "stainId": "oscr",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,

@@ -1,6 +1,6 @@
 {
   "stainType": "DualStain",
-  "stainId": "stain:k67mlndlstn",
+  "stainId": "k67mlndlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
@@ -20,7 +20,7 @@
   "histologyDisplayString": "Ki-67/MelanA",
   "firstTest": {
     "stainType": "Graded",
-    "stainId": "stain:k67smqntttve",
+    "stainId": "k67smqntttve",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": false,
@@ -41,7 +41,7 @@
   },
   "secondTest": {
     "stainType": "IHC",
-    "stainId": "stain:mlna",
+    "stainId": "mlna",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,

@@ -1,6 +1,6 @@
 {
   "stainType": "DualStain",
-  "stainId": "stain:cdx2vllndlstn",
+  "stainId": "cdx2vllndlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
@@ -20,7 +20,7 @@
   "histologyDisplayString": "CDX2/Vln",
   "firstTest": {
     "stainType": "IHC",
-    "stainId": "stain:cdx2",
+    "stainId": "cdx2",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,
@@ -41,7 +41,7 @@
   },
   "secondTest": {
     "stainType": "IHC",
-    "stainId": "stain:vlln",
+    "stainId": "vlln",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,

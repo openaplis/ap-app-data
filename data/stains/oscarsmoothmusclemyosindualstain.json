@@ -1,6 +1,6 @@
 {
   "stainType": "DualStain",
-  "stainId": "stain:oscrsmthmsclmysndlstn",
+  "stainId": "oscrsmthmsclmysndlstn",
   "orderComment": null,
   "isBillable": true,
   "hasGCode": true,
@@ -20,7 +20,7 @@
   "histologyDisplayString": "OSCAR/SMM",
   "firstTest": {
     "stainType": "IHC",
-    "stainId": "stain:oscr",
+    "stainId": "oscr",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,
@@ -41,7 +41,7 @@
   },
   "secondTest": {
     "stainType": "IHC",
-    "stainId": "stain:smthmsclmysn",
+    "stainId": "smthmsclmysn",
     "orderComment": null,
     "isBillable": true,
     "hasGCode": true,
