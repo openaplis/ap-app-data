@@ -30,7 +30,7 @@ client.keys('EmbeddingScan:*', function(err, keys) {
       cmdSubmitter.submit(cmd, function(err, result) {
         if(err) {
           errorCnt = errorCnt + 1
-          console.log("Error: " + errorCnt)
+          console.log("Error: " + err)
           callback()
         } else {
           cnt = cnt + 1
