@@ -1,0 +1,15 @@
+{
+  "code": "81120",
+  "description": null,
+  "feeSchedule": 1,
+  "hasTechnicalComponent": true,
+  "hasProfessionalComponent": false,
+  "codeType": "TechnicalOnly",
+  "isBillable": true,
+  "gCode": null,
+  "hasMedicareQuantityLimit": false,
+  "medicareQuantityLimit": 0,
+  "svhCDMCode": "",
+  "svhCDMDescription": "",
+  "modifiers": []
+}
