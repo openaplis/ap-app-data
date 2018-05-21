@@ -1,0 +1,21 @@
+{
+  "stainType": "IHC",
+  "stainId": "pncytkrtn",
+  "orderComment": null,
+  "isBillable": true,
+  "hasGCode": true,
+  "isDualOrder": false,
+  "hasCptCodeLevels": true,
+  "testId": "136",
+  "stainName": "Pancytokeratin",
+  "stainAbbreviation": "Panker",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "Panker"
+}
