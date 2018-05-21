@@ -1,17 +1,21 @@
 {
-  "code": "81210",
+  "code": "80500",
   "description": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
-  "hasProfessionalComponent": false,
+  "hasProfessionalComponent": true,
   "codeType": "Global",
   "isBillable": true,
   "gCode": null,
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
-  "svhCDMCode": "760805628",
-  "svhCDMDescription": "BRAF GENE",
+  "svhCDMCode": "",
+  "svhCDMDescription": "",
   "modifiers": [
+    {
+      "modifier": "26",
+      "description": null
+    },
     {
       "modifier": "TC",
       "description": null

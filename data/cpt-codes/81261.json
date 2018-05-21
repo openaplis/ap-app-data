@@ -3,7 +3,7 @@
   "description": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
-  "hasProfessionalComponent": true,
+  "hasProfessionalComponent": false,
   "codeType": "Global",
   "isBillable": true,
   "gCode": null,
@@ -11,14 +11,5 @@
   "medicareQuantityLimit": 0,
   "svhCDMCode": null,
   "svhCDMDescription": null,
-  "modifiers": [
-    {
-      "modifier": "26",
-      "description": null
-    },
-    {
-      "modifier": "TC",
-      "description": null
-    }
-  ]
+  "modifiers": []
 }

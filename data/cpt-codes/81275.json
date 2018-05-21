@@ -3,7 +3,7 @@
   "description": null,
   "feeSchedule": 1,
   "hasTechnicalComponent": true,
-  "hasProfessionalComponent": true,
+  "hasProfessionalComponent": false,
   "codeType": "Global",
   "isBillable": true,
   "gCode": null,
@@ -12,10 +12,6 @@
   "svhCDMCode": "760805634",
   "svhCDMDescription": "KRAS GENE",
   "modifiers": [
-    {
-      "modifier": "26",
-      "description": null
-    },
     {
       "modifier": "TC",
       "description": null
