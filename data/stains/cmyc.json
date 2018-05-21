@@ -1,0 +1,21 @@
+{
+  "stainType": "IHC",
+  "stainId": "cmyc",
+  "orderComment": null,
+  "isBillable": true,
+  "hasGCode": true,
+  "isDualOrder": false,
+  "hasCptCodeLevels": true,
+  "testId": "362",
+  "stainName": "c-Myc",
+  "stainAbbreviation": "c-Myc",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "c-Myc"
+}

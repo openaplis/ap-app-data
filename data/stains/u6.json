@@ -1,0 +1,21 @@
+{
+  "stainType": "IHC",
+  "stainId": "u6",
+  "orderComment": null,
+  "isBillable": true,
+  "hasGCode": true,
+  "isDualOrder": false,
+  "hasCptCodeLevels": true,
+  "testId": "383",
+  "stainName": "U6",
+  "stainAbbreviation": "U6",
+  "active": true,
+  "stainResultGroupId": 0,
+  "aliquotType": null,
+  "needsAcknowledgement": true,
+  "useWetProtocol": false,
+  "performedByHand": false,
+  "defaultResult": null,
+  "requestForAdditionalReport": false,
+  "histologyDisplayString": "U6"
+}
