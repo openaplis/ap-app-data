@@ -1,5 +1,5 @@
 {
-  "stainType": "SpecialStain",
+  "stainType": "CytochemicalStain",
   "stainId": "pswthdstse",
   "orderComment": null,
   "isBillable": true,
@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "PASD"
+  "histologyDisplayString": "PASD",
+  "stainerType": "BenchMark Special Stains"
 }

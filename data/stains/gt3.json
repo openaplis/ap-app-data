@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "GATA-3"
+  "histologyDisplayString": "GATA-3",
+  "stainerType": "BenchMark ULTRA"
 }

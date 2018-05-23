@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "S100"
+  "histologyDisplayString": "S100",
+  "stainerType": "BenchMark ULTRA"
 }

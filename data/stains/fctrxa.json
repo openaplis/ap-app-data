@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Factor XIIIa"
+  "histologyDisplayString": "Factor XIIIa",
+  "stainerType": "BenchMark ULTRA"
 }

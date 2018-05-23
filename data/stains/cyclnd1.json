@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "CyclinD1"
+  "histologyDisplayString": "CyclinD1",
+  "stainerType": "BenchMark ULTRA"
 }

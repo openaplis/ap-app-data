@@ -18,6 +18,7 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "OSCAR/SMM",
+  "stainerType": "BenchMark ULTRA",
   "firstTest": {
     "stainType": "IHC",
     "stainId": "oscr",
@@ -37,7 +38,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "OSCAR"
+    "histologyDisplayString": "OSCAR",
+    "stainerType": "BenchMark ULTRA"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -58,7 +60,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "SMM"
+    "histologyDisplayString": "SMM",
+    "stainerType": "BenchMark ULTRA"
   },
   "depricatedFirstTestId": null,
   "depricatedSecondTestId": null

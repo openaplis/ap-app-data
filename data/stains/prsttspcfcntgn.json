@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "PSA"
+  "histologyDisplayString": "PSA",
+  "stainerType": "BenchMark ULTRA"
 }

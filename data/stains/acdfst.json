@@ -1,5 +1,5 @@
 {
-  "stainType": "SpecialStain",
+  "stainType": "CytochemicalForMicroorganisms",
   "stainId": "acdfst",
   "orderComment": null,
   "isBillable": true,
@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Acid Fast"
+  "histologyDisplayString": "Acid Fast",
+  "stainerType": "BenchMark Special Stains"
 }

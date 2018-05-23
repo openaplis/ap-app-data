@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "CK20"
+  "histologyDisplayString": "CK20",
+  "stainerType": "BenchMark ULTRA"
 }

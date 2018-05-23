@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Ki-67"
+  "histologyDisplayString": "Ki-67",
+  "stainerType": "BenchMark ULTRA"
 }

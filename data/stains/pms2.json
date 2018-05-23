@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "PMS2"
+  "histologyDisplayString": "PMS2",
+  "stainerType": "BenchMark ULTRA"
 }

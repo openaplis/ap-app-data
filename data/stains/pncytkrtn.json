@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Panker"
+  "histologyDisplayString": "Panker",
+  "stainerType": "BenchMark ULTRA"
 }

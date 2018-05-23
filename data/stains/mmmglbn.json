@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Mammaglobin"
+  "histologyDisplayString": "Mammaglobin",
+  "stainerType": "BenchMark ULTRA"
 }

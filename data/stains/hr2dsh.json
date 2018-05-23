@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "HER2 (D-ISH)"
+  "histologyDisplayString": "HER2 (D-ISH)",
+  "stainerType": "BenchMark ULTRA"
 }

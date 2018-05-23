@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "PAX-5"
+  "histologyDisplayString": "PAX-5",
+  "stainerType": "BenchMark ULTRA"
 }

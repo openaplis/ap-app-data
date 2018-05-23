@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "CK5/6"
+  "histologyDisplayString": "CK5/6",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "TTF-1"
+  "histologyDisplayString": "TTF-1",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "CA 125"
+  "histologyDisplayString": "CA 125",
+  "stainerType": "BenchMark ULTRA"
 }

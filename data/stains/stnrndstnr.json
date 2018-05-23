@@ -1,5 +1,5 @@
 {
-  "stainType": "SpecialStain",
+  "stainType": "CytochemicalForMicroorganisms",
   "stainId": "stnrndstnr",
   "orderComment": null,
   "isBillable": true,
@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Steiner"
+  "histologyDisplayString": "Steiner",
+  "stainerType": "BenchMark Special Stains"
 }

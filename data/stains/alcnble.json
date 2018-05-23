@@ -1,5 +1,5 @@
 {
-  "stainType": "SpecialStain",
+  "stainType": "CytochemicalStain",
   "stainId": "alcnble",
   "orderComment": null,
   "isBillable": true,
@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Alcian Blue"
+  "histologyDisplayString": "Alcian Blue",
+  "stainerType": "BenchMark Special Stains"
 }

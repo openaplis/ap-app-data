@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "CD7"
+  "histologyDisplayString": "CD7",
+  "stainerType": "BenchMark ULTRA"
 }

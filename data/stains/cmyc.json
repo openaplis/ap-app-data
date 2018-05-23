@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "c-Myc"
+  "histologyDisplayString": "c-Myc",
+  "stainerType": "BenchMark ULTRA"
 }

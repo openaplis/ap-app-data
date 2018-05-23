@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "BetaCat"
+  "histologyDisplayString": "BetaCat",
+  "stainerType": "BenchMark ULTRA"
 }

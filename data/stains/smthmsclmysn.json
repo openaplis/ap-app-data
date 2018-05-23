@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "SMM"
+  "histologyDisplayString": "SMM",
+  "stainerType": "BenchMark ULTRA"
 }

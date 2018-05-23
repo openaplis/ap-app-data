@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "PAP"
+  "histologyDisplayString": "PAP",
+  "stainerType": "BenchMark ULTRA"
 }

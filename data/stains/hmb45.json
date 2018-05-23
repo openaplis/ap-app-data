@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "HMB-45"
+  "histologyDisplayString": "HMB-45",
+  "stainerType": "BenchMark ULTRA"
 }

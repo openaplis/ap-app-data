@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "NKX3.1"
+  "histologyDisplayString": "NKX3.1",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "MUM-1"
+  "histologyDisplayString": "MUM-1",
+  "stainerType": "BenchMark ULTRA"
 }

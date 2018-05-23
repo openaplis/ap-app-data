@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Ig Kappa"
+  "histologyDisplayString": "Ig Kappa",
+  "stainerType": "BenchMark ULTRA"
 }
