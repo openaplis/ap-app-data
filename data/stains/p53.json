@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "P53"
+  "histologyDisplayString": "P53",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "D2-40"
+  "histologyDisplayString": "D2-40",
+  "stainerType": "BenchMark ULTRA"
 }

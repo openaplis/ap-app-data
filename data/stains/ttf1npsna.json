@@ -18,6 +18,7 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "TTF1/NapsinA",
+  "stainerType": "BenchMark ULTRA",
   "firstTest": {
     "stainType": "IHC",
     "stainId": "ttf1",
@@ -37,7 +38,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "TTF-1"
+    "histologyDisplayString": "TTF-1",
+    "stainerType": "BenchMark ULTRA"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -58,7 +60,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "Napsin A"
+    "histologyDisplayString": "Napsin A",
+    "stainerType": "BenchMark ULTRA"
   },
   "depricatedFirstTestId": null,
   "depricatedSecondTestId": null

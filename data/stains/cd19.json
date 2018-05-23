@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "CD19"
+  "histologyDisplayString": "CD19",
+  "stainerType": "BenchMark ULTRA"
 }

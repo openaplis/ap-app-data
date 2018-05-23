@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "SOX10"
+  "histologyDisplayString": "SOX10",
+  "stainerType": "BenchMark ULTRA"
 }

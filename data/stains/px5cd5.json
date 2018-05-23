@@ -18,6 +18,7 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PAX5/CD5",
+  "stainerType": "BenchMark ULTRA",
   "firstTest": {
     "stainType": "IHC",
     "stainId": "cd5",
@@ -37,7 +38,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "CD5"
+    "histologyDisplayString": "CD5",
+    "stainerType": "BenchMark ULTRA"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -58,7 +60,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "PAX-5"
+    "histologyDisplayString": "PAX-5",
+    "stainerType": "BenchMark ULTRA"
   },
   "depricatedFirstTestId": null,
   "depricatedSecondTestId": null

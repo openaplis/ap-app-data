@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "HSA"
+  "histologyDisplayString": "HSA",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Vimentin"
+  "histologyDisplayString": "Vimentin",
+  "stainerType": "BenchMark ULTRA"
 }

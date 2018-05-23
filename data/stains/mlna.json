@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Melan A"
+  "histologyDisplayString": "Melan A",
+  "stainerType": "BenchMark ULTRA"
 }

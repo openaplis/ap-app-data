@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "HPylori"
+  "histologyDisplayString": "HPylori",
+  "stainerType": "BenchMark ULTRA"
 }

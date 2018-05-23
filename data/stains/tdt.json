@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "TdT"
+  "histologyDisplayString": "TdT",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Desmin"
+  "histologyDisplayString": "Desmin",
+  "stainerType": "BenchMark ULTRA"
 }

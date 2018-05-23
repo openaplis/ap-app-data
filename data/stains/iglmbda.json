@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Ig Lambda"
+  "histologyDisplayString": "Ig Lambda",
+  "stainerType": "BenchMark ULTRA"
 }

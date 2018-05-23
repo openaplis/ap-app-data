@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Glypican 3"
+  "histologyDisplayString": "Glypican 3",
+  "stainerType": "BenchMark ULTRA"
 }

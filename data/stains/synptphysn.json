@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Synaptophysin"
+  "histologyDisplayString": "Synaptophysin",
+  "stainerType": "BenchMark ULTRA"
 }

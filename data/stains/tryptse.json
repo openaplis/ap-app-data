@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Tryptase"
+  "histologyDisplayString": "Tryptase",
+  "stainerType": "BenchMark ULTRA"
 }

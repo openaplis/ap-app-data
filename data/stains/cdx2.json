@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "CDX-2"
+  "histologyDisplayString": "CDX-2",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "MSH2"
+  "histologyDisplayString": "MSH2",
+  "stainerType": "BenchMark ULTRA"
 }

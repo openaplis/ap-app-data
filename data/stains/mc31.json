@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "MOC 31"
+  "histologyDisplayString": "MOC 31",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -18,6 +18,7 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CK34/P504",
+  "stainerType": "BenchMark ULTRA",
   "firstTest": {
     "stainType": "IHC",
     "stainId": "cytkrtn34",
@@ -37,7 +38,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "CK34"
+    "histologyDisplayString": "CK34",
+    "stainerType": "BenchMark ULTRA"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -58,7 +60,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "P504s"
+    "histologyDisplayString": "P504s",
+    "stainerType": "BenchMark ULTRA"
   },
   "depricatedFirstTestId": "227",
   "depricatedSecondTestId": "228"

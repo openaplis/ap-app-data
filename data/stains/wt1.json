@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "WT1"
+  "histologyDisplayString": "WT1",
+  "stainerType": "BenchMark ULTRA"
 }

@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Bcl-2"
+  "histologyDisplayString": "Bcl-2",
+  "stainerType": "BenchMark ULTRA"
 }

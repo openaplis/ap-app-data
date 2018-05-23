@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Napsin A"
+  "histologyDisplayString": "Napsin A",
+  "stainerType": "BenchMark ULTRA"
 }

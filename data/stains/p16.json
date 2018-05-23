@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "P16"
+  "histologyDisplayString": "P16",
+  "stainerType": "BenchMark ULTRA"
 }

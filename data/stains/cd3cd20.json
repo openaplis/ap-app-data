@@ -18,6 +18,7 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD3/20",
+  "stainerType": "BenchMark ULTRA",
   "firstTest": {
     "stainType": "IHC",
     "stainId": "cd3",
@@ -37,7 +38,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "CD3"
+    "histologyDisplayString": "CD3",
+    "stainerType": "BenchMark ULTRA"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -58,7 +60,8 @@
     "performedByHand": false,
     "defaultResult": null,
     "requestForAdditionalReport": false,
-    "histologyDisplayString": "CD20"
+    "histologyDisplayString": "CD20",
+    "stainerType": "BenchMark ULTRA"
   },
   "depricatedFirstTestId": "229",
   "depricatedSecondTestId": "230"

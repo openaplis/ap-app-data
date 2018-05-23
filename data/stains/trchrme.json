@@ -1,5 +1,5 @@
 {
-  "stainType": "SpecialStain",
+  "stainType": "CytochemicalStain",
   "stainId": "trchrme",
   "orderComment": null,
   "isBillable": true,
@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "Trichrome"
+  "histologyDisplayString": "Trichrome",
+  "stainerType": "BenchMark Special Stains"
 }

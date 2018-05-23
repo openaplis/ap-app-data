@@ -17,5 +17,6 @@
   "performedByHand": false,
   "defaultResult": null,
   "requestForAdditionalReport": false,
-  "histologyDisplayString": "DOG-1"
+  "histologyDisplayString": "DOG-1",
+  "stainerType": "BenchMark ULTRA"
 }
