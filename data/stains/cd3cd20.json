@@ -19,9 +19,11 @@
   "histologyDisplayString": "CD3/20",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 249,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "D CD3-CD20T",
   "hasWetProtocol": false,
+  "cptCode": null,
+  "gCode": null,
   "firstTest": {
     "stainType": "IHC",
     "stainId": "cd3",
@@ -45,7 +47,9 @@
     "ventanaBenchMarkId": 249,
     "ventanaBenchMarkWetId": 904,
     "ventanaBenchMarkProtocolName": "D CD3-CD20T",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -70,7 +74,9 @@
     "ventanaBenchMarkId": 249,
     "ventanaBenchMarkWetId": 955,
     "ventanaBenchMarkProtocolName": "D CD3-CD20T",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "depricatedFirstTestId": "229",
   "depricatedSecondTestId": "230"

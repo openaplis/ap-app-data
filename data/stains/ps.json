@@ -19,7 +19,9 @@
   "histologyDisplayString": "PAS",
   "stainerType": "BenchMark Special Stains",
   "ventanaBenchMarkId": 657,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PAS",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88313",
+  "gCode": null
 }

@@ -21,5 +21,7 @@
   "ventanaBenchMarkId": 643,
   "ventanaBenchMarkWetId": 644,
   "ventanaBenchMarkProtocolName": "Iron NFR Dark",
-  "hasWetProtocol": true
+  "hasWetProtocol": true,
+  "cptCode": "88313",
+  "gCode": null
 }

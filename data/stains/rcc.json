@@ -19,7 +19,9 @@
   "histologyDisplayString": "RCC",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 301,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "RCC T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

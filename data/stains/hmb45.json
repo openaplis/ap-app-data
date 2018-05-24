@@ -19,7 +19,9 @@
   "histologyDisplayString": "HMB-45",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 7,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "R HMB-45",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

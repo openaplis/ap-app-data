@@ -19,7 +19,9 @@
   "histologyDisplayString": "PAP",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 989,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PSAP",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

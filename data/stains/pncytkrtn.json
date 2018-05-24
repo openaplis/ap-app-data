@@ -21,5 +21,7 @@
   "ventanaBenchMarkId": 967,
   "ventanaBenchMarkWetId": 954,
   "ventanaBenchMarkProtocolName": "Panker T",
-  "hasWetProtocol": true
+  "hasWetProtocol": true,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

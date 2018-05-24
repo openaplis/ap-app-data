@@ -19,7 +19,9 @@
   "histologyDisplayString": "c-Myc",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 231,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "C-Myc",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

@@ -19,7 +19,9 @@
   "histologyDisplayString": "Chromo",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 286,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Chromo T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

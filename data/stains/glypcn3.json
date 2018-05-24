@@ -21,5 +21,7 @@
   "ventanaBenchMarkId": 227,
   "ventanaBenchMarkWetId": 229,
   "ventanaBenchMarkProtocolName": "Glypican3 T",
-  "hasWetProtocol": true
+  "hasWetProtocol": true,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

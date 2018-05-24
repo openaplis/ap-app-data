@@ -19,7 +19,9 @@
   "histologyDisplayString": "Factor XIIIa",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 925,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "FXIIIa T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

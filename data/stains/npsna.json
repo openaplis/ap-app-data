@@ -21,5 +21,7 @@
   "ventanaBenchMarkId": 315,
   "ventanaBenchMarkWetId": 226,
   "ventanaBenchMarkProtocolName": "Napsin A  T",
-  "hasWetProtocol": true
+  "hasWetProtocol": true,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

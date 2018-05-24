@@ -19,7 +19,9 @@
   "histologyDisplayString": "CD30",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 938,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CD30",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

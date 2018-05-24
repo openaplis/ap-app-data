@@ -19,7 +19,9 @@
   "histologyDisplayString": "Lambda",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 3012,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "LAMBDA ISH",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88364",
+  "gCode": "G0461"
 }

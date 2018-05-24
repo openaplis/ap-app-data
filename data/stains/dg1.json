@@ -19,7 +19,9 @@
   "histologyDisplayString": "DOG-1",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 228,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "DOG-1 T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

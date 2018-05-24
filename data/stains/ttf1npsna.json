@@ -19,9 +19,11 @@
   "histologyDisplayString": "TTF1/NapsinA",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 24,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "D TTF1-NAPSIN A",
   "hasWetProtocol": false,
+  "cptCode": null,
+  "gCode": null,
   "firstTest": {
     "stainType": "IHC",
     "stainId": "ttf1",
@@ -45,7 +47,9 @@
     "ventanaBenchMarkId": 24,
     "ventanaBenchMarkWetId": 985,
     "ventanaBenchMarkProtocolName": "D TTF1-NAPSIN A",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -70,7 +74,9 @@
     "ventanaBenchMarkId": 24,
     "ventanaBenchMarkWetId": 226,
     "ventanaBenchMarkProtocolName": "D TTF1-NAPSIN A",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "depricatedFirstTestId": null,
   "depricatedSecondTestId": null

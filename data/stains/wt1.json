@@ -19,7 +19,9 @@
   "histologyDisplayString": "WT1",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 246,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "WT1",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

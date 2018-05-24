@@ -19,9 +19,11 @@
   "histologyDisplayString": "CK34/P504",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 10,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "D CK34T-P504S",
   "hasWetProtocol": false,
+  "cptCode": null,
+  "gCode": null,
   "firstTest": {
     "stainType": "IHC",
     "stainId": "cytkrtn34",
@@ -43,9 +45,11 @@
     "histologyDisplayString": "CK34",
     "stainerType": "BenchMark ULTRA",
     "ventanaBenchMarkId": 10,
-    "ventanaBenchMarkWetId": 0,
+    "ventanaBenchMarkWetId": null,
     "ventanaBenchMarkProtocolName": "D CK34T-P504S",
-    "hasWetProtocol": false
+    "hasWetProtocol": false,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -70,7 +74,9 @@
     "ventanaBenchMarkId": 10,
     "ventanaBenchMarkWetId": 998,
     "ventanaBenchMarkProtocolName": "D CK34T-P504S",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "depricatedFirstTestId": "227",
   "depricatedSecondTestId": "228"

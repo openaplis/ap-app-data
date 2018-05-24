@@ -19,9 +19,11 @@
   "histologyDisplayString": "Ki67Mel",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 6,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
   "hasWetProtocol": false,
+  "cptCode": null,
+  "gCode": null,
   "firstTest": {
     "stainType": "GradedStain",
     "stainId": "k67smqntttve",
@@ -43,9 +45,11 @@
     "histologyDisplayString": "Ki-67 Semi",
     "stainerType": "BenchMark ULTRA",
     "ventanaBenchMarkId": 6,
-    "ventanaBenchMarkWetId": 0,
+    "ventanaBenchMarkWetId": null,
     "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
-    "hasWetProtocol": false
+    "hasWetProtocol": false,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -70,7 +74,9 @@
     "ventanaBenchMarkId": 6,
     "ventanaBenchMarkWetId": 22,
     "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "depricatedFirstTestId": "225",
   "depricatedSecondTestId": null

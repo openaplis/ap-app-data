@@ -19,7 +19,9 @@
   "histologyDisplayString": "Myelop",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 974,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Myelop T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }
