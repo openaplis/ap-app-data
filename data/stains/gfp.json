@@ -19,7 +19,9 @@
   "histologyDisplayString": "GFAP",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 991,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "GFAP T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

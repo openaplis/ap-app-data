@@ -19,7 +19,9 @@
   "histologyDisplayString": "EMA",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 948,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "EMA T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

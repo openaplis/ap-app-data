@@ -19,7 +19,9 @@
   "histologyDisplayString": "BetaCat",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 268,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Beta-Catenin",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

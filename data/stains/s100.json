@@ -21,5 +21,7 @@
   "ventanaBenchMarkId": 294,
   "ventanaBenchMarkWetId": 296,
   "ventanaBenchMarkProtocolName": "S100 T",
-  "hasWetProtocol": true
+  "hasWetProtocol": true,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

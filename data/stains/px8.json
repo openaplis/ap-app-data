@@ -19,7 +19,9 @@
   "histologyDisplayString": "PAX-8",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 966,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PAX8 T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

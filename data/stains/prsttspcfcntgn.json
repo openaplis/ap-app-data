@@ -19,7 +19,9 @@
   "histologyDisplayString": "PSA",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 992,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PSA T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

@@ -21,5 +21,7 @@
   "ventanaBenchMarkId": 283,
   "ventanaBenchMarkWetId": 276,
   "ventanaBenchMarkProtocolName": "CK5/6 T",
-  "hasWetProtocol": true
+  "hasWetProtocol": true,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

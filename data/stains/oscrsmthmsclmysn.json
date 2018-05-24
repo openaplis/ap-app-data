@@ -19,9 +19,11 @@
   "histologyDisplayString": "OSCAR/SMM",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 263,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
   "hasWetProtocol": false,
+  "cptCode": null,
+  "gCode": null,
   "firstTest": {
     "stainType": "IHC",
     "stainId": "oscr",
@@ -45,7 +47,9 @@
     "ventanaBenchMarkId": 263,
     "ventanaBenchMarkWetId": 907,
     "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -70,7 +74,9 @@
     "ventanaBenchMarkId": 263,
     "ventanaBenchMarkWetId": 298,
     "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "depricatedFirstTestId": null,
   "depricatedSecondTestId": null

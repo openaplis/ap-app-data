@@ -19,7 +19,9 @@
   "histologyDisplayString": "Ig Kappa",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 1000,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Kappa T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

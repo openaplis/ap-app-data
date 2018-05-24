@@ -19,9 +19,11 @@
   "histologyDisplayString": "PAX5/CD5",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 11,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
   "hasWetProtocol": false,
+  "cptCode": null,
+  "gCode": null,
   "firstTest": {
     "stainType": "IHC",
     "stainId": "cd5",
@@ -45,7 +47,9 @@
     "ventanaBenchMarkId": 11,
     "ventanaBenchMarkWetId": 302,
     "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "secondTest": {
     "stainType": "IHC",
@@ -70,7 +74,9 @@
     "ventanaBenchMarkId": 11,
     "ventanaBenchMarkWetId": 941,
     "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
-    "hasWetProtocol": true
+    "hasWetProtocol": true,
+    "cptCode": "88344",
+    "gCode": "G0461"
   },
   "depricatedFirstTestId": null,
   "depricatedSecondTestId": null

@@ -19,7 +19,9 @@
   "histologyDisplayString": "CD99",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 933,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CD99 T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

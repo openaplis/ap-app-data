@@ -19,7 +19,9 @@
   "histologyDisplayString": "NKX3.1",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 218,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "NKX3.1 T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

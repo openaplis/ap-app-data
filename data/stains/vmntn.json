@@ -19,7 +19,9 @@
   "histologyDisplayString": "Vimentin",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 969,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Vim T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

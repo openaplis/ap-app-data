@@ -19,7 +19,9 @@
   "histologyDisplayString": "MLH1",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 1016,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "MLH1  T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

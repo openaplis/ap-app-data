@@ -19,7 +19,9 @@
   "histologyDisplayString": "Desmin",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 312,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Desmin",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

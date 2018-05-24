@@ -19,7 +19,9 @@
   "histologyDisplayString": "CyclinD1",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 290,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CyclinD1 T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

@@ -19,7 +19,9 @@
   "histologyDisplayString": "Elastic",
   "stainerType": "BenchMark Special Stains",
   "ventanaBenchMarkId": 607,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Elastic Stain",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88313",
+  "gCode": null
 }

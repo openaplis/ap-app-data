@@ -19,7 +19,9 @@
   "histologyDisplayString": "Synaptophysin",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 297,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Synap T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

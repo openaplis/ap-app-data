@@ -21,5 +21,7 @@
   "ventanaBenchMarkId": 706,
   "ventanaBenchMarkWetId": 707,
   "ventanaBenchMarkProtocolName": "Steiner",
-  "hasWetProtocol": true
+  "hasWetProtocol": true,
+  "cptCode": "88312",
+  "gCode": null
 }

@@ -19,7 +19,9 @@
   "histologyDisplayString": "Ki-67 Semi",
   "stainerType": "BenchMark Special Stains",
   "ventanaBenchMarkId": 709,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "AFB III",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88360",
+  "gCode": null
 }

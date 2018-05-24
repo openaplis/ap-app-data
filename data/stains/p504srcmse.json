@@ -21,5 +21,7 @@
   "ventanaBenchMarkId": 23,
   "ventanaBenchMarkWetId": 998,
   "ventanaBenchMarkProtocolName": "R P504S T",
-  "hasWetProtocol": true
+  "hasWetProtocol": true,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

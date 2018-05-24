@@ -19,7 +19,9 @@
   "histologyDisplayString": "PMS2",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 220,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PMS2 T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

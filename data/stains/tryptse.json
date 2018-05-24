@@ -19,7 +19,9 @@
   "histologyDisplayString": "Tryptase",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 5,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Tryptase T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

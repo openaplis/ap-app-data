@@ -19,7 +19,9 @@
   "histologyDisplayString": "CMV",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 299,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CMV T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }

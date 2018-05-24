@@ -19,7 +19,9 @@
   "histologyDisplayString": "Alcian Blue",
   "stainerType": "BenchMark Special Stains",
   "ventanaBenchMarkId": 4999,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Alcian Blue",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88313",
+  "gCode": null
 }

@@ -19,7 +19,9 @@
   "histologyDisplayString": "MUM-1",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 230,
-  "ventanaBenchMarkWetId": 0,
+  "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "MUM1 T",
-  "hasWetProtocol": false
+  "hasWetProtocol": false,
+  "cptCode": "88342",
+  "gCode": "G0461"
 }
