@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Steiner",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c9a",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3c9b",
+  "ventanaBenchMarkId": 706,
+  "ventanaBenchMarkWetId": 707,
   "ventanaBenchMarkProtocolName": "Steiner",
   "hasWetProtocol": true
 }

@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PASF",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c87",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca3",
+  "ventanaBenchMarkId": 654,
+  "ventanaBenchMarkWetId": 655,
   "ventanaBenchMarkProtocolName": "PAS-F",
   "hasWetProtocol": true
 }

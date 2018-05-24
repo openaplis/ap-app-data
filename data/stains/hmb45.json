@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "HMB-45",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c8f",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 7,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "R HMB-45",
   "hasWetProtocol": false
 }

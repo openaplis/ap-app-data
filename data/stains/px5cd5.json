@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PAX5/CD5",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c5e",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 11,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
   "hasWetProtocol": false,
   "firstTest": {
@@ -42,8 +42,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "CD5",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5e",
-    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb1",
+    "ventanaBenchMarkId": 11,
+    "ventanaBenchMarkWetId": 302,
     "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
     "hasWetProtocol": true
   },
@@ -67,8 +67,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "PAX-5",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5e",
-    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ccd",
+    "ventanaBenchMarkId": 11,
+    "ventanaBenchMarkWetId": 941,
     "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
     "hasWetProtocol": true
   },

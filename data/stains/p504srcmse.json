@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "P504s",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c91",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cca",
+  "ventanaBenchMarkId": 23,
+  "ventanaBenchMarkWetId": 998,
   "ventanaBenchMarkProtocolName": "R P504S T",
   "hasWetProtocol": true
 }

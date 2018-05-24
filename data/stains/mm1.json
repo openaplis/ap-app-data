@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "MUM-1",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c7b",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 230,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "MUM1 T",
   "hasWetProtocol": false
 }

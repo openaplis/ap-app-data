@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "SATB2",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c97",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cd1",
+  "ventanaBenchMarkId": 217,
+  "ventanaBenchMarkWetId": 219,
   "ventanaBenchMarkProtocolName": "SATB2 T",
   "hasWetProtocol": true
 }

@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "MOC 31",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c78",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc4",
+  "ventanaBenchMarkId": 919,
+  "ventanaBenchMarkWetId": 937,
   "ventanaBenchMarkProtocolName": "MOC31 T",
   "hasWetProtocol": true
 }

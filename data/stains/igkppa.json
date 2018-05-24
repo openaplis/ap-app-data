@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Ig Kappa",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c72",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 1000,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Kappa T",
   "hasWetProtocol": false
 }

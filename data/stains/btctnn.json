@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "BetaCat",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c38",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 268,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Beta-Catenin",
   "hasWetProtocol": false
 }

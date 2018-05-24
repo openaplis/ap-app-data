@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "ER",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c66",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cbb",
+  "ventanaBenchMarkId": 259,
+  "ventanaBenchMarkWetId": 280,
   "ventanaBenchMarkProtocolName": "ER T",
   "hasWetProtocol": true
 }

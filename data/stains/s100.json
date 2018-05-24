@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "S100",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c96",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cd0",
+  "ventanaBenchMarkId": 294,
+  "ventanaBenchMarkWetId": 296,
   "ventanaBenchMarkProtocolName": "S100 T",
   "hasWetProtocol": true
 }

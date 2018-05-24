@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CK20",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c53",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cba",
+  "ventanaBenchMarkId": 929,
+  "ventanaBenchMarkWetId": 934,
   "ventanaBenchMarkProtocolName": "CK20 T",
   "hasWetProtocol": true
 }

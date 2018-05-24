@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "SMM",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c99",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cd2",
+  "ventanaBenchMarkId": 295,
+  "ventanaBenchMarkWetId": 298,
   "ventanaBenchMarkProtocolName": "SMM T",
   "hasWetProtocol": true
 }

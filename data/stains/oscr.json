@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "OSCAR",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c7f",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc7",
+  "ventanaBenchMarkId": 901,
+  "ventanaBenchMarkWetId": 907,
   "ventanaBenchMarkProtocolName": "Oscar T",
   "hasWetProtocol": true
 }

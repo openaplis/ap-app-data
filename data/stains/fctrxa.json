@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Factor XIIIa",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c68",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 925,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "FXIIIa T",
   "hasWetProtocol": false
 }

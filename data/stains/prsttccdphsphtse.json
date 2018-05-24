@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PAP",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c8e",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 989,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "PSAP",
   "hasWetProtocol": false
 }

@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Alcian Blue",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c35",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 4999,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Alcian Blue",
   "hasWetProtocol": false
 }

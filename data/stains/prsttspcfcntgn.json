@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PSA",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c8d",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 992,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "PSA T",
   "hasWetProtocol": false
 }

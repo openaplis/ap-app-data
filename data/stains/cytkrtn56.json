@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CK5/6",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c55",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb8",
+  "ventanaBenchMarkId": 283,
+  "ventanaBenchMarkWetId": 276,
   "ventanaBenchMarkProtocolName": "CK5/6 T",
   "hasWetProtocol": true
 }

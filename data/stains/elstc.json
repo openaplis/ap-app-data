@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Elastic",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c64",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 607,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Elastic Stain",
   "hasWetProtocol": false
 }

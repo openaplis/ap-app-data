@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Acid Fast",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaedf584d5631244b3c34",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 709,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "AFB III",
   "hasWetProtocol": false
 }

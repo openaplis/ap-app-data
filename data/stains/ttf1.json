@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "TTF-1",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3ca0",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cd4",
+  "ventanaBenchMarkId": 1002,
+  "ventanaBenchMarkWetId": 985,
   "ventanaBenchMarkProtocolName": "TTF1 T",
   "hasWetProtocol": true
 }

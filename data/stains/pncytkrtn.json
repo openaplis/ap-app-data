@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Panker",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c83",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ccc",
+  "ventanaBenchMarkId": 967,
+  "ventanaBenchMarkWetId": 954,
   "ventanaBenchMarkProtocolName": "Panker T",
   "hasWetProtocol": true
 }

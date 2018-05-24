@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Mammaglobin",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c76",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc3",
+  "ventanaBenchMarkId": 957,
+  "ventanaBenchMarkWetId": 962,
   "ventanaBenchMarkProtocolName": "Mammaglobin",
   "hasWetProtocol": true
 }

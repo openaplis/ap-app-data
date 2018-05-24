@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "c-Myc",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c39",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 231,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "C-Myc",
   "hasWetProtocol": false
 }

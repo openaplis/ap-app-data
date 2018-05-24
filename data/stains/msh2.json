@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "MSH2",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c79",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 970,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "MSH-2 T",
   "hasWetProtocol": false
 }

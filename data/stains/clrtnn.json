@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Calretinin",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c3c",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca7",
+  "ventanaBenchMarkId": 244,
+  "ventanaBenchMarkWetId": 245,
   "ventanaBenchMarkProtocolName": "Calretinin T",
   "hasWetProtocol": true
 }

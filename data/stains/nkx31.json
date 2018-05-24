@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "NKX3.1",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c7e",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 218,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "NKX3.1 T",
   "hasWetProtocol": false
 }

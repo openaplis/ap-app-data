@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PASAB",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c85",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 4995,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "PAS - Alcian Blue",
   "hasWetProtocol": false
 }

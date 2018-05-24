@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Desmin",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c61",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 312,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Desmin",
   "hasWetProtocol": false
 }

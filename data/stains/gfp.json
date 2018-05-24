@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "GFAP",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c6a",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 991,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "GFAP T",
   "hasWetProtocol": false
 }
