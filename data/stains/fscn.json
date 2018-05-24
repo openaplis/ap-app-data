@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Fascin",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c67",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 959,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Fascin",
   "hasWetProtocol": false
 }

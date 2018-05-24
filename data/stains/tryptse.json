@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Tryptase",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c9f",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 5,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Tryptase T",
   "hasWetProtocol": false
 }

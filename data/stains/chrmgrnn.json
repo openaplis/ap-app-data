@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Chromo",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c52",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 286,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Chromo T",
   "hasWetProtocol": false
 }

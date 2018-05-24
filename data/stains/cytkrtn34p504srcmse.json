@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CK34/P504",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c5b",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 10,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "D CK34T-P504S",
   "hasWetProtocol": false,
   "firstTest": {
@@ -42,8 +42,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "CK34",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5b",
-    "ventanaBenchMarkWetId": null,
+    "ventanaBenchMarkId": 10,
+    "ventanaBenchMarkWetId": 0,
     "ventanaBenchMarkProtocolName": "D CK34T-P504S",
     "hasWetProtocol": false
   },
@@ -67,8 +67,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "P504s",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5b",
-    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cca",
+    "ventanaBenchMarkId": 10,
+    "ventanaBenchMarkWetId": 998,
     "ventanaBenchMarkProtocolName": "D CK34T-P504S",
     "hasWetProtocol": true
   },

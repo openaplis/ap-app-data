@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Ki67Mel",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c5c",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 6,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
   "hasWetProtocol": false,
   "firstTest": {
@@ -42,8 +42,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "Ki-67 Semi",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5c",
-    "ventanaBenchMarkWetId": null,
+    "ventanaBenchMarkId": 6,
+    "ventanaBenchMarkWetId": 0,
     "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
     "hasWetProtocol": false
   },
@@ -67,8 +67,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "Melan A",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5c",
-    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca4",
+    "ventanaBenchMarkId": 6,
+    "ventanaBenchMarkWetId": 22,
     "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
     "hasWetProtocol": true
   },

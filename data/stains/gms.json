@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "GMS",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c6c",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cbe",
+  "ventanaBenchMarkId": 4994,
+  "ventanaBenchMarkWetId": 4997,
   "ventanaBenchMarkProtocolName": "GMS II",
   "hasWetProtocol": true
 }

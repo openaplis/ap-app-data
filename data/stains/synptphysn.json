@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Synaptophysin",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c9c",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 297,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Synap T",
   "hasWetProtocol": false
 }

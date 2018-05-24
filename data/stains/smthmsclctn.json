@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "SMA",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c98",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 306,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "SMA T",
   "hasWetProtocol": false
 }

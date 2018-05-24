@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "OSCAR/SMM",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c5d",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 263,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
   "hasWetProtocol": false,
   "firstTest": {
@@ -42,8 +42,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "OSCAR",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5d",
-    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc7",
+    "ventanaBenchMarkId": 263,
+    "ventanaBenchMarkWetId": 907,
     "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
     "hasWetProtocol": true
   },
@@ -67,8 +67,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "SMM",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5d",
-    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cd2",
+    "ventanaBenchMarkId": 263,
+    "ventanaBenchMarkWetId": 298,
     "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
     "hasWetProtocol": true
   },

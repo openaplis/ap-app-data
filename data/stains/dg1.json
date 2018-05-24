@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "DOG-1",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c62",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 228,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "DOG-1 T",
   "hasWetProtocol": false
 }

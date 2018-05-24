@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "TTF1/NapsinA",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c5f",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 24,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "D TTF1-NAPSIN A",
   "hasWetProtocol": false,
   "firstTest": {
@@ -42,8 +42,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "TTF-1",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5f",
-    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cd4",
+    "ventanaBenchMarkId": 24,
+    "ventanaBenchMarkWetId": 985,
     "ventanaBenchMarkProtocolName": "D TTF1-NAPSIN A",
     "hasWetProtocol": true
   },
@@ -67,8 +67,8 @@
     "requestForAdditionalReport": false,
     "histologyDisplayString": "Napsin A",
     "stainerType": "BenchMark ULTRA",
-    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5f",
-    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc5",
+    "ventanaBenchMarkId": 24,
+    "ventanaBenchMarkWetId": 226,
     "ventanaBenchMarkProtocolName": "D TTF1-NAPSIN A",
     "hasWetProtocol": true
   },

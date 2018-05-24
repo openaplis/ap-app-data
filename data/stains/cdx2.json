@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CDX-2",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c50",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb6",
+  "ventanaBenchMarkId": 261,
+  "ventanaBenchMarkWetId": 262,
   "ventanaBenchMarkProtocolName": "CDX2 T",
   "hasWetProtocol": true
 }

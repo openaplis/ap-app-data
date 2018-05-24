@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD15",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c40",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 914,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "CD15 T",
   "hasWetProtocol": false
 }

@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Vimentin",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3ca2",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 969,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Vim T",
   "hasWetProtocol": false
 }

@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "HSA",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c6f",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc0",
+  "ventanaBenchMarkId": 225,
+  "ventanaBenchMarkWetId": 368,
   "ventanaBenchMarkProtocolName": "HSA T",
   "hasWetProtocol": true
 }

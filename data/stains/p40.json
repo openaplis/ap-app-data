@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "P40",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c81",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc9",
+  "ventanaBenchMarkId": 254,
+  "ventanaBenchMarkWetId": 266,
   "ventanaBenchMarkProtocolName": "P40 T",
   "hasWetProtocol": true
 }

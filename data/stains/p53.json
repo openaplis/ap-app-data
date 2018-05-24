@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "P53",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c82",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ccb",
+  "ventanaBenchMarkId": 289,
+  "ventanaBenchMarkWetId": 303,
   "ventanaBenchMarkProtocolName": "P53 T",
   "hasWetProtocol": true
 }

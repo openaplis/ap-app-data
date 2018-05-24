@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Glypican 3",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c6b",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cbd",
+  "ventanaBenchMarkId": 227,
+  "ventanaBenchMarkWetId": 229,
   "ventanaBenchMarkProtocolName": "Glypican3 T",
   "hasWetProtocol": true
 }

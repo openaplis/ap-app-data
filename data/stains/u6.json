@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "U6",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3ca1",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 3013,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "U6 DNP",
   "hasWetProtocol": false
 }

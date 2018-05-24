@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "HPylori",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c6e",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cbf",
+  "ventanaBenchMarkId": 362,
+  "ventanaBenchMarkWetId": 364,
   "ventanaBenchMarkProtocolName": "Hpylori T",
   "hasWetProtocol": true
 }

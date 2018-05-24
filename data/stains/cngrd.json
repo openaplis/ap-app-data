@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CongoRed",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c58",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 617,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Congo Red",
   "hasWetProtocol": false
 }

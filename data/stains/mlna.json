@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Melan A",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c90",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca4",
+  "ventanaBenchMarkId": 21,
+  "ventanaBenchMarkWetId": 22,
   "ventanaBenchMarkProtocolName": "R MART-1",
   "hasWetProtocol": true
 }

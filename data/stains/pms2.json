@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PMS2",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c8b",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 220,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "PMS2 T",
   "hasWetProtocol": false
 }

@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Retic",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c94",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3c95",
+  "ventanaBenchMarkId": 4993,
+  "ventanaBenchMarkWetId": 4996,
   "ventanaBenchMarkProtocolName": "Retic",
   "hasWetProtocol": true
 }

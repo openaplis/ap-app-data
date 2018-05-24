@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Lambda",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c74",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 3012,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "LAMBDA ISH",
   "hasWetProtocol": false
 }

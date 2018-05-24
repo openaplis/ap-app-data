@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "SOX10",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c92",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ccf",
+  "ventanaBenchMarkId": 31,
+  "ventanaBenchMarkWetId": 32,
   "ventanaBenchMarkProtocolName": "R SOX-10",
   "hasWetProtocol": true
 }

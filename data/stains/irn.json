@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Iron",
   "stainerType": "BenchMark Special Stains",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c70",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc1",
+  "ventanaBenchMarkId": 643,
+  "ventanaBenchMarkWetId": 644,
   "ventanaBenchMarkProtocolName": "Iron NFR Dark",
   "hasWetProtocol": true
 }

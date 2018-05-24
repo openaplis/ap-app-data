@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "E-cadherin",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c63",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 258,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "E-cadherin",
   "hasWetProtocol": false
 }

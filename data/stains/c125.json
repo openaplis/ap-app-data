@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CA 125",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c3a",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 921,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "CA-125 T",
   "hasWetProtocol": false
 }

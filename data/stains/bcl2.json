@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Bcl-2",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c36",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca5",
+  "ventanaBenchMarkId": 223,
+  "ventanaBenchMarkWetId": 221,
   "ventanaBenchMarkProtocolName": "BCL-2 T",
   "hasWetProtocol": true
 }

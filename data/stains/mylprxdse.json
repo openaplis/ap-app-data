@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Myelop",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c7c",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 974,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "Myelop T",
   "hasWetProtocol": false
 }

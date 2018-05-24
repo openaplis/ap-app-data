@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD34",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c47",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cae",
+  "ventanaBenchMarkId": 964,
+  "ventanaBenchMarkWetId": 436,
   "ventanaBenchMarkProtocolName": "CD34",
   "hasWetProtocol": true
 }

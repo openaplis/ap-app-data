@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "HER2 (D-ISH)",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c6d",
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkId": 3008,
+  "ventanaBenchMarkWetId": 0,
   "ventanaBenchMarkProtocolName": "HER2 DUAL ISH 6",
   "hasWetProtocol": false
 }

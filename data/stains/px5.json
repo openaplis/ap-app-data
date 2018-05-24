@@ -18,8 +18,8 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PAX-5",
   "stainerType": "BenchMark ULTRA",
-  "ventanaBenchMarkId": "5afdaef8584d5631244b3c88",
-  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ccd",
+  "ventanaBenchMarkId": 940,
+  "ventanaBenchMarkWetId": 941,
   "ventanaBenchMarkProtocolName": "PAX5 T",
   "hasWetProtocol": true
 }
