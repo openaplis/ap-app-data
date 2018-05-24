@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "122",
   "stainName": "MSH2",
-  "stainAbbreviation": "MSH2",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "MSH2",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c79",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "MSH-2 T",
+  "hasWetProtocol": false
 }

@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "362",
   "stainName": "c-Myc",
-  "stainAbbreviation": "c-Myc",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "c-Myc",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c39",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "C-Myc",
+  "hasWetProtocol": false
 }

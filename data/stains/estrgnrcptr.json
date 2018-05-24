@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "98",
   "stainName": "Estrogen Receptor",
-  "stainAbbreviation": "ER",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "ER",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c66",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cbb",
+  "ventanaBenchMarkProtocolName": "ER T",
+  "hasWetProtocol": true
 }

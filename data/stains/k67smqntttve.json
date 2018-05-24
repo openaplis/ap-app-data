@@ -8,7 +8,6 @@
   "hasCptCodeLevels": false,
   "testId": "116",
   "stainName": "Ki-67, Semi-quantitative",
-  "stainAbbreviation": "Ki-67 Semi",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Ki-67 Semi",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark Special Stains",
+  "ventanaBenchMarkId": "5afdaedf584d5631244b3c34",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "AFB III",
+  "hasWetProtocol": false
 }

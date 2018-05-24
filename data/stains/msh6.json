@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "218",
   "stainName": "MSH6",
-  "stainAbbreviation": "MSH6",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "MSH6",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c7a",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "MSH6 T",
+  "hasWetProtocol": false
 }

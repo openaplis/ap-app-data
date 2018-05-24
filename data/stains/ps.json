@@ -8,7 +8,6 @@
   "hasCptCodeLevels": false,
   "testId": "137",
   "stainName": "PAS",
-  "stainAbbreviation": "PAS",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PAS",
-  "stainerType": "BenchMark Special Stains"
+  "stainerType": "BenchMark Special Stains",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c84",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "PAS",
+  "hasWetProtocol": false
 }

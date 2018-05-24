@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "173",
   "stainName": "WT-1",
-  "stainAbbreviation": "WT1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "WT1",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3cd5",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "WT1",
+  "hasWetProtocol": false
 }

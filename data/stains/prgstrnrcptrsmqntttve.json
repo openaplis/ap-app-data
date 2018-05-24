@@ -8,7 +8,6 @@
   "hasCptCodeLevels": false,
   "testId": "145",
   "stainName": "Progesterone Receptor, Semi-quantitative",
-  "stainAbbreviation": "PR",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PR",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c8c",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cce",
+  "ventanaBenchMarkProtocolName": "PR T",
+  "hasWetProtocol": true
 }

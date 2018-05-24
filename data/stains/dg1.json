@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "298",
   "stainName": "DOG-1",
-  "stainAbbreviation": "DOG-1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "DOG-1",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c62",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "DOG-1 T",
+  "hasWetProtocol": false
 }

@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "KI67MA",
   "stainName": "Ki-67, Semi-quantitative/Melan A",
-  "stainAbbreviation": "Ki67Mel",
   "active": false,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -19,6 +18,10 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Ki67Mel",
   "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c5c",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
+  "hasWetProtocol": false,
   "firstTest": {
     "stainType": "GradedStain",
     "stainId": "k67smqntttve",
@@ -29,7 +32,6 @@
     "hasCptCodeLevels": false,
     "testId": "116",
     "stainName": "Ki-67, Semi-quantitative",
-    "stainAbbreviation": "Ki-67 Semi",
     "active": true,
     "stainResultGroupId": 0,
     "aliquotType": null,
@@ -39,7 +41,11 @@
     "defaultResult": null,
     "requestForAdditionalReport": false,
     "histologyDisplayString": "Ki-67 Semi",
-    "stainerType": "BenchMark ULTRA"
+    "stainerType": "BenchMark ULTRA",
+    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5c",
+    "ventanaBenchMarkWetId": null,
+    "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
+    "hasWetProtocol": false
   },
   "secondTest": {
     "stainType": "IHC",
@@ -51,7 +57,6 @@
     "hasCptCodeLevels": true,
     "testId": "119",
     "stainName": "Melan A",
-    "stainAbbreviation": "Melan A",
     "active": true,
     "stainResultGroupId": 0,
     "aliquotType": null,
@@ -61,7 +66,11 @@
     "defaultResult": null,
     "requestForAdditionalReport": false,
     "histologyDisplayString": "Melan A",
-    "stainerType": "BenchMark ULTRA"
+    "stainerType": "BenchMark ULTRA",
+    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5c",
+    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca4",
+    "ventanaBenchMarkProtocolName": "D Ki-67.MART1",
+    "hasWetProtocol": true
   },
   "depricatedFirstTestId": "225",
   "depricatedSecondTestId": null

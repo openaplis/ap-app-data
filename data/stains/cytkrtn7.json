@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "90",
   "stainName": "Cytokeratin 7",
-  "stainAbbreviation": "CK7",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CK7",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c56",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb9",
+  "ventanaBenchMarkProtocolName": "CK7 T",
+  "hasWetProtocol": true
 }

@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "164",
   "stainName": "Vimentin",
-  "stainAbbreviation": "Vimentin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Vimentin",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3ca2",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "Vim T",
+  "hasWetProtocol": false
 }

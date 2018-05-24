@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "68",
   "stainName": "CD3",
-  "stainAbbreviation": "CD3",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD3",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c44",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cac",
+  "ventanaBenchMarkProtocolName": "CD3 T",
+  "hasWetProtocol": true
 }

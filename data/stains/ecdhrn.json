@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "94",
   "stainName": "E-cadherin",
-  "stainAbbreviation": "E-cadherin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "E-cadherin",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c63",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "E-cadherin",
+  "hasWetProtocol": false
 }

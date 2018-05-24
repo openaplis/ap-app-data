@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "154",
   "stainName": "Smooth Muscle Myosin",
-  "stainAbbreviation": "SMM",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "SMM",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c99",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cd2",
+  "ventanaBenchMarkProtocolName": "SMM T",
+  "hasWetProtocol": true
 }

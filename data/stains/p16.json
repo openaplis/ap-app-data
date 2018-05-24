@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "132",
   "stainName": "P16",
-  "stainAbbreviation": "P16",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "P16",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c80",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc8",
+  "ventanaBenchMarkProtocolName": "P16 T",
+  "hasWetProtocol": true
 }

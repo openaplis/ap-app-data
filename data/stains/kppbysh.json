@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "360",
   "stainName": "Kappa by ISH",
-  "stainAbbreviation": "Kappa",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Kappa",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c71",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "KAPPA ISH",
+  "hasWetProtocol": false
 }

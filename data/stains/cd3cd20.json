@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "CD30CD20",
   "stainName": "CD3/CD20",
-  "stainAbbreviation": "CD3/20",
   "active": false,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -19,6 +18,10 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD3/20",
   "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c5a",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "D CD3-CD20T",
+  "hasWetProtocol": false,
   "firstTest": {
     "stainType": "IHC",
     "stainId": "cd3",
@@ -29,7 +32,6 @@
     "hasCptCodeLevels": true,
     "testId": "68",
     "stainName": "CD3",
-    "stainAbbreviation": "CD3",
     "active": true,
     "stainResultGroupId": 0,
     "aliquotType": null,
@@ -39,7 +41,11 @@
     "defaultResult": null,
     "requestForAdditionalReport": false,
     "histologyDisplayString": "CD3",
-    "stainerType": "BenchMark ULTRA"
+    "stainerType": "BenchMark ULTRA",
+    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5a",
+    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cac",
+    "ventanaBenchMarkProtocolName": "D CD3-CD20T",
+    "hasWetProtocol": true
   },
   "secondTest": {
     "stainType": "IHC",
@@ -51,7 +57,6 @@
     "hasCptCodeLevels": true,
     "testId": "65",
     "stainName": "CD20",
-    "stainAbbreviation": "CD20",
     "active": true,
     "stainResultGroupId": 0,
     "aliquotType": null,
@@ -61,7 +66,11 @@
     "defaultResult": null,
     "requestForAdditionalReport": false,
     "histologyDisplayString": "CD20",
-    "stainerType": "BenchMark ULTRA"
+    "stainerType": "BenchMark ULTRA",
+    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5a",
+    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cab",
+    "ventanaBenchMarkProtocolName": "D CD3-CD20T",
+    "hasWetProtocol": true
   },
   "depricatedFirstTestId": "229",
   "depricatedSecondTestId": "230"

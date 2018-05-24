@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "217",
   "stainName": "PMS2",
-  "stainAbbreviation": "PMS2",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PMS2",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c8b",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "PMS2 T",
+  "hasWetProtocol": false
 }

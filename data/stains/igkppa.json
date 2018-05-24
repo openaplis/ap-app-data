@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "113",
   "stainName": "Ig Kappa",
-  "stainAbbreviation": "Ig Kappa",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Ig Kappa",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c72",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "Kappa T",
+  "hasWetProtocol": false
 }
