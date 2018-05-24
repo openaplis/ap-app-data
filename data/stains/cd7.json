@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "180",
   "stainName": "CD7",
-  "stainAbbreviation": "CD7",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD7",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c4d",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb4",
+  "ventanaBenchMarkProtocolName": "CD7 T",
+  "hasWetProtocol": true
 }

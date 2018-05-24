@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "61",
   "stainName": "CD10",
-  "stainAbbreviation": "CD10",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD10",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c3d",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca8",
+  "ventanaBenchMarkProtocolName": "CD10 T",
+  "hasWetProtocol": true
 }

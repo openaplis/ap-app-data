@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "85",
   "stainName": "Cyclin D1",
-  "stainAbbreviation": "CyclinD1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CyclinD1",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c59",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "CyclinD1 T",
+  "hasWetProtocol": false
 }

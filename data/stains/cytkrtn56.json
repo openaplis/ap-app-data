@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "89",
   "stainName": "Cytokeratin 5/6",
-  "stainAbbreviation": "CK5/6",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CK5/6",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c55",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb8",
+  "ventanaBenchMarkProtocolName": "CK5/6 T",
+  "hasWetProtocol": true
 }

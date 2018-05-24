@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "80",
   "stainName": "CD8",
-  "stainAbbreviation": "CD8",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD8",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c4e",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb5",
+  "ventanaBenchMarkProtocolName": "CD8 T",
+  "hasWetProtocol": true
 }

@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "147",
   "stainName": "Prostatic Acid Phosphatase",
-  "stainAbbreviation": "PAP",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PAP",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c8e",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "PSAP",
+  "hasWetProtocol": false
 }

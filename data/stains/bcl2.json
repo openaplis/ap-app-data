@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "56",
   "stainName": "Bcl-2",
-  "stainAbbreviation": "Bcl-2",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Bcl-2",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c36",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca5",
+  "ventanaBenchMarkProtocolName": "BCL-2 T",
+  "hasWetProtocol": true
 }

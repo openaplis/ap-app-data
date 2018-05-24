@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "77",
   "stainName": "CD56",
-  "stainAbbreviation": "CD56",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD56",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c4b",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb2",
+  "ventanaBenchMarkProtocolName": "CD56 T",
+  "hasWetProtocol": true
 }

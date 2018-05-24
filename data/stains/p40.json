@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "359",
   "stainName": "P40",
-  "stainAbbreviation": "P40",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "P40",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c81",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc9",
+  "ventanaBenchMarkProtocolName": "P40 T",
+  "hasWetProtocol": true
 }

@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "118",
   "stainName": "Mammaglobin",
-  "stainAbbreviation": "Mammaglobin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Mammaglobin",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c76",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc3",
+  "ventanaBenchMarkProtocolName": "Mammaglobin",
+  "hasWetProtocol": true
 }

@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "73",
   "stainName": "CD45",
-  "stainAbbreviation": "CD45",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD45",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c49",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cb0",
+  "ventanaBenchMarkProtocolName": "CD45 (LCA) T",
+  "hasWetProtocol": true
 }

@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "63",
   "stainName": "CD138",
-  "stainAbbreviation": "CD138",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD138",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c3f",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "CD138",
+  "hasWetProtocol": false
 }

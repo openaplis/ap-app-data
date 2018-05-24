@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "111",
   "stainName": "HMB-45",
-  "stainAbbreviation": "HMB-45",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "HMB-45",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c8f",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "R HMB-45",
+  "hasWetProtocol": false
 }

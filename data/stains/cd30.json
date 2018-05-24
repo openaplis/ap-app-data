@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "69",
   "stainName": "CD30",
-  "stainAbbreviation": "CD30",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD30",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c45",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "CD30",
+  "hasWetProtocol": false
 }

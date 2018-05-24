@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "57",
   "stainName": "Bcl-6",
-  "stainAbbreviation": "Bcl-6",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Bcl-6",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c37",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "BCL-6 T",
+  "hasWetProtocol": false
 }

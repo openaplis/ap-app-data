@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "121",
   "stainName": "MLH1",
-  "stainAbbreviation": "MLH1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "MLH1",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c77",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "MLH1  T",
+  "hasWetProtocol": false
 }

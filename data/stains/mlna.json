@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "119",
   "stainName": "Melan A",
-  "stainAbbreviation": "Melan A",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "Melan A",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c90",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ca4",
+  "ventanaBenchMarkProtocolName": "R MART-1",
+  "hasWetProtocol": true
 }

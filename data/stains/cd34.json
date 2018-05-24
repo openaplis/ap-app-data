@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "70",
   "stainName": "CD34",
-  "stainAbbreviation": "CD34",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "CD34",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c47",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cae",
+  "ventanaBenchMarkProtocolName": "CD34",
+  "hasWetProtocol": true
 }

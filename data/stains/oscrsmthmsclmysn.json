@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "OSCRSMM",
   "stainName": "OSCAR/Smooth Muscle Myosin",
-  "stainAbbreviation": "OSCAR/SMM",
   "active": false,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -19,6 +18,10 @@
   "requestForAdditionalReport": false,
   "histologyDisplayString": "OSCAR/SMM",
   "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c5d",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
+  "hasWetProtocol": false,
   "firstTest": {
     "stainType": "IHC",
     "stainId": "oscr",
@@ -29,7 +32,6 @@
     "hasCptCodeLevels": true,
     "testId": "170",
     "stainName": "OSCAR",
-    "stainAbbreviation": "OSCAR",
     "active": true,
     "stainResultGroupId": 0,
     "aliquotType": null,
@@ -39,7 +41,11 @@
     "defaultResult": null,
     "requestForAdditionalReport": false,
     "histologyDisplayString": "OSCAR",
-    "stainerType": "BenchMark ULTRA"
+    "stainerType": "BenchMark ULTRA",
+    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5d",
+    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cc7",
+    "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
+    "hasWetProtocol": true
   },
   "secondTest": {
     "stainType": "IHC",
@@ -51,7 +57,6 @@
     "hasCptCodeLevels": true,
     "testId": "154",
     "stainName": "Smooth Muscle Myosin",
-    "stainAbbreviation": "SMM",
     "active": true,
     "stainResultGroupId": 0,
     "aliquotType": null,
@@ -61,7 +66,11 @@
     "defaultResult": null,
     "requestForAdditionalReport": false,
     "histologyDisplayString": "SMM",
-    "stainerType": "BenchMark ULTRA"
+    "stainerType": "BenchMark ULTRA",
+    "ventanaBenchMarkId": "5afdaef8584d5631244b3c5d",
+    "ventanaBenchMarkWetId": "5afdaef8584d5631244b3cd2",
+    "ventanaBenchMarkProtocolName": "D OSCAR-SMM",
+    "hasWetProtocol": true
   },
   "depricatedFirstTestId": null,
   "depricatedSecondTestId": null

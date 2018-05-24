@@ -8,7 +8,6 @@
   "hasCptCodeLevels": false,
   "testId": "138",
   "stainName": "PAS alcian blue",
-  "stainAbbreviation": "PASAB",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "PASAB",
-  "stainerType": "BenchMark Special Stains"
+  "stainerType": "BenchMark Special Stains",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c85",
+  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkProtocolName": "PAS - Alcian Blue",
+  "hasWetProtocol": false
 }

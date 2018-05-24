@@ -8,7 +8,6 @@
   "hasCptCodeLevels": true,
   "testId": "356",
   "stainName": "SOX10",
-  "stainAbbreviation": "SOX10",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -18,5 +17,9 @@
   "defaultResult": null,
   "requestForAdditionalReport": false,
   "histologyDisplayString": "SOX10",
-  "stainerType": "BenchMark ULTRA"
+  "stainerType": "BenchMark ULTRA",
+  "ventanaBenchMarkId": "5afdaef8584d5631244b3c92",
+  "ventanaBenchMarkWetId": "5afdaef8584d5631244b3ccf",
+  "ventanaBenchMarkProtocolName": "R SOX-10",
+  "hasWetProtocol": true
 }
