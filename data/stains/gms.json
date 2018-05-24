@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "GMS II",
   "hasWetProtocol": true,
   "cptCode": "88312",
+  "subsequentCPTCode": null,
   "gCode": null
 }

@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "Elastic Stain",
   "hasWetProtocol": false,
   "cptCode": "88313",
+  "subsequentCPTCode": null,
   "gCode": null
 }

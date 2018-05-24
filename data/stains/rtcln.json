@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "Retic",
   "hasWetProtocol": true,
   "cptCode": "88313",
+  "subsequentCPTCode": null,
   "gCode": null
 }

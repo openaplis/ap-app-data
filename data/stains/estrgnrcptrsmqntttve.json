@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "ER T",
   "hasWetProtocol": true,
   "cptCode": "88360",
+  "subsequentCPTCode": null,
   "gCode": null
 }

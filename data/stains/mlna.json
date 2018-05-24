@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "R MART-1",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

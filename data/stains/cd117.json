@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "CD117  T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

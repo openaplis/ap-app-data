@@ -23,6 +23,7 @@
   "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
   "hasWetProtocol": false,
   "cptCode": null,
+  "subsequentCPTCode": null,
   "gCode": null,
   "firstTest": {
     "stainType": "IHC",
@@ -48,7 +49,8 @@
     "ventanaBenchMarkWetId": 302,
     "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
     "hasWetProtocol": true,
-    "cptCode": "88344",
+    "cptCode": "88342",
+    "subsequentCPTCode": "88343",
     "gCode": "G0461"
   },
   "secondTest": {
@@ -75,7 +77,8 @@
     "ventanaBenchMarkWetId": 941,
     "ventanaBenchMarkProtocolName": "D T PAX 5-CD 5",
     "hasWetProtocol": true,
-    "cptCode": "88344",
+    "cptCode": "88342",
+    "subsequentCPTCode": "88343",
     "gCode": "G0461"
   },
   "depricatedFirstTestId": null,

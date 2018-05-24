@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "Congo Red",
   "hasWetProtocol": false,
   "cptCode": "88313",
+  "subsequentCPTCode": null,
   "gCode": null
 }

@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "NKX3.1 T",
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

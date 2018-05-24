@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "AFB III",
   "hasWetProtocol": false,
   "cptCode": "88312",
+  "subsequentCPTCode": null,
   "gCode": null
 }

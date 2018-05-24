@@ -23,5 +23,6 @@
   "ventanaBenchMarkProtocolName": "KAPPA ISH",
   "hasWetProtocol": false,
   "cptCode": "88364",
+  "subsequentCPTCode": "88364",
   "gCode": "G0461"
 }
