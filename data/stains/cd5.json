@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 304,
   "ventanaBenchMarkWetId": 302,
   "ventanaBenchMarkProtocolName": "CD5 T",
+  "ventanaBenchMarkWetProtocolName": "W-CD5 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

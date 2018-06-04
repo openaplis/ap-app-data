@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 974,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Myelop T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

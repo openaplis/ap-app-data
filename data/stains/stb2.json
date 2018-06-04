@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 217,
   "ventanaBenchMarkWetId": 219,
   "ventanaBenchMarkProtocolName": "SATB2 T",
+  "ventanaBenchMarkWetProtocolName": "W-SATB2 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

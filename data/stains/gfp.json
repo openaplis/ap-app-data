@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 991,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "GFAP T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

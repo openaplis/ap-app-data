@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 979,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "MSH6 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

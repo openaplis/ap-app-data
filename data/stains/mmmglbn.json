@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 957,
   "ventanaBenchMarkWetId": 962,
   "ventanaBenchMarkProtocolName": "Mammaglobin",
+  "ventanaBenchMarkWetProtocolName": "W-Mammaglobin",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 21,
   "ventanaBenchMarkWetId": 22,
   "ventanaBenchMarkProtocolName": "R MART-1",
+  "ventanaBenchMarkWetProtocolName": "W R MART-1",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

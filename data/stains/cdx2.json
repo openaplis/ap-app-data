@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 261,
   "ventanaBenchMarkWetId": 262,
   "ventanaBenchMarkProtocolName": "CDX2 T",
+  "ventanaBenchMarkWetProtocolName": "W-CDX2-T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

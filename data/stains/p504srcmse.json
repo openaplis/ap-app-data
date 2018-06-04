@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 23,
   "ventanaBenchMarkWetId": 998,
   "ventanaBenchMarkProtocolName": "R P504S T",
+  "ventanaBenchMarkWetProtocolName": "W-P504s - T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 969,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Vim T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

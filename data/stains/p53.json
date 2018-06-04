@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 289,
   "ventanaBenchMarkWetId": 303,
   "ventanaBenchMarkProtocolName": "P53 T",
+  "ventanaBenchMarkWetProtocolName": "W-P53 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

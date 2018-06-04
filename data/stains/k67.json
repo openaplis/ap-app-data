@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 285,
   "ventanaBenchMarkWetId": 291,
   "ventanaBenchMarkProtocolName": "Ki67",
+  "ventanaBenchMarkWetProtocolName": "W-Ki67",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

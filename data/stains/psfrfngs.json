@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 654,
   "ventanaBenchMarkWetId": 655,
   "ventanaBenchMarkProtocolName": "PAS-F",
+  "ventanaBenchMarkWetProtocolName": "W PAS-F",
   "hasWetProtocol": true,
   "cptCode": "88312",
   "subsequentCPTCode": null,

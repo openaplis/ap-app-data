@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 265,
   "ventanaBenchMarkWetId": 281,
   "ventanaBenchMarkProtocolName": "PR T",
+  "ventanaBenchMarkWetProtocolName": "W-PR",
   "hasWetProtocol": true,
   "cptCode": "88360",
   "subsequentCPTCode": null,

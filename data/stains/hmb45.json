@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 7,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "R HMB-45",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

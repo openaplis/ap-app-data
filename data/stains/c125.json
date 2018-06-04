@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 921,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CA-125 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

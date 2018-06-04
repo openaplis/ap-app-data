@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 4994,
   "ventanaBenchMarkWetId": 4997,
   "ventanaBenchMarkProtocolName": "GMS II",
+  "ventanaBenchMarkWetProtocolName": "W-GMS II",
   "hasWetProtocol": true,
   "cptCode": "88312",
   "subsequentCPTCode": null,

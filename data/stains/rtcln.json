@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 4993,
   "ventanaBenchMarkWetId": 4996,
   "ventanaBenchMarkProtocolName": "Retic",
+  "ventanaBenchMarkWetProtocolName": "Retic W",
   "hasWetProtocol": true,
   "cptCode": "88313",
   "subsequentCPTCode": null,

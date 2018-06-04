@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 277,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CK34BE12",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

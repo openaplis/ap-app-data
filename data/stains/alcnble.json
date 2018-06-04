@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 4999,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Alcian Blue",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88313",
   "subsequentCPTCode": null,

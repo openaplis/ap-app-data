@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 246,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "WT1",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

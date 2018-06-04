@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 259,
   "ventanaBenchMarkWetId": 280,
   "ventanaBenchMarkProtocolName": "ER T",
+  "ventanaBenchMarkWetProtocolName": "W-ER",
   "hasWetProtocol": true,
   "cptCode": "88360",
   "subsequentCPTCode": null,

@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 318,
   "ventanaBenchMarkWetId": 320,
   "ventanaBenchMarkProtocolName": "CD45 (LCA) T",
+  "ventanaBenchMarkWetProtocolName": "W-CD45 (LCA) T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

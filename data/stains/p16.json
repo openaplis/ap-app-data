@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 994,
   "ventanaBenchMarkWetId": 995,
   "ventanaBenchMarkProtocolName": "P16 T",
+  "ventanaBenchMarkWetProtocolName": "W-P16 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

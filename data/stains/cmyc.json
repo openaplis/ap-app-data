@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 231,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "C-Myc",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

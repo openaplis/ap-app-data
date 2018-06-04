@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 244,
   "ventanaBenchMarkWetId": 245,
   "ventanaBenchMarkProtocolName": "Calretinin T",
+  "ventanaBenchMarkWetProtocolName": "W-Calret T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

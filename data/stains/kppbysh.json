@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 3011,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "KAPPA ISH",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88364",
   "subsequentCPTCode": "88364",

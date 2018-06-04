@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 230,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "MUM1 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

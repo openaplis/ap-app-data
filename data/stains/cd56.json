@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 269,
   "ventanaBenchMarkWetId": 292,
   "ventanaBenchMarkProtocolName": "CD56 T",
+  "ventanaBenchMarkWetProtocolName": "W-CD56 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

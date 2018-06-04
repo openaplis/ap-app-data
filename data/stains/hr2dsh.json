@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 3008,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "HER2 DUAL ISH 6",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

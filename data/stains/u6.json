@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 3013,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "U6 DNP",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 264,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CD23 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

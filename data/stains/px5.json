@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 940,
   "ventanaBenchMarkWetId": 941,
   "ventanaBenchMarkProtocolName": "PAX5 T",
+  "ventanaBenchMarkWetProtocolName": "W-PAX5 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

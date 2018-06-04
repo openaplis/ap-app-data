@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 223,
   "ventanaBenchMarkWetId": 221,
   "ventanaBenchMarkProtocolName": "BCL-2 T",
+  "ventanaBenchMarkWetProtocolName": "W-BCL-2/T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

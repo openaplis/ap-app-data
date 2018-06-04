@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 225,
   "ventanaBenchMarkWetId": 368,
   "ventanaBenchMarkProtocolName": "HSA T",
+  "ventanaBenchMarkWetProtocolName": "W-HSA T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

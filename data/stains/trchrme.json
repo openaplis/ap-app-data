@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 676,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Trichrome III",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88313",
   "subsequentCPTCode": null,

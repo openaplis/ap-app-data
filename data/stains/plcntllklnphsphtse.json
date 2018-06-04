@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 1005,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PLAP T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",

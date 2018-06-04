@@ -21,6 +21,7 @@
   "ventanaBenchMarkId": 254,
   "ventanaBenchMarkWetId": 266,
   "ventanaBenchMarkProtocolName": "P40 T",
+  "ventanaBenchMarkWetProtocolName": "W-P40-T",
   "hasWetProtocol": true,
   "cptCode": "88342",
   "subsequentCPTCode": "88343",
