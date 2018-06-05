@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "126",
   "stainName": "Myeloperoxidase",
+  "stainAbbreviation": "Myelop",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

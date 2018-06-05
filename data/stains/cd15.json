@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "64",
   "stainName": "CD15",
+  "stainAbbreviation": "CD15",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

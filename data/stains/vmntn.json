@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "164",
   "stainName": "Vimentin",
+  "stainAbbreviation": "Vimentin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "71",
   "stainName": "CD4",
+  "stainAbbreviation": "CD4",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "51",
   "stainName": "Alcian Blue",
+  "stainAbbreviation": "Alcian Blue",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

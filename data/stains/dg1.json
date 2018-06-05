@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "298",
   "stainName": "DOG-1",
+  "stainAbbreviation": "DOG-1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "356",
   "stainName": "SOX10",
+  "stainAbbreviation": "SOX10",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "101",
   "stainName": "Factor XIIIa",
+  "stainAbbreviation": "Factor XIIIa",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

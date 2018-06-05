@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "92",
   "stainName": "Desmin",
+  "stainAbbreviation": "Desmin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

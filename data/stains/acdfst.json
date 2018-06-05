@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "50",
   "stainName": "Acid Fast",
+  "stainAbbreviation": "Acid Fast",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

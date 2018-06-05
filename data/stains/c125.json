@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "58",
   "stainName": "CA 125",
+  "stainAbbreviation": "CA 125",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

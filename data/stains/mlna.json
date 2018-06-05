@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "119",
   "stainName": "Melan A",
+  "stainAbbreviation": "Melan A",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

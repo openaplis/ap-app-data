@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "170",
   "stainName": "OSCAR",
+  "stainAbbreviation": "OSCAR",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

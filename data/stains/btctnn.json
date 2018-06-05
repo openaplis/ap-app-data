@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "299",
   "stainName": "Beta-Catenin",
+  "stainAbbreviation": "BetaCat",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

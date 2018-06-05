@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "99",
   "stainName": "Estrogen Receptor, Semi-quantitative",
+  "stainAbbreviation": "ER",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

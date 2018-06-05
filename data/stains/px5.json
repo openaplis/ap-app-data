@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "141",
   "stainName": "PAX-5",
+  "stainAbbreviation": "PAX-5",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

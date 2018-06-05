@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "132",
   "stainName": "P16",
+  "stainAbbreviation": "P16",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "122",
   "stainName": "MSH2",
+  "stainAbbreviation": "MSH2",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

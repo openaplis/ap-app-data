@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "84",
   "stainName": "Congo Red",
+  "stainAbbreviation": "CongoRed",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

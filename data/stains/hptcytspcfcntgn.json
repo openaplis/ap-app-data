@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "197",
   "stainName": "Hepatocyte Specific Antigen",
+  "stainAbbreviation": "HSA",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

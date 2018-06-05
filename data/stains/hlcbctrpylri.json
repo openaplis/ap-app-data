@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "107",
   "stainName": "Helicobacter pylori",
+  "stainAbbreviation": "HPylori",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

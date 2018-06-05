@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "360",
   "stainName": "Kappa by ISH",
+  "stainAbbreviation": "Kappa",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

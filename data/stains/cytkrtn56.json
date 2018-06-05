@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "89",
   "stainName": "Cytokeratin 5/6",
+  "stainAbbreviation": "CK5/6",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

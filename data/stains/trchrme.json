@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "160",
   "stainName": "Trichrome",
+  "stainAbbreviation": "Trichrome",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

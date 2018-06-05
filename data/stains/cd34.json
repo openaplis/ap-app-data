@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "70",
   "stainName": "CD34",
+  "stainAbbreviation": "CD34",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "73",
   "stainName": "CD45",
+  "stainAbbreviation": "CD45",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

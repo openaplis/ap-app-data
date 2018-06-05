@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "97",
   "stainName": "EMA",
+  "stainAbbreviation": "EMA",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

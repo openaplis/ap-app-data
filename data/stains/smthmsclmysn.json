@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "154",
   "stainName": "Smooth Muscle Myosin",
+  "stainAbbreviation": "SMM",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

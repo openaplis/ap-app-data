@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "68",
   "stainName": "CD3",
+  "stainAbbreviation": "CD3",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

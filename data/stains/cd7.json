@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "180",
   "stainName": "CD7",
+  "stainAbbreviation": "CD7",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "61",
   "stainName": "CD10",
+  "stainAbbreviation": "CD10",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

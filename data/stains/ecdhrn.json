@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "94",
   "stainName": "E-cadherin",
+  "stainAbbreviation": "E-cadherin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

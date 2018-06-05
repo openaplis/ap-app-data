@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "118",
   "stainName": "Mammaglobin",
+  "stainAbbreviation": "Mammaglobin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "115",
   "stainName": "Iron",
+  "stainAbbreviation": "Iron",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "144",
   "stainName": "Progesterone Receptor",
+  "stainAbbreviation": "PR",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

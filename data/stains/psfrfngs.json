@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "139",
   "stainName": "PAS for fungus",
+  "stainAbbreviation": "PASF",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

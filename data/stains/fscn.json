@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "102",
   "stainName": "Fascin",
+  "stainAbbreviation": "Fascin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

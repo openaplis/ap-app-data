@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "85",
   "stainName": "Cyclin D1",
+  "stainAbbreviation": "CyclinD1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

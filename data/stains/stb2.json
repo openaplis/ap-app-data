@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "357",
   "stainName": "SATB2",
+  "stainAbbreviation": "SATB2",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

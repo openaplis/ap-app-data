@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "78",
   "stainName": "CD68",
+  "stainAbbreviation": "CD68",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

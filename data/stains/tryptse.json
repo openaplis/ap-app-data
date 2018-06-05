@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "353",
   "stainName": "Tryptase",
+  "stainAbbreviation": "Tryptase",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

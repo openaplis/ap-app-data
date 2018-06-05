@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "88",
   "stainName": "Cytokeratin 34",
+  "stainAbbreviation": "CK34",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,

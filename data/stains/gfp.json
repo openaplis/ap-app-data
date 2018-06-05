@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "104",
   "stainName": "GFAP",
+  "stainAbbreviation": "GFAP",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
