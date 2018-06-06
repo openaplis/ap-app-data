@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "298",
   "stainName": "DOG-1",
+  "stainAbbreviation": "DOG-1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 228,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "DOG-1 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "137",
   "stainName": "PAS",
+  "stainAbbreviation": "PAS",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 657,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PAS",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88313",
+  "subsequentCPTCode": null,
   "gCode": null
 }

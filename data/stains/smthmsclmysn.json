@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "154",
   "stainName": "Smooth Muscle Myosin",
+  "stainAbbreviation": "SMM",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 295,
   "ventanaBenchMarkWetId": 298,
   "ventanaBenchMarkProtocolName": "SMM T",
+  "ventanaBenchMarkWetProtocolName": "W-SMM T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

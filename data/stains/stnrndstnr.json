@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "155",
   "stainName": "Steiner and Steiner",
+  "stainAbbreviation": "Steiner",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 706,
   "ventanaBenchMarkWetId": 707,
   "ventanaBenchMarkProtocolName": "Steiner",
+  "ventanaBenchMarkWetProtocolName": "Steiner WET",
   "hasWetProtocol": true,
   "cptCode": "88312",
+  "subsequentCPTCode": null,
   "gCode": null
 }

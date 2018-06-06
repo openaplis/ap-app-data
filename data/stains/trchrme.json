@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "160",
   "stainName": "Trichrome",
+  "stainAbbreviation": "Trichrome",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 676,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Trichrome III",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88313",
+  "subsequentCPTCode": null,
   "gCode": null
 }

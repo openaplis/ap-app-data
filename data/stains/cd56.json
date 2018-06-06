@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "77",
   "stainName": "CD56",
+  "stainAbbreviation": "CD56",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 269,
   "ventanaBenchMarkWetId": 292,
   "ventanaBenchMarkProtocolName": "CD56 T",
+  "ventanaBenchMarkWetProtocolName": "W-CD56 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

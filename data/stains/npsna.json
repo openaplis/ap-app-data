@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "270",
   "stainName": "Napsin A",
+  "stainAbbreviation": "Napsin A",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 315,
   "ventanaBenchMarkWetId": 226,
   "ventanaBenchMarkProtocolName": "Napsin A  T",
+  "ventanaBenchMarkWetProtocolName": "W-NapsinA-T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

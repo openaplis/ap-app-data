@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "119",
   "stainName": "Melan A",
+  "stainAbbreviation": "Melan A",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 21,
   "ventanaBenchMarkWetId": 22,
   "ventanaBenchMarkProtocolName": "R MART-1",
+  "ventanaBenchMarkWetProtocolName": "W R MART-1",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

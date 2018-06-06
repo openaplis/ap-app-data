@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "82",
   "stainName": "CEA",
+  "stainAbbreviation": "CEA",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 918,
   "ventanaBenchMarkWetId": 916,
   "ventanaBenchMarkProtocolName": "CEA T",
+  "ventanaBenchMarkWetProtocolName": "W-CEA T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

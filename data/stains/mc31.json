@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "215",
   "stainName": "MOC 31",
+  "stainAbbreviation": "MOC 31",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 919,
   "ventanaBenchMarkWetId": 937,
   "ventanaBenchMarkProtocolName": "MOC31 T",
+  "ventanaBenchMarkWetProtocolName": "W-MOC31-T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

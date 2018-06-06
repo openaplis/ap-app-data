@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "90",
   "stainName": "Cytokeratin 7",
+  "stainAbbreviation": "CK7",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 282,
   "ventanaBenchMarkWetId": 288,
   "ventanaBenchMarkProtocolName": "CK7 T",
+  "ventanaBenchMarkWetProtocolName": "W-CK 7 - T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

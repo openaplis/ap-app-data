@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "253",
   "stainName": "PAX-8",
+  "stainAbbreviation": "PAX-8",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 966,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PAX8 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

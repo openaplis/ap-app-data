@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "124",
   "stainName": "MUM-1",
+  "stainAbbreviation": "MUM-1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 230,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "MUM1 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

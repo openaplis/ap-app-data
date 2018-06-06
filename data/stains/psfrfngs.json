@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "139",
   "stainName": "PAS for fungus",
+  "stainAbbreviation": "PASF",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 654,
   "ventanaBenchMarkWetId": 655,
   "ventanaBenchMarkProtocolName": "PAS-F",
+  "ventanaBenchMarkWetProtocolName": "W PAS-F",
   "hasWetProtocol": true,
   "cptCode": "88312",
+  "subsequentCPTCode": null,
   "gCode": null
 }

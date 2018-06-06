@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "56",
   "stainName": "Bcl-2",
+  "stainAbbreviation": "Bcl-2",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 223,
   "ventanaBenchMarkWetId": 221,
   "ventanaBenchMarkProtocolName": "BCL-2 T",
+  "ventanaBenchMarkWetProtocolName": "W-BCL-2/T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

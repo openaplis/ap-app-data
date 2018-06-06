@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "96",
   "stainName": "Elastic",
+  "stainAbbreviation": "Elastic",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 607,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Elastic Stain",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88313",
+  "subsequentCPTCode": null,
   "gCode": null
 }

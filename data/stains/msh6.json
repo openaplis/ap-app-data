@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "218",
   "stainName": "MSH6",
+  "stainAbbreviation": "MSH6",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 979,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "MSH6 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

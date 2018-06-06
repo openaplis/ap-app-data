@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "197",
   "stainName": "Hepatocyte Specific Antigen",
+  "stainAbbreviation": "HSA",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 225,
   "ventanaBenchMarkWetId": 368,
   "ventanaBenchMarkProtocolName": "HSA T",
+  "ventanaBenchMarkWetProtocolName": "W-HSA T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

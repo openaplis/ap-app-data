@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "59",
   "stainName": "CA 19-9",
+  "stainAbbreviation": "CA 19-9",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 250,
   "ventanaBenchMarkWetId": 252,
   "ventanaBenchMarkProtocolName": "CA19-9",
+  "ventanaBenchMarkWetProtocolName": "W-CA19-9",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

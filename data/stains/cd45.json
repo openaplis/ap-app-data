@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "73",
   "stainName": "CD45",
+  "stainAbbreviation": "CD45",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 318,
   "ventanaBenchMarkWetId": 320,
   "ventanaBenchMarkProtocolName": "CD45 (LCA) T",
+  "ventanaBenchMarkWetProtocolName": "W-CD45 (LCA) T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

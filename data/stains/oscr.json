@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "170",
   "stainName": "OSCAR",
+  "stainAbbreviation": "OSCAR",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 901,
   "ventanaBenchMarkWetId": 907,
   "ventanaBenchMarkProtocolName": "Oscar T",
+  "ventanaBenchMarkWetProtocolName": "W-OSCAR",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

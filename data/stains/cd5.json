@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "75",
   "stainName": "CD5",
+  "stainAbbreviation": "CD5",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 304,
   "ventanaBenchMarkWetId": 302,
   "ventanaBenchMarkProtocolName": "CD5 T",
+  "ventanaBenchMarkWetProtocolName": "W-CD5 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

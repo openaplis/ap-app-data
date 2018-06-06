@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "50",
   "stainName": "Acid Fast",
+  "stainAbbreviation": "Acid Fast",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 709,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "AFB III",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88312",
+  "subsequentCPTCode": null,
   "gCode": null
 }

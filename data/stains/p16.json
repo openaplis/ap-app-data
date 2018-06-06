@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "132",
   "stainName": "P16",
+  "stainAbbreviation": "P16",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 994,
   "ventanaBenchMarkWetId": 995,
   "ventanaBenchMarkProtocolName": "P16 T",
+  "ventanaBenchMarkWetProtocolName": "W-P16 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "176",
   "stainName": "CD31",
+  "stainAbbreviation": "CD31",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 222,
   "ventanaBenchMarkWetId": 224,
   "ventanaBenchMarkProtocolName": "CD31",
+  "ventanaBenchMarkWetProtocolName": "W-CD31",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

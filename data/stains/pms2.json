@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "217",
   "stainName": "PMS2",
+  "stainAbbreviation": "PMS2",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 220,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PMS2 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

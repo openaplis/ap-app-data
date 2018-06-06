@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "60",
   "stainName": "Calretinin",
+  "stainAbbreviation": "Calretinin",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 244,
   "ventanaBenchMarkWetId": 245,
   "ventanaBenchMarkProtocolName": "Calretinin T",
+  "ventanaBenchMarkWetProtocolName": "W-Calret T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "63",
   "stainName": "CD138",
+  "stainAbbreviation": "CD138",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 271,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CD138",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

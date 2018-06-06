@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "161",
   "stainName": "TTF-1",
+  "stainAbbreviation": "TTF-1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 1002,
   "ventanaBenchMarkWetId": 985,
   "ventanaBenchMarkProtocolName": "TTF1 T",
+  "ventanaBenchMarkWetProtocolName": "W-TTF1 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

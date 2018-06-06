@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "144",
   "stainName": "Progesterone Receptor",
+  "stainAbbreviation": "PR",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 265,
   "ventanaBenchMarkWetId": 281,
   "ventanaBenchMarkProtocolName": "PR T",
+  "ventanaBenchMarkWetProtocolName": "W-PR",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

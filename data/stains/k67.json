@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "349",
   "stainName": "Ki-67",
+  "stainAbbreviation": "Ki-67",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 285,
   "ventanaBenchMarkWetId": 291,
   "ventanaBenchMarkProtocolName": "Ki67",
+  "ventanaBenchMarkWetProtocolName": "W-Ki67",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

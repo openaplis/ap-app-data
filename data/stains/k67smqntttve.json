@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "116",
   "stainName": "Ki-67, Semi-quantitative",
+  "stainAbbreviation": "Ki-67 Semi",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 709,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "AFB III",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88360",
+  "subsequentCPTCode": null,
   "gCode": null
 }

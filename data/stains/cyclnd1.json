@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "85",
   "stainName": "Cyclin D1",
+  "stainAbbreviation": "CyclinD1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 290,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CyclinD1 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

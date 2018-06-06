@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "153",
   "stainName": "Smooth Muscle Actin",
+  "stainAbbreviation": "SMA",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 306,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "SMA T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

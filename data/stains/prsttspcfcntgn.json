@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "146",
   "stainName": "Prostate Specific Antigen",
+  "stainAbbreviation": "PSA",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 992,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "PSA T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

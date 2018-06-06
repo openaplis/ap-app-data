@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "99",
   "stainName": "Estrogen Receptor, Semi-quantitative",
+  "stainAbbreviation": "ER",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 259,
   "ventanaBenchMarkWetId": 280,
   "ventanaBenchMarkProtocolName": "ER T",
+  "ventanaBenchMarkWetProtocolName": "W-ER",
   "hasWetProtocol": true,
   "cptCode": "88360",
+  "subsequentCPTCode": null,
   "gCode": null
 }

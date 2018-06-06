@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "69",
   "stainName": "CD30",
+  "stainAbbreviation": "CD30",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 938,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CD30",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

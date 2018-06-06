@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "149",
   "stainName": "RCC",
+  "stainAbbreviation": "RCC",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 301,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "RCC T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

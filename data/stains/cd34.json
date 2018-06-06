@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "70",
   "stainName": "CD34",
+  "stainAbbreviation": "CD34",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 964,
   "ventanaBenchMarkWetId": 436,
   "ventanaBenchMarkProtocolName": "CD34",
+  "ventanaBenchMarkWetProtocolName": "W-CD34",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

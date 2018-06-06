@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "355",
   "stainName": "NKX3.1",
+  "stainAbbreviation": "NKX3.1",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -19,9 +20,11 @@
   "histologyDisplayString": "NKX3.1",
   "stainerType": "BenchMark ULTRA",
   "ventanaBenchMarkId": 218,
-  "ventanaBenchMarkWetId": null,
+  "ventanaBenchMarkWetId": 999,
   "ventanaBenchMarkProtocolName": "NKX3.1 T",
-  "hasWetProtocol": false,
+  "ventanaBenchMarkWetProtocolName": "W-NKX3.1-T",
+  "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

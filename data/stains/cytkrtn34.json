@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "88",
   "stainName": "Cytokeratin 34",
+  "stainAbbreviation": "CK34",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 277,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CK34BE12",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

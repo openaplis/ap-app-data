@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "80",
   "stainName": "CD8",
+  "stainAbbreviation": "CD8",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 239,
   "ventanaBenchMarkWetId": 240,
   "ventanaBenchMarkProtocolName": "CD8 T",
+  "ventanaBenchMarkWetProtocolName": "W-CD8 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

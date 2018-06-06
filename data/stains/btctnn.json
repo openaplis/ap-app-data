@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "299",
   "stainName": "Beta-Catenin",
+  "stainAbbreviation": "BetaCat",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 268,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Beta-Catenin",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

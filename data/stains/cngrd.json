@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "84",
   "stainName": "Congo Red",
+  "stainAbbreviation": "CongoRed",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 617,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "Congo Red",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88313",
+  "subsequentCPTCode": null,
   "gCode": null
 }

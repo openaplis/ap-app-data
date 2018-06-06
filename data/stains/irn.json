@@ -8,6 +8,7 @@
   "hasCptCodeLevels": false,
   "testId": "115",
   "stainName": "Iron",
+  "stainAbbreviation": "Iron",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 643,
   "ventanaBenchMarkWetId": 644,
   "ventanaBenchMarkProtocolName": "Iron NFR Dark",
+  "ventanaBenchMarkWetProtocolName": "W-Iron NFR Dark",
   "hasWetProtocol": true,
   "cptCode": "88313",
+  "subsequentCPTCode": null,
   "gCode": null
 }

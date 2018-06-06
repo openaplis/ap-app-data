@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "81",
   "stainName": "CDX-2",
+  "stainAbbreviation": "CDX-2",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 261,
   "ventanaBenchMarkWetId": 262,
   "ventanaBenchMarkProtocolName": "CDX2 T",
+  "ventanaBenchMarkWetProtocolName": "W-CDX2-T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

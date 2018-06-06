@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "78",
   "stainName": "CD68",
+  "stainAbbreviation": "CD68",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 273,
   "ventanaBenchMarkWetId": 314,
   "ventanaBenchMarkProtocolName": "CD68 T",
+  "ventanaBenchMarkWetProtocolName": "W-CD68 T",
   "hasWetProtocol": true,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

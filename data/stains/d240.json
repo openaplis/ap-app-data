@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "224",
   "stainName": "D2-40",
+  "stainAbbreviation": "D2-40",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 216,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "D2-40 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }

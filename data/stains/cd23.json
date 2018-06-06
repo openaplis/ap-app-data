@@ -8,6 +8,7 @@
   "hasCptCodeLevels": true,
   "testId": "66",
   "stainName": "CD23",
+  "stainAbbreviation": "CD23",
   "active": true,
   "stainResultGroupId": 0,
   "aliquotType": null,
@@ -21,7 +22,9 @@
   "ventanaBenchMarkId": 264,
   "ventanaBenchMarkWetId": null,
   "ventanaBenchMarkProtocolName": "CD23 T",
+  "ventanaBenchMarkWetProtocolName": null,
   "hasWetProtocol": false,
   "cptCode": "88342",
+  "subsequentCPTCode": "88343",
   "gCode": "G0461"
 }
