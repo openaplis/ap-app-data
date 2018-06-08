@@ -27,7 +27,7 @@
   "cptCode": null,
   "subsequentCPTCode": null,
   "gCode": null,
-  "firstTest": {
+  "firstStain": {
     "stainType": "IHC",
     "stainId": "cd3",
     "orderComment": null,
@@ -57,7 +57,7 @@
     "subsequentCPTCode": "88343",
     "gCode": "G0461"
   },
-  "secondTest": {
+  "secondStain": {
     "stainType": "IHC",
     "stainId": "cd20",
     "orderComment": null,
@@ -87,6 +87,6 @@
     "subsequentCPTCode": "88343",
     "gCode": "G0461"
   },
-  "depricatedFirstTestId": "229",
-  "depricatedSecondTestId": "230"
+  "depricatedFirstStainId": "229",
+  "depricatedSecondStainId": "230"
 }
