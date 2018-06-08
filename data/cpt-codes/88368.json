@@ -9,7 +9,7 @@
   "gCode": null,
   "hasMedicareQuantityLimit": true,
   "medicareQuantityLimit": 1,
-  "svhCDMCode": null,
+  "svhCDMCode": "760806956",
   "svhCDMDescription": null,
   "modifiers": [
     {
