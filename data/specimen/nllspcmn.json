@@ -1,0 +1,12 @@
+{
+  "typeId": null,
+  "specimenId": "NLLSPCMN",
+  "specimenName": null,
+  "description": null,
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

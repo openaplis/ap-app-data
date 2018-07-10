@@ -1,0 +1,12 @@
+{
+  "typeId": "GBSPCMN",
+  "specimenId": "GBSPCMN",
+  "specimenName": "Gallbladder Excision",
+  "description": "Gallbladder, excision",
+  "cptCodeId": "88304",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

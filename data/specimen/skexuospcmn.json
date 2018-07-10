@@ -1,0 +1,12 @@
+{
+  "typeId": "SKEXUOSPCMN",
+  "specimenId": "SKEXUOSPCMN",
+  "specimenName": "Skin Excision Biopsy, Unoriented",
+  "description": "Skin, [site], excisional biopsy",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": "Formalin",
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

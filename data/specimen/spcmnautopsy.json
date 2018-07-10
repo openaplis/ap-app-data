@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMNAUTOPSY",
+  "specimenId": "SPCMNAUTOPSY",
+  "specimenName": "Autopsy Specimen",
+  "description": null,
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": "Formalin",
+  "labFixation": "Fomalin",
+  "requiresGrossExamination": false,
+  "processorRunId": null
+}

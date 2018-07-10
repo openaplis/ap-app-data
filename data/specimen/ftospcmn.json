@@ -1,0 +1,12 @@
+{
+  "typeId": "FTOSPCMN",
+  "specimenId": "FTOSPCMN",
+  "specimenName": "Fallopian Tube and Ovaries",
+  "description": null,
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

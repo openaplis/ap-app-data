@@ -1,0 +1,12 @@
+{
+  "typeId": "LPSPCMN",
+  "specimenId": "LPSPCMN",
+  "specimenName": "LEEP",
+  "description": "Cervix, LEEP",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

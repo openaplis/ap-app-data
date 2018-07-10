@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMNURINE",
+  "specimenId": "SPCMNURINE",
+  "specimenName": "Urine",
+  "description": "Urine",
+  "cptCodeId": "88112",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": false,
+  "processorRunId": null
+}

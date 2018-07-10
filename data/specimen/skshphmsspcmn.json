@@ -1,0 +1,12 @@
+{
+  "typeId": "SKSHPHMSSPCMN",
+  "specimenId": "SKSHPHMSSPCMN",
+  "specimenName": "Skin Shave Punch and Misc Biopsy",
+  "description": null,
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": "Formalin",
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

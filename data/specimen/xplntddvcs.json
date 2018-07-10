@@ -1,0 +1,12 @@
+{
+  "typeId": "XPLNTDDVCS",
+  "specimenId": "XPLNTDDVCS",
+  "specimenName": "Explanted Devices",
+  "description": null,
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": false,
+  "processorRunId": null
+}

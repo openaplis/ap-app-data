@@ -1,0 +1,12 @@
+{
+  "typeId": "LPPCSPCMN",
+  "specimenId": "LPPCSPCMN",
+  "specimenName": "LEEP Pieces",
+  "description": "Cervix, LEEP excision",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

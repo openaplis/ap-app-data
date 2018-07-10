@@ -13,6 +13,7 @@ var mappingFilePath = path.resolve('./data/mapping.json')
 //client.on("error", function (err) {
 //    console.log("Error " + err)
 //})
+
 var folderToUse = process.argv.slice(2)
 fs.readFile(mappingFilePath, 'utf8', function (err, data) {
   var folderMappings = JSON.parse(data)

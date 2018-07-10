@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMNPRSTTRDCLRSCTN",
+  "specimenId": "SPCMNPRSTTRDCLRSCTN",
+  "specimenName": "Prostate Radical Resection",
+  "description": "Prostate, radical resection",
+  "cptCodeId": "88309",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,12 @@
+{
+  "typeId": "MVSPCMN",
+  "specimenId": "MVSPCMN",
+  "specimenName": "Mitral Valve",
+  "description": "Mitral valve",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

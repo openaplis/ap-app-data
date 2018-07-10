@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMNTHNPRPFLD",
+  "specimenId": "SPCMNTHNPRPFLD",
+  "specimenName": "Thin Prep Fluid",
+  "description": "Thin Prep Fluid",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": "PreservCyt",
+  "labFixation": "PreservCyt",
+  "requiresGrossExamination": false,
+  "processorRunId": null
+}

@@ -1,0 +1,12 @@
+{
+  "typeId": "BRSTRDSPCMN",
+  "specimenId": "BRSTRDSPCMN",
+  "specimenName": "Breast Reduction",
+  "description": "[right/left] breast, reduction mammoplasty",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

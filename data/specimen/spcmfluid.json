@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMFLUID",
+  "specimenId": "SPCMFLUID",
+  "specimenName": "Fluid",
+  "description": "Fluid",
+  "cptCodeId": "88112",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

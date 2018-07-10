@@ -1,0 +1,12 @@
+{
+  "typeId": "BNBPSY",
+  "specimenId": "BNBPSY",
+  "specimenName": "Bone Biopsy",
+  "description": null,
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": false,
+  "processorRunId": null
+}

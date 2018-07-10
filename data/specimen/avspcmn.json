@@ -1,0 +1,12 @@
+{
+  "typeId": "AVSPCMN",
+  "specimenId": "AVSPCMN",
+  "specimenName": "Aortic Valve",
+  "description": "Aortic valve",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}
