@@ -1,0 +1,12 @@
+{
+  "typeId": "SKSHCSPCMN",
+  "specimenId": "SKSHCSPCMN",
+  "specimenName": "Skin Shave Biopsy with Curettings",
+  "description": null,
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": "Formalin",
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,12 @@
+{
+  "typeId": "NTLRDNG",
+  "specimenId": "NTLRDNG",
+  "specimenName": "Initial Reading",
+  "description": null,
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": false,
+  "processorRunId": null
+}

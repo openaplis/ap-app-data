@@ -1,0 +1,12 @@
+{
+  "typeId": "POCSPCMN",
+  "specimenId": "POCSPCMN",
+  "specimenName": "POC",
+  "description": "Uterine Contents",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,12 @@
+{
+  "typeId": "CVCLBSPYSPCMN",
+  "specimenId": "CVCLBSPYSPCMN",
+  "specimenName": "Cervical Biopsy",
+  "description": "Cervix, [site], biopsy",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,12 @@
+{
+  "typeId": "EMCSPCMN",
+  "specimenId": "EMCSPCMN",
+  "specimenName": "EMC",
+  "description": "Endometrium, curettings",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

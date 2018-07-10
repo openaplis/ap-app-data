@@ -13,5 +13,10 @@
     "folder": "stains",
     "key": "stainId",
     "redisIndex": 3
+  },
+  {
+    "folder": "specimen",
+    "key": "specimenId",
+    "redisIndex": 5
   }
 ]

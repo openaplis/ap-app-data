@@ -1,0 +1,12 @@
+{
+  "typeId": "TWNPLCNTWMSPCMN",
+  "specimenId": "TWNPLCNTWMSPCMN",
+  "specimenName": "Twin Placenta",
+  "description": "Twin Placenta",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 2,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

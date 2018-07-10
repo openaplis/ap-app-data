@@ -1,0 +1,12 @@
+{
+  "typeId": "ADSPCM",
+  "specimenId": "ADSPCM",
+  "specimenName": "Adenoid Excision",
+  "description": "Adenoids, excision",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

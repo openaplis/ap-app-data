@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMNBLDDRTTUR",
+  "specimenId": "SPCMNBLDDRTTUR",
+  "specimenName": "Bladder TUR",
+  "description": "Bladder, transurethral resection",
+  "cptCodeId": "88307",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

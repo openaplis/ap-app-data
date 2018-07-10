@@ -1,0 +1,12 @@
+{
+  "typeId": "FHSPCMN",
+  "specimenId": "FHSPCMN",
+  "specimenName": "Femoral Head",
+  "description": null,
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

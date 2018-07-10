@@ -1,0 +1,12 @@
+{
+  "typeId": "EMBSPCMN",
+  "specimenId": "EMBSPCMN",
+  "specimenName": "EMB",
+  "description": "Endometrium, biopsy",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}
