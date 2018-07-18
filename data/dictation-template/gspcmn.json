@@ -1,0 +1,9 @@
+{
+  "templateId": "gspcmn",
+  "templateName": "GI Specimen",
+  "text": "[identifier] and consists of [number] tan-pink tissue fragment[?s?] measuring [measurement] [?in aggregate?].  The specimen is filtered through a fine mesh bag and [cassettesummary].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "GISPCMN"
+  ]
+}

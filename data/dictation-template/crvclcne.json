@@ -1,0 +1,9 @@
+{
+  "templateId": "crvclcne",
+  "templateName": "CervicalCone",
+  "text": "[identifier].\r\nGross Description:  [color], [characteristics]\r\nMeasurement:  [measurement]\r\nOs:  [description], [measurement]\r\nInking:  [description]\r\nSubmitted:  [submitted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "CXCNSPCMN"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "templateId": "mtrlvlve",
+  "templateName": "Mitral Valve",
+  "text": "[identifier].\r\nLeaflets Description:  [description]\r\nMeasurements:  [measurements]\r\nChordae:  [description]\r\nSubmitted:  [representativesections] [?for decalcification prior to processing?].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "MVSPCMN"
+  ]
+}

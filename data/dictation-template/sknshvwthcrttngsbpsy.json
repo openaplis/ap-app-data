@@ -1,0 +1,9 @@
+{
+  "templateId": "sknshvwthcrttngsbpsy",
+  "templateName": "Skin Shave with Curettings Biopsy",
+  "text": "[identifier].\r\nGross Description:  [description]\r\nMeasurements:  [measurements]; Curettings: [measurement]\r\nSubmitted:  [curettingssubmitted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SKSHCSPCMN"
+  ]
+}

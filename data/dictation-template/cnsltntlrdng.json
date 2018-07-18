@@ -1,0 +1,9 @@
+{
+  "templateId": "cnsltntlrdng",
+  "templateName": "Consult Initial Reading",
+  "text": "Received from [physicianname] ([clientname] - [clientcitystate]) are [clientaccessionedslidecount] and [blockcount] labeled [clientaccession] for patient \"[patientname]\" for pathologist interpretation. ",
+  "useAppendInitials": false,
+  "specimenIds": [
+    "NTLRDNG"
+  ]
+}

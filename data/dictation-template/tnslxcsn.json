@@ -1,0 +1,9 @@
+{
+  "templateId": "tnslxcsn",
+  "templateName": "Tonsil Excision",
+  "text": "[identifier].\r\nGross Description:  [quantity] tan-pink, lobular, palatine [tonsils].\r\nWeight:  [weight] grams.\r\n[measurementstring]\r\nCut Surface:  [description]\r\nSubmitted:  [representativesectionsagerestricted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "TNSLSPCM"
+  ]
+}

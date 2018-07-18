@@ -1,0 +1,9 @@
+{
+  "templateId": "sknxcsnbpsywthcrttngsrntd",
+  "templateName": "Skin Excision Biopsy with Curettings, Oriented",
+  "text": "[identifier].\r\nGross Description:  Oriented excision with curettings.\r\nMeasurements:  [measurements]; Curettings: [measurements]\r\nOrientation:  [designation]\r\nInking:  12 to 3 o'clock = blue; 3 to 6 o'clock = red; 6 to 9 o'clock = green; 9 to 12 o'clock = orange; deep = black.  \r\nSectioning:  [description]\r\nSubmitted:  [tipssubmittedwithcurettings].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SKEXOCSPCMN"
+  ]
+}

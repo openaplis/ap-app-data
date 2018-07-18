@@ -1,0 +1,9 @@
+{
+  "templateId": "kntsse",
+  "templateName": "Knee Tissue",
+  "text": "[identifier] and consists of [number] fragments of soft tissue and bone aggregating to [measurement].  Recognizable tibial plateau and femoral condyles [are/not] identified. The articular surface shows [description] eburnationand [description] osteophyte formation. Sectioning reveals tan-yellow trabecular bone.  Sections are not submitted for microscopic evaluation.  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "KTSPCMN"
+  ]
+}

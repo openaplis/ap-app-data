@@ -1,0 +1,10 @@
+{
+  "templateId": "emb",
+  "templateName": "EMB",
+  "text": "[identifier].\r\nGross Description:  Multiple tan-pink fragments of tissue and mucus.\r\nMeasurement:  [measurement]\r\nSubmitted:  Filtered through a fine mesh bag and [cassettesummary].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "EMBSPCMN",
+    "EMCSPCMN"
+  ]
+}

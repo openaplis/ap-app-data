@@ -1,0 +1,9 @@
+{
+  "templateId": "ndlcrbpsy",
+  "templateName": "Needle Core Biopsy",
+  "text": "[identifier] and consists of [number] [color] threadlike tissue fragments measuring [measurement] in aggregate.  They are filtered through a fine mesh bag and [cassettesummary].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "NCBSPCMN"
+  ]
+}

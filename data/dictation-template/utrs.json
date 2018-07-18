@@ -1,0 +1,9 @@
+{
+  "templateId": "utrs",
+  "templateName": "Uterus",
+  "text": "[identifier].\r\n\r\nUterine Corpus:\r\n   Weight:  [weight] grams.\r\n   Dimensions:  [measurements]\r\nSerosa: [description]\r\nCervix: [description]\r\n   Measurement:  [measurement] \r\n   Os:  [description], [measurement]\r\nSectioning of Uterus and Cervix:\r\n   Endocervical Canal:  [description]\r\n   Endometrial Cavity: \r\n      Description:  [description]\r\n      Dimensions:  [measurement]\r\n      Endometrial Thickness:  [thickness]\r\n   Myometrium:\r\n      Myometrial Thickness:  [thickness]\r\n      Lesions in Myometrium:  [description]\r\n\r\n[summarysubmission].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "UTRSSPCMN"
+  ]
+}

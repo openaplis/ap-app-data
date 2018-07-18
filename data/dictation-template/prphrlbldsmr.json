@@ -1,0 +1,9 @@
+{
+  "templateId": "prphrlbldsmr",
+  "templateName": "Peripheral Blood Smear",
+  "text": "Received are [slidecount] [unstained/stained] peripheral blood smear[?s?] labeled \"[patientname]\" for pathologist review.  ",
+  "useAppendInitials": false,
+  "specimenIds": [
+    "SPCPBS"
+  ]
+}

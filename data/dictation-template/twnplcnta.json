@@ -1,0 +1,9 @@
+{
+  "templateId": "twnplcnta",
+  "templateName": "TwinPlacenta",
+  "text": "[identifier] and consists of a twin placenta with two umbilical cord and attached membranes.\r\n\r\nExtraplacental Membranes:\r\n   Dividing Membrane:  [present/absent]\r\n      Description:  [description]\r\n      Intervening chorion:  [present/absent/indeterminate]\r\n   Color:  [color]\r\n   Amnion Nodosum:  [description]\r\n   Cysts:  [description]\r\n   Point of Rupture:  [description]\r\n\r\nUmbilical Cord:\r\n   Designations:\r\n      Twin A:  [designation]\r\n      Twin B:  [designation]\r\n   Length:\r\n      Twin A:  [length]\r\n      Twin B:  [length]\r\n   Insertion:\r\n      Twin A:  [insertion]\r\n      Twin B:  [insertion]\r\n   Vessels:\r\n      Twin A:  [number]\r\n      Twin B:  [number]\r\n   Knots:\r\n      Twin A:  [description]\r\n      Twin B:  [description]\r\n   Coiling:\r\n      Twin A:  [description]\r\n      Twin B:  [description]\r\n\r\nPlacental Disc:\r\n   Weight:  [weight] grams.\r\n   Shape:  [shape]\r\n   Measurements:  [measurement]\r\n   Fetal Surface:\r\n      Fetal Surface:  [description]\r\n      Amnion Nodosum:  [description]\r\n      Cysts:  [description]\r\n   Maternal Surface:\r\n      Hemorrhage:  [description]\r\n         Adherent:  [measurement], [description]\r\n         Non-Adherent:  [measurement]\r\n      Maternal Surface:  [description]\r\n      Surface Infarcts:  [description]\r\n   Sectioned at 1 cm intervals:\r\n       Infarcts:  [description]\r\n       Cysts:  [description]\r\n\r\nCassette Summary: \r\n\"1A\" - Twin A umbilical cord and membranes, \r\n\"1B\" - \"1D\" - Twin A central placenta, \r\n\"1E\" -Twin B umbilical cord and membranes\r\n\"1F\" - \"1I\" - Twin B central placenta\r\n[?\"1G\" - Dividing membranes ?]",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "TWNPLCNTWMSPCMN"
+  ]
+}

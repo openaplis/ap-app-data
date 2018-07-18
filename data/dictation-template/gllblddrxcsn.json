@@ -1,0 +1,9 @@
+{
+  "templateId": "gllblddrxcsn",
+  "templateName": "Gallbladder Excision",
+  "text": "[identifier].\r\nSpecimen Integrity:  [description]\r\nMeasurements:  [measurement]\r\nSerosal Surface:  [description]\r\nAdventitial Surface:  [description]\r\nMural Defects:  [description]\r\nLoose Stones:  [description]\r\nLuminal Contents:  [description]\r\nMucosal Surface:  [description]\r\nWall Thickness:  [thickness]\r\nSubmitted:  [representativesections].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "GBSPCMN"
+  ]
+}
