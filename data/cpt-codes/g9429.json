@@ -1,6 +1,7 @@
 {
   "code": "G9429",
   "description": "Code for medical exclusions",
+  "comment": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,

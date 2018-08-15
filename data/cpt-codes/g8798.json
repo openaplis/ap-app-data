@@ -1,6 +1,7 @@
 {
   "code": "G8798",
   "description": "Specimen Site other than anatomic location of prostate.",
+  "comment": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,

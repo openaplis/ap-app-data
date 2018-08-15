@@ -1,6 +1,7 @@
 {
   "code": "G8722",
   "description": "The medical reason(s) for not including pT category, pN category, and histologic grade are included the the pathology report.",
+  "comment": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,

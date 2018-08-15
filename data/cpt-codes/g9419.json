@@ -1,6 +1,7 @@
 {
   "code": "G9419",
   "description": "Lung Cancer Reporting - Medical Exclusions",
+  "comment": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
