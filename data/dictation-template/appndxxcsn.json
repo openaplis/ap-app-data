@@ -1,0 +1,9 @@
+{
+  "templateId": "appndxxcsn",
+  "templateName": "Appendix Excision",
+  "text": "[identifier].\r\nSpecimen Integrity:  [description]\r\nMeasurements:  [measurement]\r\nSerosal Surface:  [description]\r\nMesoappendix:  [measurement], [description]\r\nPertinent Abnormalities:  [description]\r\nLuminal Contents:  [description]\r\nFecaliths:  [description] [measurement], [description]\r\nSubmitted:  [representativesections].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "APPNDXXCSN"
+  ]
+}

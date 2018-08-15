@@ -1,0 +1,9 @@
+{
+  "templateId": "cnslt",
+  "templateName": "Consult",
+  "text": "Received in consultation from [physicianname] ([clientname] - [clientcitystate]) are [clientaccessionedslidecount] and [blockcount] labeled [clientaccession] for patient \"[patientname]\".  ",
+  "useAppendInitials": false,
+  "specimenIds": [
+    "CNSLT"
+  ]
+}

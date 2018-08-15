@@ -1,0 +1,9 @@
+{
+  "templateId": "sknshvpnchndmscbpsy",
+  "templateName": "Skin Shave Punch and Misc Biopsy",
+  "text": "[identifier].\r\nGross Description:  [description]\r\nMeasurements:  [measurements]\r\nSubmitted:  [submitted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SKSHPHMSSPCMN"
+  ]
+}

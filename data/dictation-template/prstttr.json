@@ -1,0 +1,9 @@
+{
+  "templateId": "prstttr",
+  "templateName": "Prostate TUR",
+  "text": "[identifiernodescription] and consists of [number] irregular ragged tan-pink tissue fragment[?s?] weighing [weight] grams and measuring [measurement] [?in aggregate?].  [representativesections].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SPCMNPRSTTTUR"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "templateId": "blddrtr",
+  "templateName": "Bladder TUR",
+  "text": "[identifiernodescription] and consists of [number] irregular ragged tan-pink tissue fragment[?s?] measuring [measurement] [?in aggregate?]. The specimen is filtered through a fine mesh bag and [cassettesummary].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SPCMNBLDDRTTUR"
+  ]
+}

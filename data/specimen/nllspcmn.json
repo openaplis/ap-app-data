@@ -5,8 +5,8 @@
   "description": null,
   "cptCodeId": null,
   "cptCodeQuantity": 1,
-  "clientFixation": null,
-  "labFixation": null,
+  "clientFixation": "Formalin",
+  "labFixation": "Formalin",
   "requiresGrossExamination": true,
   "processorRunId": null
 }

@@ -1,0 +1,9 @@
+{
+  "templateId": "tnsldndxcsn",
+  "templateName": "Tonsil Adenoid Excision",
+  "text": "[identifier].\r\nTonsils:  Two tan-pink, lobular, palatine tonsils.\r\nAdenoids:  [description]\r\nWeight:  [weight] grams.\r\nMeasurement Tonsil 1:  [measurement]\r\nMeasurement Tonsil 2:  [measurement]\r\nMeasurement Adenoids:  [measurement]\r\nCut Surface:  [description]\r\nSubmitted:  [representativesectionsagerestricted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "TNSLADSPCM"
+  ]
+}

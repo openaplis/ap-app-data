@@ -1,0 +1,9 @@
+{
+  "templateId": "prsttndlcre",
+  "templateName": "Prostate Needle Core",
+  "text": "[identifier] and consists of [number] tan-pink cylindrical tissue fragments measuring [measurement] in aggregate.  The specimen is [cassettesummary].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SPCMNPRSTTNDLBPSY"
+  ]
+}

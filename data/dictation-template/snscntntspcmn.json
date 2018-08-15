@@ -1,0 +1,9 @@
+{
+  "templateId": "snscntntspcmn",
+  "templateName": "Sinus Content Specimen",
+  "text": "[identifier] and consists of multiple fragments of tan-pink tissue and bone aggregating to [measurement].  They are filtered through a fine mesh bag and [cassettesummary] [?for decalcification prior to processing?].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SCSPCMN"
+  ]
+}

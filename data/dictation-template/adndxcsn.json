@@ -1,0 +1,9 @@
+{
+  "templateId": "adndxcsn",
+  "templateName": "Adenoid Excision",
+  "text": "[identifier].\r\nGross Description:  [description]\r\nWeight:  [weight] grams.\r\nMeasurement Adenoids:  [measurement]\r\nCut Surface:  [description]\r\nSubmitted:  [representativesectionsagerestricted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "ADSPCM"
+  ]
+}
