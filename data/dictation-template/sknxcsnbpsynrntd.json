@@ -1,0 +1,9 @@
+{
+  "templateId": "sknxcsnbpsynrntd",
+  "templateName": "Skin Excision Biopsy, Unoriented",
+  "text": "[identifier].\r\nGross Description:  Unoriented excision.\r\nMeasurements:  [measurements]\r\nInking:  [color]\r\nSectioning:  [description]\r\nSubmitted:  [tipssubmitted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SKEXUOSPCMN"
+  ]
+}

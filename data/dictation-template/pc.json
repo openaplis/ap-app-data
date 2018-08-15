@@ -1,0 +1,9 @@
+{
+  "templateId": "pc",
+  "templateName": "POC",
+  "text": "[identifier].\r\nGross Description:  [description]\r\nMeasurement:  [measurement]\r\nVilli:  [present/not present]\r\nFetal Parts:  [description]\r\nSubmitted:  [representativesections].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "POCSPCMN"
+  ]
+}

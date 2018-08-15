@@ -1,0 +1,9 @@
+{
+  "templateId": "lp",
+  "templateName": "LEEP",
+  "text": "[identifier].\r\nGross Description:  [color], [characteristics]\r\nMeasurement:  [measurement]\r\nOs:  [present/not present], [description/measurement]\r\nInking:  [description]\r\nSubmitted:  [submitted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "LPSPCMN"
+  ]
+}

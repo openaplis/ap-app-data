@@ -1,0 +1,9 @@
+{
+  "templateId": "snglplcnta",
+  "templateName": "SinglePlacenta",
+  "text": "[identifier] and consists of a singleton placenta with umbilical cord and attached membranes.\r\n\r\nUmbilical Cord:\r\n   Length:  [length]\r\n   Insertion:  [insertion]\r\n   Vessels:  [number]\r\n   Knots:  [description]\r\n   Coiling:  [description]\r\n\r\nExtraplacental Membranes:\r\n   Insertion:  [insertion]\r\n   Color:  [color]\r\n   Amnion Nodosum:  [description]\r\n   Cysts:  [description]\r\n   Point of Rupture:  [description]\r\n\r\nPlacental Disc:\r\n   Weight:  [weight] grams.\r\n   Shape:  [shape]\r\n   Measurements:  [measurement]\r\n   Fetal Surface:\r\n      Fetal Surface:  [description]\r\n      Amnion Nodosum:  [description]\r\n      Cysts:  [description]\r\n   Maternal Surface:\r\n      Hemorrhage:  \r\n         Adherent:  [measurement], [description]\r\n         Non-Adherent:  [measurement]\r\n      Maternal Surface:  [description]\r\n      Surface Infarcts:  [description]\r\n   Sectioned at 1 cm intervals:\r\n       Infarcts:  [description]\r\n       Cysts:  [description]\r\n\r\nCassette Summary: \r\n\"1A\" - Cord from both ends, \r\n\"1B\" - Membranes, \r\n\"1C\" - \"1D\" - Central placenta/infarcts.  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SNGLPLCNTSPCMN"
+  ]
+}

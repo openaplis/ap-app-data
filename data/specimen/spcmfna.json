@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMFNA",
+  "specimenId": "SPCMFNA",
+  "specimenName": "FNA",
+  "description": "FNA",
+  "cptCodeId": "88173",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

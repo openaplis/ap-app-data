@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMNPRSTTTUR",
+  "specimenId": "SPCMNPRSTTTUR",
+  "specimenName": "Prostate TUR",
+  "description": "Prostate, transurethral resection",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,12 @@
+{
+  "typeId": "CXCNSPCMN",
+  "specimenId": "CXCNSPCMN",
+  "specimenName": "Cervical Cone",
+  "description": "Cervix, cone, excision",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

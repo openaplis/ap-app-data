@@ -1,0 +1,12 @@
+{
+  "typeId": "UTRSSPCMN",
+  "specimenId": "UTRSSPCMN",
+  "specimenName": "Uterus Resection",
+  "description": "Uterus and cervix, resection",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,9 @@
+{
+  "templateId": "artcvlve",
+  "templateName": "Aortic Valve",
+  "text": "[identifier].\r\nGross Description: [description]\r\nMeasurements: [measurements]\r\nCalcification: [present/not present]\r\nVegetation: [present/not present]\r\nSubmitted: [representativesections] [?for decalcification prior to processing?].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "AVSPCMN"
+  ]
+}

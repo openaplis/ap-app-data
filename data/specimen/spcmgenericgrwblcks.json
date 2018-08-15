@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMGENERICGRWBLCKS",
+  "specimenId": "SPCMGENERICGRWBLCKS",
+  "specimenName": "Generic Specimen, Gross Required With Blocks",
+  "description": null,
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,12 @@
+{
+  "typeId": "GISPCMN",
+  "specimenId": "GISPCMN",
+  "specimenName": "GI Biopsy",
+  "description": null,
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": "Formalin",
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

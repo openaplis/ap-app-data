@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCMGENERICGO",
+  "specimenId": "SPCMGENERICGO",
+  "specimenName": "Generic Specimen, Gross Only",
+  "description": null,
+  "cptCodeId": "88300",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": false,
+  "processorRunId": null
+}

@@ -1,0 +1,9 @@
+{
+  "templateId": "fllpntbndvrsspcmn",
+  "templateName": "Fallopian Tube and Ovaries Specimen",
+  "text": "[identifier].\r\n\r\nRight Fallopian Tube: \r\n      Dimensions:  [measurements]([w/wo] fimbriated end)\r\n      Surface:  [description/paratubal cysts absent/present]\r\n      Inked:  [color]\r\nRight Ovary:\r\n      Dimensions:  [measurement]\r\n      Surface:  [description]\r\n      Cut Surface:  [description]\r\nLeft Fallopian Tube: \r\n      Dimensions:  [measurements]([w/wo] fimbriated end)\r\n      Surface:  [description/paratubal cysts absent/present]\r\n      Inked:  [color]\r\nLeft Ovary:\r\n      Dimensions:  [measurement]\r\n      Surface:  [description]\r\n      Cut Surface:  [description]\r\n\r\n[summarysubmission].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "FTOSPCMN"
+  ]
+}

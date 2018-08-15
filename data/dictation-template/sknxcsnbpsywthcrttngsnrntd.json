@@ -1,0 +1,9 @@
+{
+  "templateId": "sknxcsnbpsywthcrttngsnrntd",
+  "templateName": "Skin Excision Biopsy with Curettings, Unoriented",
+  "text": "[identifier].\r\nGross Description:  Unoriented excision with curettings.\r\nMeasurements:  [measurements]; Curettings: [measurements]\r\nInking:  [color]\r\nSectioning:  [description]\r\nSubmitted:  [tipssubmittedwithcurettings].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "SKEXUOCSPCMN"
+  ]
+}

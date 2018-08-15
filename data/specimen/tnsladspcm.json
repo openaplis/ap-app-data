@@ -1,0 +1,12 @@
+{
+  "typeId": "TNSLADSPCM",
+  "specimenId": "TNSLADSPCM",
+  "specimenName": "Tonsil and Adenoids Excision",
+  "description": "Right and left tonsils with adenoids, excision",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,9 @@
+{
+  "templateId": "fmrlhd",
+  "templateName": "Femoral Head",
+  "text": "[identifier] and consists of a [description] femoral head with attached femoral neck measuring [measurement].  The femoral neck margin is [description]. The articular surface shows [percent] eburnation and [percent] osteophyte formation.  Sectioning reveals tan-yellow trabecular bone. [representativesections] [?following overnight decalcification?].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "FHSPCMN"
+  ]
+}

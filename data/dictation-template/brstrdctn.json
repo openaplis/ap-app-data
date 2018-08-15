@@ -1,0 +1,9 @@
+{
+  "templateId": "brstrdctn",
+  "templateName": "BreastReduction",
+  "text": "[identifier].\r\nGross Description:  [description]\r\nWeight:  [weight] grams.\r\nMeasurement:  [measurement]\r\nCut Surface:  [description]\r\nSubmitted:  [representativesections].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "BRSTRDSPCMN"
+  ]
+}

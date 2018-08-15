@@ -1,0 +1,12 @@
+{
+  "typeId": "APPNDXXCSN",
+  "specimenId": "APPNDXXCSN",
+  "specimenName": "Appendix Excision",
+  "description": "Appendix, excision",
+  "cptCodeId": "88304",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

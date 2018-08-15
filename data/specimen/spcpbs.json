@@ -1,0 +1,12 @@
+{
+  "typeId": "SPCPBS",
+  "specimenId": "SPCPBS",
+  "specimenName": "Peripheral Blood Smear",
+  "description": "Peripheral Blood Smear",
+  "cptCodeId": "85060",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": null,
+  "requiresGrossExamination": false,
+  "processorRunId": null
+}

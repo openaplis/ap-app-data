@@ -1,0 +1,12 @@
+{
+  "typeId": "SNGLPLCNTSPCMN",
+  "specimenId": "SNGLPLCNTSPCMN",
+  "specimenName": "Placenta",
+  "description": "Placenta",
+  "cptCodeId": "88307",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -1,0 +1,12 @@
+{
+  "typeId": "SCSPCMN",
+  "specimenId": "SCSPCMN",
+  "specimenName": "Sinus Content",
+  "description": "[Right/Left] sinus content",
+  "cptCodeId": "88305",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

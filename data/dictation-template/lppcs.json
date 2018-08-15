@@ -1,0 +1,9 @@
+{
+  "templateId": "lppcs",
+  "templateName": "LEEPPieces",
+  "text": "[identifier].\r\nGross Description:  [color], [characteristics]\r\nMeasurement:  [measurement]\r\nInking:  [description]\r\nSubmitted:  [submitted].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "LPPCSPCMN"
+  ]
+}

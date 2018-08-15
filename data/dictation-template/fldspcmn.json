@@ -1,0 +1,11 @@
+{
+  "templateId": "fldspcmn",
+  "templateName": "Fluid Specimen",
+  "text": "[Specimen] is received in CytoLyt in a container labeled \"[patientname]\" and consists of [Quantity] ml of [Color] fluid [?with particulate?].  The specimen is submitted for selective cellular enhancement processing.[cellblock]",
+  "useAppendInitials": false,
+  "specimenIds": [
+    "SPCMFLUID",
+    "SPCMNURINE",
+    "SPCMFNA"
+  ]
+}

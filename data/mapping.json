@@ -5,13 +5,23 @@
   "redisIndex": 1
   },
   {
-  "folder": "icd-codes",
-  "key": "icdCodeId",
-  "redisIndex": 4
+  "folder": "dictation-template",
+  "key": "templateId",
+  "redisIndex": 2
   },
   {
     "folder": "stains",
     "key": "stainId",
     "redisIndex": 3
+  },
+  {
+  "folder": "icd-codes",
+  "key": "icdCodeId",
+  "redisIndex": 4
+  },
+  {
+    "folder": "specimen",
+    "key": "specimenId",
+    "redisIndex": 5
   }
 ]

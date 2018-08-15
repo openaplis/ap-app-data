@@ -1,0 +1,9 @@
+{
+  "templateId": "fllpntbspcmn",
+  "templateName": "Fallopian Tube Specimen",
+  "text": "[identifier].\r\nFallopian Tube 1:\r\n  Dimensions:  [measurements] ([w/wo] fimbriated end)\r\n  Surface:  [description] [paratubal cysts absent/present]\r\n  Inked:  [color]\r\nFallopian Tube 2:\r\n  Dimensions:  [measurements] ([w/wo] fimbriated end)\r\n  Surface:  [description] [paratubal cysts absent/present]\r\n  Inked:  [color]\r\nSubmitted:  [representativesections].  ",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "FTSPCMN"
+  ]
+}

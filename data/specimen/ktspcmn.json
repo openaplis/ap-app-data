@@ -1,0 +1,12 @@
+{
+  "typeId": "KTSPCMN",
+  "specimenId": "KTSPCMN",
+  "specimenName": "Knee Tissue",
+  "description": null,
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}
