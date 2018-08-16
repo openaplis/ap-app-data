@@ -1,12 +1,12 @@
 {
   "typeId": null,
-  "specimenId": "NLLSPCMN",
+  "specimenId": null,
   "specimenName": null,
   "description": null,
   "cptCodeId": null,
   "cptCodeQuantity": 1,
-  "clientFixation": "Formalin",
-  "labFixation": "Formalin",
+  "clientFixation": null,
+  "labFixation": null,
   "requiresGrossExamination": true,
   "processorRunId": null
 }
