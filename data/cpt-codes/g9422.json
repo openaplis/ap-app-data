@@ -1,6 +1,7 @@
 {
   "code": "G9422",
   "description": "Lung Cancer Reporting - Performance Met",
+  "comment": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,

@@ -1,6 +1,7 @@
 {
   "code": "G9420",
   "description": "Lung Cancer Reporting - Other Exclusions",
+  "comment": "Specimen is not of lung origin or is not classified as non-small cell lung cancer",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,

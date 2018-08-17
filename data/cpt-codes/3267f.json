@@ -1,6 +1,7 @@
 {
   "code": "3267F",
   "description": "Pathology report includes pT category, pN category, Gleason score, and statement about margins.",
+  "comment": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,

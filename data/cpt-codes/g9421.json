@@ -1,6 +1,7 @@
 {
   "code": "G9421",
   "description": "Lung Cancer Reporting - Performance Not Met",
+  "comment": null,
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,

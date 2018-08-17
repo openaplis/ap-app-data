@@ -1,6 +1,7 @@
 {
   "code": "G9418",
   "description": "Lung Cancer Reporting - Performance met",
+  "comment": "Primary Nonsmall cell lung cancer biopsy and cytology specimen report documents classification into specific histologic type OR classified as NSCLC-NOS with an explanation",
   "feeSchedule": 2,
   "hasTechnicalComponent": false,
   "hasProfessionalComponent": false,
