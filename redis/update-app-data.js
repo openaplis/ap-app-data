@@ -3,9 +3,13 @@ var fs = require('fs')
 var redis = require('redis')
 var async = require('async')
 
+<<<<<<< HEAD
  var client = redis.createClient(6379, '10.1.1.54') // local
+=======
+// var client = redis.createClient(6379, 'localhost') // local
+>>>>>>> d5de9c96c75698007925150fb5ce6afff91da92f
 // var client = redis.createClient(30075, '10.1.2.70') //dev
-//var client = redis.createClient('', '10.1.2.70')  //prod
+var client = redis.createClient('32299', '10.1.2.70')  //prod
 //var client = redis.createClient('6379', '10.1.2.25')  //depreciated
 var dataFolderPath = path.resolve('./data')
 var mappingFilePath = path.resolve('./data/mapping.json')
