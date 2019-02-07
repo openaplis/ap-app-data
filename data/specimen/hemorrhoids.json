@@ -1,0 +1,11 @@
+{
+  "specimenId": "HMRRHDS",
+  "specimenName": "Hemorrhoids",
+  "description": "Hemorrhoids",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

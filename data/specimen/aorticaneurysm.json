@@ -1,0 +1,11 @@
+{
+  "specimenId": "AORTCNRYSM",
+  "specimenName": "Aortic Aneurysm",
+  "description": "Aortic Aneurysm",
+  "cptCodeId": null,
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}
