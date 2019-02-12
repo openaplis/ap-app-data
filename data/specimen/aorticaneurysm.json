@@ -2,7 +2,7 @@
   "specimenId": "AORTCNRYSM",
   "specimenName": "Aortic Aneurysm",
   "description": "Aortic Aneurysm",
-  "cptCodeId": null,
+  "cptCodeId": "88304",
   "cptCodeQuantity": 1,
   "clientFixation": null,
   "labFixation": "Formalin",
