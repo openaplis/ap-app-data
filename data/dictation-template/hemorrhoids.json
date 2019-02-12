@@ -1,7 +1,7 @@
 {
   "templateId": "hmrrhds",
   "templateName": "hemorrhoids",
-  "text": "[identifier].\r\nGross Description:  [number] [color] fragments of [wrinkled/smooth] [mucosa/skin]./r/nMeasurements:  [measurements] in aggregate./r/nSerial sectioning:  [color], [texture], [lesions if any]./r/nRepresentative sections are submitted in [cassette #].",
+  "text": "[identifier].\r\nGross Description:  [number] [color] fragments of [wrinkled/smooth] [mucosa/skin]./r/nMeasurements:  [measurements] in aggregate./r/nSectioning:  [color], [texture], [lesions if any]./r/n[Representative sections/Entirely] submitted in [cassette #].",
   "useAppendInitials": true,
   "specimenIds": [
     "HMRRHDS"
