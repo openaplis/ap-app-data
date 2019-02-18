@@ -3,7 +3,7 @@ var fs = require('fs')
 var redis = require('redis')
 var async = require('async')
 
-// var client = redis.createClient(6379, '10.1.1.54') // Sid
+//var client = redis.createClient(6379, '10.1.1.54') // Sid
 // var client = redis.createClient(6379, 'localhost') // local
 // var client = redis.createClient(30075, '10.1.2.70') //dev
 var client = redis.createClient('32299', '10.1.2.70')  //prod

@@ -1,7 +1,7 @@
 {
   "specimenId": "TNSLSPCM",
   "specimenName": "Tonsil Excision",
-  "description": "[Right/Left] tonsils, excision",
+  "description": "[Right/Left] tonsil, excision",
   "cptCodeId": null,
   "cptCodeQuantity": 1,
   "clientFixation": null,
