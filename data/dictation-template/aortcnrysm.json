@@ -1,0 +1,9 @@
+{
+  "templateId": "aortcnrysm",
+  "templateName": "AorticAneurysm",
+  "text": "[identifier].\r\nGross Description:  [One piece/Multiple pieces] of artery measuring [measurement][in greatest dimensions/in aggregate].\r\nIntimal Surface:  [color] and [smooth/nodular/ulcerated].\r\nAdventitial Surface:  [color] and [smooth/ragged/hemorrhagic].\r\nSectioning:  [color], [calcified/not calcified], [hemorrhagic/not hemorrhagic].\r\n[Representative sections/Entirely] submitted in [cassette #].",
+  "useAppendInitials": true,
+  "specimenIds": [
+    "AORTCNRYSM"
+  ]
+}

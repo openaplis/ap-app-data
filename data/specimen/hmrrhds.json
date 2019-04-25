@@ -1,0 +1,11 @@
+{
+  "specimenId": "HMRRHDS",
+  "specimenName": "Hemorrhoids",
+  "description": "Anorectal tissue, excision",
+  "cptCodeId": "88304",
+  "cptCodeQuantity": 1,
+  "clientFixation": null,
+  "labFixation": "Formalin",
+  "requiresGrossExamination": true,
+  "processorRunId": null
+}

@@ -10,7 +10,6 @@
   "hasMedicareQuantityLimit": false,
   "medicareQuantityLimit": 0,
   "svhCDMCode": "760805890",
-
   "svhCDMDescription": "SURG PATH LEVEL-I GROSS EXAM ONLY",
   "modifiers": [
     {
